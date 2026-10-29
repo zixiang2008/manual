@@ -1,0 +1,16 @@
+services:
+  chiangmai-life:
+    build: .
+    restart: unless-stopped
+    ports: ["127.0.0.1:3010:3000"]
+    environment:
+      SESSION_SECRET: "${SESSION_SECRET:?set SESSION_SECRET}"
+      PIN_USERS_JSON: "${PIN_USERS_JSON:?set PIN_USERS_JSON}"
+      NOTION_TOKEN: "${NOTION_TOKEN:-}"
+      NOTION_PAGE_ID: "${NOTION_PAGE_ID:-299be1e3471d8084bf4dfaca41a024e5}"
+      SYNC_INTERVAL_MINUTES: "${SYNC_INTERVAL_MINUTES:-360}"
+      GOOGLE_MAPS_API_KEY: "${GOOGLE_MAPS_API_KEY:-}"
+    volumes:
+      - "./runtime:/app/runtime"
+      - "./data:/app/data"
+      - "./media:/app/public/media"

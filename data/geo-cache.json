@@ -1,0 +1,1372 @@
+{
+  "29fbe1e3471d80d9ac4ad81f28e071a2": {
+    "provider": "google-link-address",
+    "displayName": "Ban Pong Kum Hot Spring, ชม.3005, บ้านโป่งสามัคคี, Chill Cheers, อำเภอดอยสะเก็ด, จังหวัดเชียงใหม่, ประเทศไทย",
+    "location": {
+      "lat": 18.9097662,
+      "lng": 99.2454326
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/j4WoaeSDih85khph7?g_st=ipc",
+    "resolvedAt": "2026-10-16T22:20:13.057Z"
+  },
+  "2ccbe1e3471d80408f71f2aecdef6d2e": {
+    "provider": "google-link-address",
+    "displayName": "โรงเรียนสอนขับรถ เชียงใหม่, บ้านหนองผึ้งเหนือ ซอย 6, บ้านหนองผึ้งเหนือ, หนองผึ้ง, ท่าวังตาล, อำเภอสารภี, จังหวัดเชียงใหม่, 50140, ประเทศไทย",
+    "location": {
+      "lat": 18.7418018,
+      "lng": 99.0151999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/oVDMCnx6Pn4TsGZA9?g_st=ic",
+    "resolvedAt": "2026-10-16T22:31:55.759Z"
+  },
+  "2b4be1e3471d80a19fb2d4a84078cf7c": {
+    "provider": "google-link",
+    "displayName": "One Nimman 免费课",
+    "location": {
+      "lat": 18.80006,
+      "lng": 98.9656607
+    },
+    "googleMapsUri": "https://www.google.com/maps/place/One+Nimman/@18.80006,98.9656607,17z/data=!3m1!4b1!4m5!3m4!1s0x30da3bd822efcd9b:0xbb4c31d13d08a11b!8m2!3d18.80006!4d98.9678494",
+    "resolvedAt": "2026-10-16T22:35:12.867Z"
+  },
+  "299be1e3471d80318dccd39f5dc1cfc1": {
+    "provider": "google-link",
+    "displayName": "古城周边课程及运动推荐",
+    "location": {
+      "lat": 18.7007521,
+      "lng": 98.9015879
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/u3RX1j6eDR4UDNR5A",
+    "resolvedAt": "2026-10-16T22:38:23.659Z"
+  },
+  "2c7be1e3471d8068b967c6e609770277": {
+    "provider": "google-link",
+    "displayName": "12 月节日",
+    "location": {
+      "lat": 18.750647,
+      "lng": 98.9284981
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/1pGhsDk6bth2GSiv8",
+    "resolvedAt": "2026-10-16T22:39:31.304Z"
+  },
+  "2aabe1e3471d809b9513c0203f87e6e2": {
+    "provider": "google-link-address",
+    "displayName": "The Baristro Coffee Roaster, 78, ถนน ป่าตัน, แขวงนครพิงค์, ตำบลป่าตัน, เทศบาลนครเชียงใหม่, สันผีเสื้อ, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50300, ประเทศไทย",
+    "location": {
+      "lat": 18.8171194,
+      "lng": 98.9992047
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/wkGLRwJ4hWQdjMAQ7?g_st=ic",
+    "resolvedAt": "2026-10-17T05:32:20.244Z"
+  },
+  "2b9be1e3471d80d7a9ead5fc688b0ec0": {
+    "provider": "google-link-address",
+    "displayName": "Street Coffee Crew, โทรคมนาคม ซอย 4, ช้างเผือก, ตำบลช้างเผือก, เทศบาลตำบลช้างเผือก, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50030, ประเทศไทย",
+    "location": {
+      "lat": 18.8077637,
+      "lng": 98.9649619
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/HFxjj5Z6eyhtS4di6?g_st=ic",
+    "resolvedAt": "2026-10-17T05:32:36.805Z"
+  },
+  "2b9be1e3471d80be9c80c66f9439a2fc": {
+    "provider": "google-link-address",
+    "displayName": "2StreetCoffeeCrew, ถนนเจ็ดยอด, ช้างเผือก, ตำบลช้างเผือก, เทศบาลตำบลช้างเผือก, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50030, ประเทศไทย",
+    "location": {
+      "lat": 18.8134612,
+      "lng": 98.968933
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Pts45romBzhnGqFB9?g_st=ic",
+    "resolvedAt": "2026-10-17T05:32:40.879Z"
+  },
+  "2b9be1e3471d805bbe0afedeaa9e354d": {
+    "provider": "google-link-address",
+    "displayName": "Buncha’s Slow Bar, ถนนเจริญประเทศ, แขวงเม็งราย, ตำบลช้างคลาน, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 55520, ประเทศไทย",
+    "location": {
+      "lat": 18.7834953,
+      "lng": 99.003024
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Pts45romBzhnGqFB9?g_st=ic",
+    "resolvedAt": "2026-10-17T05:32:44.696Z"
+  },
+  "2bdbe1e3471d803ab50aff4b5f34ca1b": {
+    "provider": "google-link-address",
+    "displayName": "Fern Forest Cafe, 54/1, ถนนสิงห์ราช, แขวงศรีวิชัย, ตำบลศรีภูมิ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50200, ประเทศไทย",
+    "location": {
+      "lat": 18.7933869,
+      "lng": 98.9820298
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/4Va4dBTjg9PXDN22A?g_st=ic",
+    "resolvedAt": "2026-10-17T05:32:48.728Z"
+  },
+  "2c7be1e3471d80a9a5cbe78155809639": {
+    "provider": "google-link-address",
+    "displayName": "Baan Kang Wat, ซอย ๖ รักษา, ตำบลสุเทพ, เทศบาลเมืองสุเทพ, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50200, ประเทศไทย",
+    "location": {
+      "lat": 18.7767499,
+      "lng": 98.9482643
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/dr7Zds2kA4W3muw26?g_st=ic",
+    "resolvedAt": "2026-10-17T05:33:01.107Z"
+  },
+  "2f6be1e3471d809f8257cdd6612ea7d8": {
+    "provider": "google-link-address",
+    "displayName": "Self service car wash, ซอย 12 บ้านนางเหลียว, หมู่บ้านศิรีพร 2, เทศบาลตำบลหนองจ๊อม, อำเภอสันทราย, จังหวัดเชียงใหม่, 50210, ประเทศไทย",
+    "location": {
+      "lat": 18.8334255,
+      "lng": 99.0203529
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/juP1ALkPGmbZaQCB9?g_st=ic",
+    "resolvedAt": "2026-10-17T05:33:26.321Z"
+  },
+  "324be1e3471d80218147ccca2544a52e": {
+    "provider": "google-link-address",
+    "displayName": "The Baristro Asian Style, ซอย 15 บ้านใหม่หลังมอ, บ้านใหม่หลังมอ, ตำบลสุเทพ, เทศบาลเมืองสุเทพ, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50200, ประเทศไทย",
+    "location": {
+      "lat": 18.789879,
+      "lng": 98.951663
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/xDNsKgkLNTmWjYqMA?g_st=ic",
+    "resolvedAt": "2026-10-17T05:33:30.550Z"
+  },
+  "2bfbe1e3471d805f890efe3d067b132b": {
+    "provider": "google-link-address",
+    "displayName": "Early Owls, ถนนหมื่่นด้ามพร้าคต, แขวงนครพิงค์, ช้างเผือก, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50300, ประเทศไทย",
+    "location": {
+      "lat": 18.8057262,
+      "lng": 98.9889111
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/V2YNJA8TUgmhrQnm6?g_st=ipc",
+    "resolvedAt": "2026-10-17T05:34:32.990Z"
+  },
+  "2b8be1e3471d80baad48c21bf7e1c2da": {
+    "provider": "google-link-address",
+    "displayName": "Arte Urban Suthep, ตำบลสุเทพ, เทศบาลเมืองสุเทพ, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, ประเทศไทย",
+    "location": {
+      "lat": 18.7633845,
+      "lng": 98.9512512
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/tUcY1XCQfRwA1w298?g_st=ic",
+    "resolvedAt": "2026-10-17T05:34:39.900Z"
+  },
+  "2debe1e3471d807cacc4cc5b63d77808": {
+    "provider": "google-link-address",
+    "displayName": "Cafe de Sot, 6, ถนนโสตศึกษา, แขวงศรีวิชัย, ช้างเผือก, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50300, ประเทศไทย",
+    "location": {
+      "lat": 18.8041183,
+      "lng": 98.9810926
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/rBbWnkBQdNCMZkEi6?g_st=ic",
+    "resolvedAt": "2026-10-17T05:34:45.897Z"
+  },
+  "2e0be1e3471d80478afefcaa83781dbd": {
+    "provider": "google-link-address",
+    "displayName": "Chom Cafe and Restaurant, 2/13 ม.2, ถนนสมโภชเชียงใหม่ 700 ปี, Serene Lake, ตำบลแม่เฮียะ, เทศบาลเมืองแม่เหียะ, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50100, ประเทศไทย",
+    "location": {
+      "lat": 18.7482571,
+      "lng": 98.9454271
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/qrN9wtGWQN76ZXhT7?g_st=ic",
+    "resolvedAt": "2026-10-17T05:35:57.046Z"
+  },
+  "2c8be1e3471d802f83e8efd5c703aada": {
+    "provider": "google-link-address",
+    "displayName": "Chill HOUSE, ถนนห้วยแก้ว ซอย3, แขวงศรีวิชัย, ตำบลสุเทพ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50200, ประเทศไทย",
+    "location": {
+      "lat": 18.8004224,
+      "lng": 98.9596344
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/B8YajgNSJXciXbAf8?g_st=ic",
+    "resolvedAt": "2026-10-17T05:36:13.180Z"
+  },
+  "2c1be1e3471d80d7b8b2d5a0ee976b54": {
+    "provider": "google-link-address",
+    "displayName": "Sababa Chiang Mai, 19, ถนนเจริญประเทศ 8, แขวงเม็งราย, ตำบลช้างคลาน, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50100, ประเทศไทย",
+    "location": {
+      "lat": 18.7815673,
+      "lng": 99.0007221
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/DJugF5PJFsXEWhm6A?g_st=ipc",
+    "resolvedAt": "2026-10-17T05:37:59.867Z"
+  },
+  "2cebe1e3471d8014a97cc610ab4fbb94": {
+    "provider": "google-link-address",
+    "displayName": "โรงเรียนสอนพิเศษภาษาจีนกวงหัว 邊龍光華中學, 1322, Ban Muang Khruea, แสนไห, อำเภอเวียงแหง, จังหวัดเชียงใหม่, ประเทศไทย",
+    "location": {
+      "lat": 19.6923241,
+      "lng": 98.621729
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/kDz5g88n9ADrSqAH6?g_st=ic",
+    "resolvedAt": "2026-10-17T05:38:12.821Z"
+  },
+  "2cfbe1e3471d806099c2e0101935dd89": {
+    "provider": "google-link-address",
+    "displayName": "Sai Gon Oi Vietnamese Cuisine, บ้านริมน้ำ, เทศบาลตำบลสันผีเสื้อ, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50300, ประเทศไทย",
+    "location": {
+      "lat": 18.8378978,
+      "lng": 99.0081673
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/DYf2aGAWpwFScH9T9?g_st=ic",
+    "resolvedAt": "2026-10-17T05:38:17.062Z"
+  },
+  "2afbe1e3471d80ae88fdd5b286563b80": {
+    "provider": "google-link-address",
+    "displayName": "ไก่ย่างเชิงดอย, ถนนสุขเกษม, แขวงศรีวิชัย, ตำบลสุเทพ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50030, ประเทศไทย",
+    "location": {
+      "lat": 18.7992506,
+      "lng": 98.9660145
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/sdhQsgfnLWP5G99d9?g_st=ipc",
+    "resolvedAt": "2026-10-17T05:39:29.354Z"
+  },
+  "2b6be1e3471d80a78f35fffea5d090a3": {
+    "provider": "google-link-address",
+    "displayName": "Chiang Mai Horumon, 43/19, ถนนโสตศึกษา, แขวงศรีวิชัย, ช้างเผือก, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50030, ประเทศไทย",
+    "location": {
+      "lat": 18.8052663,
+      "lng": 98.9814898
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/sg3pVMuqF81dbUPd9?g_st=ic",
+    "resolvedAt": "2026-10-17T05:39:37.489Z"
+  },
+  "2f2be1e3471d802db796f45aaab4448e": {
+    "provider": "google-link-address",
+    "displayName": "Cherry Burmese, ถนนระแกง, แขวงเม็งราย, ตำบลช้างคลาน, เทศบาลนครเชียงใหม่, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50100, ประเทศไทย",
+    "location": {
+      "lat": 18.7756863,
+      "lng": 98.9973265
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/7W518X4M2BzjuKVA8?g_st=ic",
+    "resolvedAt": "2026-10-17T05:40:53.098Z"
+  },
+  "38cbe1e3471d80c78633d5381d8a6d5d": {
+    "provider": "google-link-address",
+    "displayName": "Chiang Mai Horumon, 43/19, ถนนโสตศึกษา, แขวงศรีวิชัย, ช้างเผือก, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50030, ประเทศไทย",
+    "location": {
+      "lat": 18.8052663,
+      "lng": 98.9814898
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Vkypn5cYJRcjqezj7?g_st=ic",
+    "resolvedAt": "2026-10-17T05:41:14.114Z"
+  },
+  "2d5be1e3471d80d6966bfe04debe9cae": {
+    "provider": "google-link-address",
+    "displayName": "บ้านสวนกาแฟ, Doi Kham along the ridge, ตำบลแม่เฮียะ, เทศบาลเมืองแม่เหียะ, ป่าแดด, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50230, ประเทศไทย",
+    "location": {
+      "lat": 18.7597413,
+      "lng": 98.9137868
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/YgL4cpcyVqd2CCNB6?g_st=ic",
+    "resolvedAt": "2026-10-17T05:43:47.941Z"
+  },
+  "3f1be1e3471d808da2e8d78c7fb6f31c": {
+    "provider": "google-link-address",
+    "displayName": "TNSU, Thailand National Sports University, ถนน ช้างเผือก ซอย2, แขวงนครพิงค์, ตำบลศรีภูมิ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 55520, ประเทศไทย",
+    "location": {
+      "lat": 18.7989056,
+      "lng": 98.9886973
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/6aKPmvsvK8a2vLVn6?g_st=il",
+    "resolvedAt": "2026-10-17T05:46:17.898Z"
+  },
+  "2bebe1e3471d803eb42ad6e5d7a75f7e": {
+    "provider": "google-link-address",
+    "displayName": "MONTREE COPY, ถนนศิริมังคลาจารย์ ซอย 13, แขวงศรีวิชัย, ตำบลสุเทพ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 50200, ประเทศไทย",
+    "location": {
+      "lat": 18.7933137,
+      "lng": 98.9715114
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/J1aLhigQNB2a3eZR6?g_st=ic",
+    "resolvedAt": "2026-10-17T05:46:37.600Z"
+  },
+  "2adbe1e3471d8000bd6ffe2d98fcbf0a": {
+    "provider": "google-link-address",
+    "displayName": "Punspace Wiang Kaew, ถนนเวียงแก้ว, แขวงศรีวิชัย, ตำบลศรีภูมิ, เทศบาลนครเชียงใหม่, ฟ้าฮ่าม, อำเภอเมืองเชียงใหม่, จังหวัดเชียงใหม่, 55520, ประเทศไทย",
+    "location": {
+      "lat": 18.793513,
+      "lng": 98.9866868
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/kY5Vcjm89wSgP5KP8?g_st=ipc",
+    "resolvedAt": "2026-10-17T05:46:50.785Z"
+  },
+  "299be1e3471d80f0a94bc37d25cbe1f6": {
+    "provider": "google-maps-page",
+    "displayName": "Pm11关门",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/saY5qRq9nBE42prQ9?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:18.824Z"
+  },
+  "29cbe1e3471d801ba7e8d6d4f918256a": {
+    "provider": "google-maps-page",
+    "displayName": "Pm8:30",
+    "location": {
+      "lat": 18.788394800000003,
+      "lng": 98.99856109999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/gMjmyg1k3DrZY1KL6?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:19.469Z"
+  },
+  "322be1e3471d803181fff353661c588a": {
+    "provider": "google-maps-page",
+    "displayName": "Dreamtime Caf",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/VD6U63uoeAGFg4LDA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:20.961Z"
+  },
+  "2b8be1e3471d80319360c729ea5e8b7b": {
+    "provider": "google-maps-page",
+    "displayName": "LANN Cafe’",
+    "location": {
+      "lat": 18.793692600000004,
+      "lng": 98.9780277
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/cREdaUJbXYasuPve9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:22.183Z"
+  },
+  "2c3be1e3471d8014acccd197aa0502c9": {
+    "provider": "google-maps-page",
+    "displayName": "Zeit Roaster - Brewing Lab Cafe&Coffee shop",
+    "location": {
+      "lat": 18.7833841,
+      "lng": 99.0036977
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ddRAE7raKDDxVM859?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:23.326Z"
+  },
+  "2cdbe1e3471d80cf8c62ca7f15822f9a": {
+    "provider": "google-maps-page",
+    "displayName": "Living The Dream Cafe & Playground Chiang Mai",
+    "location": {
+      "lat": 18.812390899999997,
+      "lng": 98.97379939999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/b1QvEwxfeBpxcVPt8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:24.529Z"
+  },
+  "2e4be1e3471d80eba280df48e22b2347": {
+    "provider": "google-maps-page",
+    "displayName": "Paper Butter Oldtown",
+    "location": {
+      "lat": 18.7894684,
+      "lng": 98.9892955
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/vszcPZseKdtDW6Nm6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:25.729Z"
+  },
+  "2e8be1e3471d80ee8acecf3fbe0b7ed8": {
+    "provider": "google-maps-page",
+    "displayName": "Yoong.Coffee Room",
+    "location": {
+      "lat": 18.748192,
+      "lng": 99.0045851
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/cHryZYBe2jzgaBP6A?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:26.897Z"
+  },
+  "398be1e3471d804b8bf1e09c56f7b36b": {
+    "provider": "google-maps-page",
+    "displayName": "大树室内咖啡",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/BDj8W3QMSXhMJYnR8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:28.077Z"
+  },
+  "3aabe1e3471d804a8b46d6b319151ecf": {
+    "provider": "google-maps-page",
+    "displayName": "ChomJai Cafe and Dessert  日式小店甜水+吃的",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ZLTSFmmAtncprvEn8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:29.261Z"
+  },
+  "3c5be1e3471d801f8938eb4c015f108e": {
+    "provider": "google-maps-page",
+    "displayName": "Kanal.cnx",
+    "location": {
+      "lat": 18.8132877,
+      "lng": 98.96394839999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/tCG2nfSUvJyS5FgZA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:30.425Z"
+  },
+  "2f8be1e3471d80fba519d0d0eaa4506a": {
+    "provider": "google-maps-page",
+    "displayName": "Ombra Caffe Nimman",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/dKcB9cVgR3Gg1UFe9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:31.603Z"
+  },
+  "2f6be1e3471d8009a182cbb49e0b11fe": {
+    "provider": "google-maps-page",
+    "displayName": "Charin Pie",
+    "location": {
+      "lat": 18.7949181,
+      "lng": 98.9682072
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Q4LxwkCwyrcs4dWu5?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:32.764Z"
+  },
+  "2adbe1e3471d80798d51c86a1ee5b00e": {
+    "provider": "google-maps-page",
+    "displayName": "FOHHIDE ‖Sway CNX 宁曼",
+    "location": {
+      "lat": 18.7987423,
+      "lng": 98.96868599999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/dTPcrWirhGVpgc9z9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:33.993Z"
+  },
+  "2b8be1e3471d80c4ab32e51472060dbe": {
+    "provider": "google-maps-page",
+    "displayName": "Homey Home Cafe 周4休息",
+    "location": {
+      "lat": 18.804799600000003,
+      "lng": 98.97477579999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/xJjyZZWwmFgjA2HY8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:35.148Z"
+  },
+  "2cbbe1e3471d80efa5bbf511b27bb97e": {
+    "provider": "google-maps-page",
+    "displayName": "Huan Kaew Coffee",
+    "location": {
+      "lat": 18.770737900000004,
+      "lng": 98.94835909999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Noh1aSxXiwGYEjEAA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:36.387Z"
+  },
+  "2f3be1e3471d803bb041ea6277d954b8": {
+    "provider": "google-maps-page",
+    "displayName": "I’m at Inchala",
+    "location": {
+      "lat": 18.816795700000004,
+      "lng": 98.9504918
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/zzNSKMxdU7HC4DvN7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:37.513Z"
+  },
+  "2fdbe1e3471d80c7b57df9932a2559b8": {
+    "provider": "google-maps-page",
+    "displayName": "คาเฟ่ เดอ โสต Cafe de Sot",
+    "location": {
+      "lat": 18.804157399999998,
+      "lng": 98.9810892
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/FAduPYn8EdE33Evd6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:38.717Z"
+  },
+  "394be1e3471d8098a46eea3a5ff7accd": {
+    "provider": "google-maps-page",
+    "displayName": "Mai bakery in garden",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/jnn46MxLe9jg1ieK6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:39.867Z"
+  },
+  "2d5be1e3471d80ecb4c3f331eeaee26f": {
+    "provider": "google-maps-page",
+    "displayName": "Jailoy Cafe&Rooftop",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ZYCw8y16WCaaqmtp9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:41.032Z"
+  },
+  "2d5be1e3471d8040b989edfe77622687": {
+    "provider": "google-maps-page",
+    "displayName": "HIDELAND",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/H8kGRNv3BCB4DorY6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:42.204Z"
+  },
+  "324be1e3471d80909bdce0e251be3d6c": {
+    "provider": "google-maps-page",
+    "displayName": "Areemitr Coffee กาแฟอารีมิตร",
+    "location": {
+      "lat": 18.8053353,
+      "lng": 98.9797627
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ocGXbMJdPNydigLw5?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:43.418Z"
+  },
+  "2c9be1e3471d801bad2ade822f331900": {
+    "provider": "google-maps-page",
+    "displayName": "桌游Hooman boardgame house",
+    "location": {
+      "lat": 18.778474899999996,
+      "lng": 98.9945745
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/VuuBryKfhwW58BrU9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:44.687Z"
+  },
+  "2a6be1e3471d8088ab72fc56407f4ec2": {
+    "provider": "google-maps-page",
+    "displayName": "Artisan sourdough by apple fahey@现烤面包 艺术村旁边",
+    "location": {
+      "lat": 18.7806911,
+      "lng": 98.9542038
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/YZSYVTNBDfvKZibH9?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:45.868Z"
+  },
+  "2b9be1e3471d806b80c9d4ae547e5ddc": {
+    "provider": "google-maps-page",
+    "displayName": "PHAPLOEN MARKET",
+    "location": {
+      "lat": 18.786672,
+      "lng": 99.0007507
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Y24CfAXFpv1b4qy4A?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:47.080Z"
+  },
+  "2a5be1e3471d808ba54af5a9925b29d3": {
+    "provider": "google-maps-page",
+    "displayName": "199 当地人烧肉 20 分钟",
+    "location": {
+      "lat": 18.909621,
+      "lng": 98.9473835
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/cBFkyYSn6SWQkj3W6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:48.247Z"
+  },
+  "2abbe1e3471d8086acb0d55a87f7009a": {
+    "provider": "google-maps-page",
+    "displayName": "HomNoey Thai BBQ หอมเนย โคขุนกระทะร้อน เชียงใหม่",
+    "location": {
+      "lat": 18.8012977,
+      "lng": 98.98250310000002
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/4cKUa8KrPYfmbvmT9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:49.430Z"
+  },
+  "2a7be1e3471d80148044c4c370fd78f9": {
+    "provider": "google-maps-page",
+    "displayName": "Look Inside CNX",
+    "location": {
+      "lat": 18.7915407,
+      "lng": 98.9929104
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/GQaFh9yvHx1CD9DM8?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:50.594Z"
+  },
+  "29cbe1e3471d80e1aa18d9defe5e0950": {
+    "provider": "google-maps-page",
+    "displayName": "Gianna 推荐",
+    "location": {
+      "lat": 18.784057999999995,
+      "lng": 98.9928115
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/wyH92gXgg9ksKCvx5?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:13:51.795Z"
+  },
+  "2b9be1e3471d801db5c6f4ab13c9e4aa": {
+    "provider": "google-maps-page",
+    "displayName": "长康路",
+    "location": {
+      "lat": 18.7825961,
+      "lng": 99.00110439999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/TsvWdLpdQnijcxLn6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:52.970Z"
+  },
+  "2b9be1e3471d80bbb480e4313ca8d569": {
+    "provider": "google-maps-page",
+    "displayName": "夜市二楼",
+    "location": {
+      "lat": 18.785425500000002,
+      "lng": 99.00021269999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/9RktGCzKCLW9eKZu7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:54.158Z"
+  },
+  "2c9be1e3471d8092b42dd519483ffcf8": {
+    "provider": "google-maps-page",
+    "displayName": "Do You Ever Social Club",
+    "location": {
+      "lat": 18.797625999999998,
+      "lng": 98.97082499999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/HgWdxjGaA5sMhZxR8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:55.370Z"
+  },
+  "2d0be1e3471d80c2b748fe387344f135": {
+    "provider": "google-maps-page",
+    "displayName": "Sai Ping Bar & Restaurant",
+    "location": {
+      "lat": 18.791585399999995,
+      "lng": 99.00215340000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/JMvVzDdYN6QBY6gQ7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:56.512Z"
+  },
+  "2e2be1e3471d80108b87cf8aaf38108d": {
+    "provider": "google-maps-page",
+    "displayName": "บ่อกุ้ง บ้านพาเพลิน",
+    "location": {
+      "lat": 18.7677697,
+      "lng": 98.9810701
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/tDTEb62seSErCVmo7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:57.769Z"
+  },
+  "397be1e3471d805a8a64d5babac6243c": {
+    "provider": "google-maps-page",
+    "displayName": "古城冰桶",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/bwXCfSsNKvb9nyvA8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:13:58.853Z"
+  },
+  "29fbe1e3471d80268a99d01cffe57a46": {
+    "provider": "google-maps-page",
+    "displayName": "Waree Onsen",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ys1996r5agJaMpRFA?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:00.043Z"
+  },
+  "2bdbe1e3471d8091bb44faaac9c2bd86": {
+    "provider": "google-maps-page",
+    "displayName": "The Cocoon Sauna & Ice bath",
+    "location": {
+      "lat": 18.7247859,
+      "lng": 98.90378849999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/TTXeEoCtuB98FCmj9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:01.251Z"
+  },
+  "2c0be1e3471d80e7abefc29aba6611e8": {
+    "provider": "google-maps-page",
+    "displayName": "San Kamphaeng Hot Springs",
+    "location": {
+      "lat": 18.8145004,
+      "lng": 99.2294265
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/FzStqtmjUnuZbPak8?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:02.441Z"
+  },
+  "3e9be1e3471d80c4a888eb81d88d9d6a": {
+    "provider": "google-maps-page",
+    "displayName": "Ground. Recovery Club",
+    "location": {
+      "lat": 18.754260700000003,
+      "lng": 98.9933088
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Bh1ohMnvHiGqyDLJ6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:03.629Z"
+  },
+  "2abbe1e3471d800997bec007b48faaa2": {
+    "provider": "google-maps-page",
+    "displayName": "ākho - อาโค ปังนมสด",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/8PZsLboKcWfXWCK77?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:04.807Z"
+  },
+  "2bcbe1e3471d80dcb4f1e623765cdfb9": {
+    "provider": "google-maps-page",
+    "displayName": "善灵素菜馆 Goodsouls Kitchen",
+    "location": {
+      "lat": 18.7931734,
+      "lng": 98.9820563
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/u57UcRAWkroWHg4f6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:06.040Z"
+  },
+  "2bebe1e3471d8065a290df92ece268e2": {
+    "provider": "google-maps-page",
+    "displayName": "ร้านทุเรียนเฮียต้อม789",
+    "location": {
+      "lat": 18.7364309,
+      "lng": 98.95465639999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/reJNJnJNbkuG1oDy7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:07.225Z"
+  },
+  "2c5be1e3471d80a2aea7ff87c6ac8f8b": {
+    "provider": "google-maps-page",
+    "displayName": "Madam Loei",
+    "location": {
+      "lat": 18.803941100000003,
+      "lng": 98.9812595
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/NBJA1eAFsxLkqvV5A?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:08.444Z"
+  },
+  "2dbbe1e3471d80f0b2a3ff1f3a87495e": {
+    "provider": "google-maps-page",
+    "displayName": "กะเพราขี้เมา น้ำลี้",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/MEpsZMAxXxw9V2Zb9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:09.631Z"
+  },
+  "3e0be1e3471d80099425fbfe5a245b65": {
+    "provider": "google-maps-page",
+    "displayName": "TOEN Thai Food & Restaurant",
+    "location": {
+      "lat": 18.8174498,
+      "lng": 98.95676789999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/VuLrWvoHMnmrEiyD9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:10.796Z"
+  },
+  "3e3be1e3471d80b4bfcbfcd741a36a9b": {
+    "provider": "google-maps-page",
+    "displayName": "Shu Homemade",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Mi4eNtj5AbeJ3END6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:11.968Z"
+  },
+  "2d8be1e3471d803081e8d7b524e17041": {
+    "provider": "google-maps-page",
+    "displayName": "Kati Breakfast and Brunch",
+    "location": {
+      "lat": 18.7880021,
+      "lng": 98.98871899999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/6XYmQZXbmgSQ59GY6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:13.148Z"
+  },
+  "2fbbe1e3471d805ca287d27cea8fd33f": {
+    "provider": "google-maps-page",
+    "displayName": "THE VOLCANO One Nimman",
+    "location": {
+      "lat": 18.7997606,
+      "lng": 98.96793729999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/9ZVTUTJ5WxdeM7qr5?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:14.335Z"
+  },
+  "3e8be1e3471d807faeaaf786f2899812": {
+    "provider": "google-maps-page",
+    "displayName": "OYES Smoothies & Happy Food - โอเยส ผักผลไม้ปั่น",
+    "location": {
+      "lat": 18.802819600000003,
+      "lng": 98.98095190000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/95ABEKaCuNUoXJpW7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:15.511Z"
+  },
+  "2a3be1e3471d80288579dc50c8d31936": {
+    "provider": "google-maps-page",
+    "displayName": "OL Beef Noodle 塔佩门后 Pm1:00 前",
+    "location": {
+      "lat": 18.7897476,
+      "lng": 99.0096018
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/fZkRnnJAsgBwY8qn6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:16.712Z"
+  },
+  "2abbe1e3471d807bb42adb0d0387edc2": {
+    "provider": "google-maps-page",
+    "displayName": "Kobe King Japanese BBQ ฿399",
+    "location": {
+      "lat": 18.790182299999998,
+      "lng": 98.99517759999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/HMUsPY1fBmsKp2vdA?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:17.651Z"
+  },
+  "2adbe1e3471d8094a796efc015e1591c": {
+    "provider": "google-maps-page",
+    "displayName": "Mooyim JimJum Hotpot 家后面",
+    "location": {
+      "lat": 18.8057894,
+      "lng": 98.9732267
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/jnF8NxyKpYx8ncZh7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:18.965Z"
+  },
+  "2b8be1e3471d806987bbdc00abb2fa98": {
+    "provider": "google-maps-page",
+    "displayName": "Jen Moy Local Thai Restaurant",
+    "location": {
+      "lat": 18.7908391,
+      "lng": 99.0088947
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/21KsdqnrHtKNJWBm7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:19.838Z"
+  },
+  "2b8be1e3471d80c2862aed5039a0a3e7": {
+    "provider": "google-maps-page",
+    "displayName": "老高潮汕菜館",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Ce2LCXWNPpFCqjaN6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:21.165Z"
+  },
+  "2c1be1e3471d80e096d2e15c658d37ae": {
+    "provider": "google-maps-page",
+    "displayName": "川湘苑中餐厅",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/goT6sR2EK8v1nZcn9?g_st=al",
+    "resolvedAt": "2026-10-17T09:14:21.989Z"
+  },
+  "2c2be1e3471d80479b1be7462567c7c4": {
+    "provider": "google-maps-page",
+    "displayName": "云川饭馆",
+    "location": {
+      "lat": 18.8002342,
+      "lng": 98.9600651
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/PkfTC8Lk8RXnDCzAA?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:23.297Z"
+  },
+  "2c3be1e3471d8094aed4e81a578cf8df": {
+    "provider": "google-maps-page",
+    "displayName": "Sanae Thai Cuisine&泰国古法牛肉茶餐室",
+    "location": {
+      "lat": 18.7768624,
+      "lng": 98.946032
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/k3j4JR1pe87tDabD9?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:24.317Z"
+  },
+  "2cfbe1e3471d80bb9ac5db2923dfc477": {
+    "provider": "google-maps-page",
+    "displayName": "Uncle Kani",
+    "location": {
+      "lat": 18.8009223,
+      "lng": 98.9637209
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/WF9zJmmuW96E5pTp8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:25.428Z"
+  },
+  "2d7be1e3471d802eabe2fae4ee648d8b": {
+    "provider": "google-maps-page",
+    "displayName": "711门口烤肉",
+    "location": {
+      "lat": 18.788572299999995,
+      "lng": 98.98289439999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/hg2Dry6iV2U11FsR8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:26.452Z"
+  },
+  "2a6be1e3471d80f98d1cfca08aa20707": {
+    "provider": "google-maps-page",
+    "displayName": "老字号牛肉面门口 @古城中间",
+    "location": {
+      "lat": 18.7875068,
+      "lng": 98.99024109999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/1GTuRKHKu1kQt53SA?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:27.584Z"
+  },
+  "2e5be1e3471d8032a9f3f97998160c68": {
+    "provider": "google-maps-page",
+    "displayName": "烤串麻辣烫",
+    "location": {
+      "lat": 18.795558099999997,
+      "lng": 98.9706499
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/rEqLZr9FcdHqYxVN7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:28.642Z"
+  },
+  "2e8be1e3471d80f6ac32c78d6d8e45f0": {
+    "provider": "google-maps-page",
+    "displayName": "Neng’s Clay Oven Roasted Pork – Muang Mai Market",
+    "location": {
+      "lat": 18.799822799999998,
+      "lng": 99.0048013
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/47JP9CuxVoVRB6ab8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:29.799Z"
+  },
+  "31bbe1e3471d804abc01ccfefd99165d": {
+    "provider": "google-maps-page",
+    "displayName": "Grace & Jean's",
+    "location": {
+      "lat": 18.7887439,
+      "lng": 98.9943662
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/p7zH3crdJRUESYh58?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:30.917Z"
+  },
+  "38abe1e3471d8081b106edc7625ae8b1": {
+    "provider": "google-maps-page",
+    "displayName": "周四英文角旁牛肉饭\nกะเพราขี้เมา น้ำลี้",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/WTZa8phB6gPpqUST9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:31.970Z"
+  },
+  "39ebe1e3471d80edba8de558f38504b5": {
+    "provider": "google-maps-page",
+    "displayName": "Neng Roasted Pork เหน่งหมูอบโอ่ง",
+    "location": {
+      "lat": 18.799822799999998,
+      "lng": 99.0048013
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/M2pa33haMzp6NVom8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:33.079Z"
+  },
+  "3a0be1e3471d80938950cc8a85e2cd2d": {
+    "provider": "google-maps-page",
+    "displayName": "ร้านสวนแม่ไร",
+    "location": {
+      "lat": 18.608957799999995,
+      "lng": 99.00785330000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Br5zx5GZF1p9Tx1e7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:34.131Z"
+  },
+  "3a5be1e3471d80f8abaafc95d4aa4cbd": {
+    "provider": "google-maps-page",
+    "displayName": "Frog eye ร้านเก๊าบ่ะต๋ากบ แก้มแดง",
+    "location": {
+      "lat": 18.8312573,
+      "lng": 99.0427539
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/E2yrwWDjthdvJaYZ7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:35.221Z"
+  },
+  "3abbe1e3471d80a7a169f5b01b2d96b1": {
+    "provider": "google-maps-page",
+    "displayName": "Mae Tha Chang Kang Thong",
+    "location": {
+      "lat": 18.7477855,
+      "lng": 98.8858094
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/RK2NJ6Kd72SzeMdc8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:36.278Z"
+  },
+  "3aebe1e3471d80babff5d4eaf7ea3945": {
+    "provider": "google-maps-page",
+    "displayName": "Khao Soi Kun Ta",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/DqfZr4KZGBc5KNdC6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:37.422Z"
+  },
+  "3bcbe1e3471d80448659cd4da3163351": {
+    "provider": "google-maps-page",
+    "displayName": "东南角 长康路附近",
+    "location": {
+      "lat": 18.781053499999995,
+      "lng": 98.9957562
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/UuPjHUCYkbJbuBNH8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:38.465Z"
+  },
+  "3bcbe1e3471d80b09a9bca3dd699e0b4": {
+    "provider": "google-maps-page",
+    "displayName": "有点远",
+    "location": {
+      "lat": 18.7627414,
+      "lng": 99.0245678
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/okDYTXTs3tTJCfVW9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:39.643Z"
+  },
+  "3d6be1e3471d80468c10c7847aa52e30": {
+    "provider": "google-maps-page",
+    "displayName": "泰国古法牛肉茶餐室 ข้าวขาวัว",
+    "location": {
+      "lat": 18.782854699999998,
+      "lng": 99.0033314
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/w5z2ALguvcCc77qXA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:40.637Z"
+  },
+  "2b0be1e3471d8024b8ced1311f67fe2f": {
+    "provider": "google-maps-page",
+    "displayName": "Super Soup  家后面",
+    "location": {
+      "lat": 18.8060629,
+      "lng": 98.98087319999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/3E68atq3i74ZP36f9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:41.886Z"
+  },
+  "2cbbe1e3471d8013a704e413b9004235": {
+    "provider": "google-maps-page",
+    "displayName": "A.T. Thaifoods",
+    "location": {
+      "lat": 18.8032312,
+      "lng": 98.97854219999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/rCozXoVPGC3Y9zBH6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:42.818Z"
+  },
+  "2d6be1e3471d807aa1f7f694069aca1c": {
+    "provider": "google-maps-page",
+    "displayName": "ข้าวมันไก่ ป.7",
+    "location": {
+      "lat": 18.803919999999998,
+      "lng": 98.9790591
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/xnNN9uh5FXzJpBAs9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:44.083Z"
+  },
+  "323be1e3471d80b99ee4e15aea0e263b": {
+    "provider": "google-maps-page",
+    "displayName": "Mauyum Cafe Santitham, Authentic Thai Food Restaurant",
+    "location": {
+      "lat": 18.802340299999997,
+      "lng": 98.9759196
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/VjGe2BxBPswwZC5q7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:45.012Z"
+  },
+  "3a1be1e3471d80799a10d68e1e5b7413": {
+    "provider": "google-maps-page",
+    "displayName": "Tomimaki โทมิมากิ",
+    "location": {
+      "lat": 18.8045787,
+      "lng": 98.9796008
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/oqLwmUFBfUVfxrfr5?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:46.343Z"
+  },
+  "3d6be1e3471d806c9b09db1681543d26": {
+    "provider": "google-maps-page",
+    "displayName": "Meater Earth มีทเตอร์เอิร์ท วัวหัน-หมูหัน",
+    "location": {
+      "lat": 18.814295299999998,
+      "lng": 99.00077420000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/gBwW9X6JK2sKrJ1d8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:47.144Z"
+  },
+  "2b4be1e3471d8017955ae183446ce6f0": {
+    "provider": "google-maps-page",
+    "displayName": "🏋️‍♂️Let's go to GYM😎",
+    "location": {
+      "lat": 18.808520299999998,
+      "lng": 98.97751749999999
+    },
+    "googleMapsUri": "https://www.google.com/maps/search/?api=1&query=Muscular%20Lair%20Chiang%20Mai",
+    "resolvedAt": "2026-10-17T09:14:48.633Z"
+  },
+  "2bdbe1e3471d800f8c81ecf2876c4ccb": {
+    "provider": "google-maps-page",
+    "displayName": "兰纳高尔夫俱乐部",
+    "location": {
+      "lat": 18.826732,
+      "lng": 98.97854400000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ZndqhqvPPc4gD6VLA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:49.274Z"
+  },
+  "2c0be1e3471d802baf12c99a74233a53": {
+    "provider": "google-maps-page",
+    "displayName": "Satva Yoga",
+    "location": {
+      "lat": 18.805343699999998,
+      "lng": 98.9731137
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/sDgdxU8HkG3YL6w86?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:50.800Z"
+  },
+  "2c8be1e3471d80d2ad56e02b95c75fa9": {
+    "provider": "google-maps-page",
+    "displayName": "Pimantip Golf Club",
+    "location": {
+      "lat": 18.7815656,
+      "lng": 98.97515779999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/5o7Wsm4tKs44rZHa9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:51.449Z"
+  },
+  "2c8be1e3471d80ae94f7dd491009c575": {
+    "provider": "google-maps-page",
+    "displayName": "CNX GOLF",
+    "location": {
+      "lat": 18.781706700000004,
+      "lng": 98.9751937
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/u94MLBn7uwtDqHY46?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:52.927Z"
+  },
+  "2d8be1e3471d80e39ee0c9bdfa55764f": {
+    "provider": "google-maps-page",
+    "displayName": "X-Centre Chiangmai Xcentre",
+    "location": {
+      "lat": 18.9219645,
+      "lng": 98.9241752
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/aKekYnC4bKzTPTMj8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:53.695Z"
+  },
+  "2e0be1e3471d805cb9f7d06727327b4f": {
+    "provider": "google-maps-page",
+    "displayName": "CrossFit Box CFCNX2010",
+    "location": {
+      "lat": 18.8161403,
+      "lng": 98.98061059999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/r79xzajQWUeni1T39?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:55.066Z"
+  },
+  "3a1be1e3471d80779916d64ca5182cb4": {
+    "provider": "google-maps-page",
+    "displayName": "Wiangfueangfa Thai Massage Therapy",
+    "location": {
+      "lat": 18.803073299999998,
+      "lng": 98.97730089999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/vTbxvPpH8sXoFfk47?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:55.827Z"
+  },
+  "3a1be1e3471d80fd8f81c86bc30f91b1": {
+    "provider": "google-maps-page",
+    "displayName": "sum bamboo massage (Ruamchok)",
+    "location": {
+      "lat": 18.8243755,
+      "lng": 99.008989
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/ARTiJmPQbzY9MASp7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:57.214Z"
+  },
+  "3e3be1e3471d8099b9b0fe94fba6e228": {
+    "provider": "google-maps-page",
+    "displayName": "瑜伽&声浴冥想 周2-5 pm3:00～4",
+    "location": {
+      "lat": 18.782617600000002,
+      "lng": 98.9691904
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/DwKXwYWXJE7x3WXh7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:14:58.001Z"
+  },
+  "2abbe1e3471d807db762e9d81d8e2612": {
+    "provider": "google-maps-page",
+    "displayName": "咖啡+活动+语言交换",
+    "location": {
+      "lat": 18.7880017,
+      "lng": 98.9996304
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/qLgSCWXUGvvg3q8a9?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:14:59.450Z"
+  },
+  "2abbe1e3471d80d1967df77fefc7fdf8": {
+    "provider": "google-maps-page",
+    "displayName": "Much Room Cafe Am10:00",
+    "location": {
+      "lat": 18.7942459,
+      "lng": 98.95647724999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/FQucxkzPCgTpfUSW6?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:15:00.215Z"
+  },
+  "2b5be1e3471d809081b8d1bd94471dab": {
+    "provider": "google-maps-page",
+    "displayName": "🎱桌球",
+    "location": {
+      "lat": 18.795397299999998,
+      "lng": 98.980351
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/Ag48LFEV4o69gnEJ8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:01.579Z"
+  },
+  "2babe1e3471d80ef8915c53770aa4231": {
+    "provider": "google-maps-page",
+    "displayName": "Red Panda Cafè (CNX)",
+    "location": {
+      "lat": 18.8089178,
+      "lng": 98.95381499999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/NzAj5RUGvZuC7qDU8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:02.398Z"
+  },
+  "2bdbe1e3471d80528841c5aa232b5031": {
+    "provider": "google-maps-page",
+    "displayName": "Pimantip Golf Club",
+    "location": {
+      "lat": 18.7815656,
+      "lng": 98.97515779999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/NwbxXAsW9SH1AVMR7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:03.730Z"
+  },
+  "2c4be1e3471d801388d3e897f7620467": {
+    "provider": "google-maps-page",
+    "displayName": "90 分钟",
+    "location": {
+      "lat": 18.974181565171655,
+      "lng": 98.84657260265584
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/yLNCjLDP7KhirsoE7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:04.547Z"
+  },
+  "2a5be1e3471d80ddac5bc1bb52a6da53": {
+    "provider": "google-maps-page",
+    "displayName": "山林瀑布躺躺",
+    "location": {
+      "lat": 18.873438099999994,
+      "lng": 98.8131681
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/q7mAYHUv6qyJrYHX7?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:15:05.874Z"
+  },
+  "3a5be1e3471d80d297a3da5e0d319595": {
+    "provider": "google-maps-page",
+    "displayName": "กาแฟสะพานแขวน @เขื่อนแม่กวง",
+    "location": {
+      "lat": 18.9513678,
+      "lng": 99.1372435
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/UsKhifX3z8gUBEQz7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:06.729Z"
+  },
+  "3a7be1e3471d8040af5ac99716e6cfc4": {
+    "provider": "google-maps-page",
+    "displayName": "AMFER’cafe",
+    "location": {
+      "lat": 18.6110162,
+      "lng": 99.1830346
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/U1AXYMujRMJTcnma9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:08.165Z"
+  },
+  "3aabe1e3471d80b68fc8dd0036cb3433": {
+    "provider": "google-maps-page",
+    "displayName": "Mae Ya Waterfall น้ำตกแม่ยะ",
+    "location": {
+      "lat": 18.4404625,
+      "lng": 98.5926649
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/PWE2KPUTsbgAphjT8?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:08.881Z"
+  },
+  "3aabe1e3471d806b8492c637be34a32c": {
+    "provider": "google-maps-page",
+    "displayName": "Wachirathan cafe วชิรธารคาเฟ่",
+    "location": {
+      "lat": 18.541705,
+      "lng": 98.5993191
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/RLXyMbi61ihufrcS7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:10.310Z"
+  },
+  "3aabe1e3471d809c817ccea894fdd8a4": {
+    "provider": "google-maps-page",
+    "displayName": "Ban Tarnchevee Homestay บ้านธารชีวี Tarnchevee :: แม่แมะ เชียงดาว เชียงใหม่",
+    "location": {
+      "lat": 19.320468200000004,
+      "lng": 98.89011289999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/aBEzCvzqJVJWSM3f9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:11.006Z"
+  },
+  "3e3be1e3471d80d294f7dd3c1a26a8a0": {
+    "provider": "google-maps-page",
+    "displayName": "The Yard Hostel Chiang mai",
+    "location": {
+      "lat": 18.7894789,
+      "lng": 98.98922379999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/AcNP6eYPuLMn2ziB9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:12.543Z"
+  },
+  "3b7be1e3471d80bc8848ee1fcf8ae58b": {
+    "provider": "google-maps-page",
+    "displayName": "摩托车租赁 Mango Bikes Rentals",
+    "location": {
+      "lat": 18.797224999999997,
+      "lng": 98.97305899999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/JVhP8pjinkSEzm1VA?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:13.162Z"
+  },
+  "2a8be1e3471d801793a7fea69f66ed71": {
+    "provider": "google-maps-page",
+    "displayName": "Pura Vida Bar",
+    "location": {
+      "lat": 18.800395299999998,
+      "lng": 98.967946
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/LLdtyr9RPpbrDD4w9?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:15:14.738Z"
+  },
+  "2abbe1e3471d80e0a18bd88a411b1a88": {
+    "provider": "google-maps-page",
+    "displayName": "mr.pierre 现金+护照",
+    "location": {
+      "lat": 18.788182599999995,
+      "lng": 98.99760800000001
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/MCdBeZyaQ7RCDzpi7?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:15.301Z"
+  },
+  "2abbe1e3471d80b982e2d388c2c3e597": {
+    "provider": "google-maps-page",
+    "displayName": "HIDELAND",
+    "location": {
+      "lat": 18.789702800000004,
+      "lng": 98.99621789999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/AsCjsnAgKabfP7yY8?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:15:16.897Z"
+  },
+  "2adbe1e3471d80e59eb8ce8fc0a0b72e": {
+    "provider": "google-maps-page",
+    "displayName": "Motorbike Repair Shop",
+    "location": {
+      "lat": 18.7942459,
+      "lng": 98.95647724999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/kFzZjcncThud7C9p6?g_st=ipc",
+    "resolvedAt": "2026-10-17T09:15:17.517Z"
+  },
+  "2cabe1e3471d80f794becb0aa4142de7": {
+    "provider": "google-maps-page",
+    "displayName": "家后面Poon Pharmacy",
+    "location": {
+      "lat": 18.7942459,
+      "lng": 98.95647724999999
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/VZPLV97owwch6WWD6?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:19.106Z"
+  },
+  "2cfbe1e3471d8009af78e6db0effab21": {
+    "provider": "google-maps-page",
+    "displayName": "Kerry Express Parcel Service Point สาขา We Fix (Shop #14181)",
+    "location": {
+      "lat": 18.8019397,
+      "lng": 98.9781929
+    },
+    "googleMapsUri": "https://maps.app.goo.gl/YzGAoV4EZvEtG51j9?g_st=ic",
+    "resolvedAt": "2026-10-17T09:15:19.667Z"
+  }
+}

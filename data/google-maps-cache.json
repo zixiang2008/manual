@@ -1,0 +1,2285 @@
+{
+  "generatedAt": "2026-10-28T03:08:47.101Z",
+  "provider": "playwright",
+  "items": {
+    "2aabe1e3471d809b9513c0203f87e6e2": {
+      "name": "The Baristro x Ping River",
+      "address": "62 Patan Road Muang Chiang Mai 50300",
+      "phone": "087 788 2788",
+      "website": "https://www.facebook.com/The-Baristro-at-Ping-river-325278201291984/",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd57RAHgLjCj0_V-1uPUaQToHa_rnChOp6Pk4Y30FxtS8GAEEsJRu4TWmxOa1aZdgoBO_7OOto_EC5_d75Z57RnTtjjHtvvjlDTI9ZYhPoua4htHUd6RTIkp-9j2OK4ieRkfb-E=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd05xxq1guHwXK4tV-sbLJXbUdC5Bt7ushg2MF74rNxWZR9XMO9llaBrVY_NxqmchdZfrjoEGrqNkRoXPtijc7vX5cNOetc_mpNlDwc6TsH-G4TRHUeTS2riccVh8uvVvjoF08327Ql0YmP=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Baristro+x+Ping+River/@18.81582,99.00025,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf9cacfc44b:0x1e7ef01697e59984!8m2!3d18.81582!4d99.00025!16s%2Fg%2F11gfcxbnhz?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T08:20:58.731579+00:00"
+    },
+    "299be1e3471d80f0a94bc37d25cbe1f6": {
+      "name": "Transit Number 8",
+      "address": "56, 19 Soi Sanam Bin Kao 8, Tambon Su Thep, เมือง, Chiang Mai 50200",
+      "phone": "062 592 4259",
+      "website": "https://www.facebook.com/transitnumber8/",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:00–23:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcFbBDAQCdxL3D49EyofnX89SnUbY0_6ecM0c4cWWp2_cB4dNbwxjSmqCBMwwMKcFw4R-hYdfKhpuh-uQkLXk7Otsfj0J4fieteb-cwQUY3bIjQe0j8lW0Uy8YlXVCDW9Ydy_A=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Transit+Number+8/@18.7871157,98.9602837,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf006de490d:0xe943f29ea298db52!8m2!3d18.7871157!4d98.9602837!16s%2Fg%2F11grvjs84q?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:50:10.771316+00:00"
+    },
+    "29cbe1e3471d801ba7e8d6d4f918256a": {
+      "name": "The Story 106 Co-Working Space &Cafe",
+      "address": "200 Tha Phae Road, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "063 165 0909",
+      "website": "https://www.facebook.com/thestory106.cnx/",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期三 08:00–21:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe2SvSFCxmSs-kbhapxSk3YEO0zO1hJFEimtPofqaoZMWG6MDSIMK-z_YuF6zhNyVHka0QV3NQS4zUo2h5hvpAlOEc-MlYFuNFkLDBBm2y7GjIC3raAHwhlsYQEekU3-x7bMjVxUF5q3GY=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Story+106+Co-Working+Space+%26Cafe/@18.7883948,98.9985611,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b738d4d1fb1:0xe5387fe81b3d5e2c!8m2!3d18.7883948!4d98.9985611!16s%2Fg%2F11p_25pg1v?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:00.948371+00:00"
+    },
+    "322be1e3471d803181fff353661c588a": {
+      "name": "Dreamtime Cafe",
+      "address": "118 120-122 Chiang Mai-Lam Phun Rd, Tambon Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
+      "phone": "096 337 9223",
+      "website": "https://www.facebook.com/dreamtimecafe2025",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:30–17:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe_lKtxsvJ1Q8azH-59YCkkJssrwam-k-Jdvlz6h7Ju9SC198XoIrSynmsJF-ArOoG4w_idjZnl64XrbEelvQRtp71UvbpGEvNttiAHg4Qqqqsm2i1P3Hny9YmLripP7xxDuDV3hbWpJgAe=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipPZXeZqctHN42kH4s0clhWj5HbyDFOpyHSW8s4a=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Dreamtime+Cafe/@18.7798596,99.0069175,17z/data=!3m1!4b1!4m6!3m5!1s0x30da312eecd2c4ad:0xf46c707e8a1b6784!8m2!3d18.7798596!4d99.0069175!16s%2Fg%2F11msswx1p7?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:50:29.553717+00:00"
+    },
+    "2b8be1e3471d80319360c729ea5e8b7b": {
+      "name": "LANN Cafe'",
+      "address": "12 Bunrueang Rit Rd, Suthep, เมือง Chiang Mai 50200",
+      "phone": "061 350 5899",
+      "website": "https://villaalanna.com/chiangmai/lann-cafe/",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 07:30–15:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfWnRMWu9eQePQoBSXJ9i11hFvdezSG7psR8cl064rG8rERhkIufPBK0FYZCLKNsUobnumWxgCdV1vbuqYbJ-thd9t29QOAD_AiOIQa4vTpOZc9UmdoFqRUQQ1M-fTaJdbQEuMi=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/LANN+Cafe'/@18.7936926,98.9780277,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bde11656571:0x497ca8f4283c6c1d!8m2!3d18.7936926!4d98.9780277!16s%2Fg%2F11svbw3n05?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:50:37.532128+00:00"
+    },
+    "2b9be1e3471d80d7a9ead5fc688b0ec0": {
+      "name": "Street Coffee Crew",
+      "address": "144, 55 Yu Yen Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "081 110 2041",
+      "website": "https://www.facebook.com/ogstreetcoffee/",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 08:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfN9ze6CgMWtlxLFnQQJc21-kqYxC2rD19L3mqdF0ALlWMhlsT1vwpyUzRu8rRyHCQcmoiVfg31btYOo3T8BFygIFQRJ4kQ5ix_1b2h6TZ9ibso_w2tik-3UH9LTcZC5U1sk-5WqDNz6KMJ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Street+Coffee+Crew+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:50:43.433248+00:00"
+    },
+    "2b9be1e3471d80be9c80c66f9439a2fc": {
+      "name": "2STREETCOFFEECREW",
+      "address": "132 5, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "091 078 5027",
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:00–17:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdsg415fSEK2KCrHDqYSKBaD2aqHvkqLof0S5k4bBNeLlsLhFSCoFXP-cN_pKIP-eCOs6sKsVPfpf9KOhXxa1N49w4RKrf1Hm911G_cDTPIKohjHKRuNjvgtmb_Z-xn-ZUhJVrk=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/2STREETCOFFEECREW+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:50:49.408078+00:00"
+    },
+    "2b9be1e3471d805bbe0afedeaa9e354d": {
+      "name": "Buncha’s slow bar",
+      "address": "102 Charoen Prathet Rd, Tambon Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "096 885 6985",
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:30–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfsC5RiBmP_DnogFnmenazaf7uINAzUOlppaC_S1kJ9IAp8Xz0xtExTeY5xU1UjLIpage_44fBduqliqNlhERX8NvNO7I1UivVHvC4nEf14RVCensXFPV7ldvpya_GYWVPQcUHasQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Buncha%E2%80%99s+slow+bar/@18.7832489,99.0030381,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b5a63952e11:0xb04d9ecc12707770!8m2!3d18.7832489!4d99.0030381!16s%2Fg%2F11q94441jf?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:50:56.698808+00:00"
+    },
+    "2bdbe1e3471d803ab50aff4b5f34ca1b": {
+      "name": "Fern Forest Cafe",
+      "address": "54, 1 Singharat Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "084 616 1144",
+      "website": "https://web.facebook.com/FernForestCafe/",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 08:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcv_TdzHhlfOdSBJPC4DwJ19y2w1hIgi3fsz1QeGGqEcDjKgDwZQomsgqAbzurWL-MYZGPfxrirKiDKPE6UeNjX286yijW1MSEMV6s33BzQCuiqhkY-Yxc2ky7vrSZxvEPhvuwS=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Fern+Forest+Cafe/@18.7933635,98.982022,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a9a8f0d12db:0xdb8ed6b75be964bc!8m2!3d18.7933635!4d98.982022!16s%2Fg%2F1hc7fgf5g?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:51:05.835566+00:00"
+    },
+    "2c3be1e3471d8014acccd197aa0502c9": {
+      "name": "Zeit Roaster - Brewing Lab Cafe&Coffee shop",
+      "address": "95 Charoen Prathet Rd, Tambon Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "063 123 3280",
+      "website": "https://instagram.com/zeit_roasters?igshid=YmMyMTA2M2Y=",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 09:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfpuPh4k3cDApbcJ-M3ai_4oDyhtcIP6NAu24Mcpl0zeZUIxFs2DENYarxRaU-avuBw2AfQdlZihK5GlcxUQwWkOiOjHexz4uPYntSK637qa6jH9z8A0vpUbuo2QwWALMmN7f9BLWZSVnAo=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Zeit+Roaster+-+Brewing+Lab+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:11.933474+00:00"
+    },
+    "2c7be1e3471d80a9a5cbe78155809639": {
+      "name": "Baan Kang Wat",
+      "address": "191-197 ซอย วัดอุโมงค์ Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "093 423 2308",
+      "website": "https://www.facebook.com/Baankangwat",
+      "category": "工芸・工房",
+      "openingHours": [
+        "星期二 10:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdFT34mTm1yr_0cipb8njjudLqCt37dxVbTO4RWlrPBePXFlmCIAvfkmWWUV4CS69cFQcuMi9u8u4or76l_WTMPM2XSzME3vPQVTk3Hh07Ocn6Tzh1FH5LjTRfymQxlMvPrvdJ0vHMUaOMD=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdm2iPq6yFh79R00W1vifX6_Zkr0ILOIaZUX2vtB_HRbAMgri4Sav28n5fxiwKojW8a53PklzYesLWRsDN7nG7vClFUPIr3xGCOuJV7lLk-yG9KsylBwNTm6ggXsMgagfe3UBGRyViBYhb7=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfzIIC-C3-9k7hnxZDFK-Wmq5lEBwturMk6uikMPJGvZuF7Nc9f_Cp_B34sl25Hf5z6nmwbX-uTx1ad2EsPYikPQgIu2Ha88ueOxycBx57RMgMiQQm3DSvZNRXRsq8uBo_WtJRdLg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Baan+Kang+Wat+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:17.995145+00:00"
+    },
+    "2cdbe1e3471d80cf8c62ca7f15822f9a": {
+      "name": "Living The Dream Cafe & Playground Chiang Mai",
+      "address": "115, 25 หมู่ 2 Photharam Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "082 964 6918",
+      "website": "https://www.facebook.com/LivingTheDreamCafe/",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 07:30–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcfHViPqJuV1Q81EJcx_jJAZMLauly59o0Ndjhth9TW2QSct_TAPXl4_tqXx3nPOEuiUsygkCtkL_RQm9vsiZ93_IZUiVltXcd9ADnPuaiiAu00xHSpHlu2Oj0P8mx7RCHEEmVdRQ=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipOtUIjJoFjU1LOgV2sOwD77ZDxSz0cvYcwZsM9s=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Living+The+Dream+Cafe+%26+Playground+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:24.082484+00:00"
+    },
+    "2e4be1e3471d80eba280df48e22b2347": {
+      "name": "Paper Butter Oldtown",
+      "address": "27-27/1 the yard hostel Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "061 195 7264",
+      "website": null,
+      "category": "亚洲混合风味餐馆",
+      "openingHours": [
+        "星期三 10:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfu-CIjGR59tL5AQKCpDouG9LABmvcL02lTlhtIPld90RDxwEJMKP8PqzlvsOLwUYVwRrlelQmIi9f02Z4lX0NF8aDGHFRHdcaN4wtP0YqDvAAiI765TknBZ0B4wF-R7b0Z62tdw3d4DnhY=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Paper+Butter+Oldtown/@18.7894684,98.9892955,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb9e8a32b45:0x935d59882830458b!8m2!3d18.7894684!4d98.9892955!16s%2Fg%2F11xyhbrss9?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:08.480084+00:00"
+    },
+    "2e8be1e3471d80ee8acecf3fbe0b7ed8": {
+      "name": "Yoong.Coffee Room",
+      "address": "ยุ้งข้าวล้านนา 242 1 Nong Phueng, Saraphi District, Chiang Mai 50140",
+      "phone": null,
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 休息"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfEma39MrvSGbfiTY-FH3tSFUIq5PzhVa7r8cE9J_OCkLnDGrpwemRFDMcdv4ibI06ulcCk-T152cb9oKijwsR_AXqOA-TuXwEOO7GrALM-fRv5GXdQm0gqWodv_RphVgo3LcfcNw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Yoong.Coffee+Room+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:35.596101+00:00"
+    },
+    "2f6be1e3471d809f8257cdd6612ea7d8": {
+      "name": "SELF",
+      "address": "9 Charoen Prathet Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "061 535 5417",
+      "website": "https://instagram.com/selfcoffeechiangmai?igshid=1klbes3qfeozk",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 09:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdccrXRFq9HSl56SHTWK4-fLw2wjw5W42JQEkDElRkRvu_5YyzTtzM-umK8yEo-ZZcybyqjfMFO9vFjMs6BQTw0bVPveTMoOxoDYUz4WjD16Rr9QxkivlDYumyIKK-U5BQfP8tuew=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/SELF+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:41.574738+00:00"
+    },
+    "324be1e3471d80218147ccca2544a52e": {
+      "name": "The Baristro Asian Style",
+      "address": "สุเทพ, 200 Suthep Rd, Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "092 455 3947",
+      "website": "https://www.facebook.com/The-Baristro-Asian-103469521667054/",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 08:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc9E834Nj5XUowP7ajPVeJ3HAVwy8TF9xgo3kROuKS_E-rX74m_1JDV40N-BkJ74hL8sFLuUIPk9Kh-AebVIKycGla4eK7BelkriKCTXcQN5s7aBluHHfrwKkXcUQFbZSztgcBm6A=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/The+Baristro+Asian+Style+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:47.466178+00:00"
+    },
+    "398be1e3471d804b8bf1e09c56f7b36b": {
+      "name": "Hohm Lamoon Café (หอมละมุนคาเฟ่)",
+      "address": "146 Pa Tan Alley, Tambon San Phi Suea, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "053 110 345",
+      "website": "https://m.facebook.com/profile.php/?id=61551071675798&name=xhp_nt__fb__action__open_user",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf9siE0iKrY6D2wmrjEetEV_t6EVwDm9u1V8WnZu0qDxJI80aqa7Twdxq0CsAOEe1lI_xGC5PTXLQMJJBAEODKzfrkQ6u5AHz03FjPNfFvpwy2jM1QREt2hdB72S8cSMm_R6Mx0z_fZd_oz=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Hohm+Lamoon+Caf%C3%A9+%28+%29+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:51:53.227618+00:00"
+    },
+    "3aabe1e3471d804a8b46d6b319151ecf": {
+      "name": "ChomJai Cafe and Dessert",
+      "address": "ช้างเผือก เลขที่ 3 บ้าน ถนน เวียงบัว Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "084 995 7779",
+      "website": "https://www.facebook.com/share/1KrrtM4ho5/?mibextid=wwXIfr",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 09:00–19:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf9_9kjRfw32BYxLi_mfGpMVsvMG45lU8YcDSD0nHihpg2xzTovLtOOCPn_mBJbIw3VJb4Jt3gS73BctYjBDCwczcHkcXTpNTID6xd5nQMSoN_Arcq-RC5gV_osgGgbtmsSOBdJzqCGpqj6=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/ChomJai+Cafe+and+Dessert/@18.8070084,98.9794045,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0069748a8f:0xcb55eac9abc55983!8m2!3d18.8070084!4d98.9794045!16s%2Fg%2F11z58r81j7?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:52:03.349046+00:00"
+    },
+    "3c5be1e3471d801f8938eb4c015f108e": {
+      "name": "Kanal.cnx",
+      "address": "681 9 ถนนคลองชลประทาน Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": null,
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 10:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfaqh2Z13C-DFViYZdvyEozfBfi8W25-SAnawb4Q3WwFNAZtHNP0fBdcG67sP0h7-0J-SKEnNOancy3gzgxZZpgSl63mrCMm2nff9WfSsEVCPP0OZHf_qieLJJkAX35THtjEAr2QIYIG__2=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/681+Kanal.cnx+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:09.819110+00:00"
+    },
+    "2f8be1e3471d80fba519d0d0eaa4506a": {
+      "name": "Ombra Caffe Nimman",
+      "address": "14 Siri Mangkalajarn Rd Lane 11, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "098 347 9744",
+      "website": "https://www.instagram.com/ombra.nimman",
+      "category": "早午餐餐厅",
+      "openingHours": [
+        "星期二 08:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfuOLZg70aGYKJfHU8TtKUw7FTUT6mVqnEVfNzq-mh1m6SLLBmGPULCQxJRUpVMqbjNLA7pYJcN4zWRbDNNhoGTzrhwy3BHt2PVX9v5Mu1sFzULzombTy5AjhJr5Mel4guegUNG0A=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipP0IeSA0xYc5bCxNm6WOQ8cYKseU8i9w507VvXu=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Ombra+Caffe+Nimman+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:16.026629+00:00"
+    },
+    "2f6be1e3471d8009a182cbb49e0b11fe": {
+      "name": "Charin Pie",
+      "address": "20 Nimmanhaemin Soi 17, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "098 955 8149",
+      "website": "https://www.facebook.com/CharinPie",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 09:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfT1DDrWUjjieWRZy4Y5tjTFQQnvbNv-GCj0X4a4EiHCmTprSv2TjFi7-RzbeH3S8MVhB9GvD182g10hovbioEjSzO6HpsITQGSvree3WMFNxw3JVHFLAhvjBFNv-A97JBBy3crXpCD9y2p=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Charin+Pie+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:21.807769+00:00"
+    },
+    "2adbe1e3471d80798d51c86a1ee5b00e": {
+      "name": "FOHHIDE",
+      "address": "14/2 ชั้น 5 Nimmana Haeminda Rd Lane 5 Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "083 236 5442",
+      "website": "https://www.instagram.com/fohhide/?hl=en",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 08:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeq1kgnLkyMTPcTK8ZreCYN8qFptan4WlU0ZIe5VqHoHZU9P1AuCBjzRx0peeaKG-XCk1tHMQJfbqgk82MEvwyhUVeJU9oK-iG7mgHK6p15DYU3IA0zJCHdvMG__GxsQvn168Q=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/FOHHIDE+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:28.131942+00:00"
+    },
+    "2b8be1e3471d80c4ab32e51472060dbe": {
+      "name": "Homey Home Cafe",
+      "address": "Taewarit Rd, Chang Phueak, เมือง, Chiang Mai 50300",
+      "phone": "065 384 1595",
+      "website": "https://www.facebook.com/homeyhomechiangmai",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 07:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfS0whdx_9rFcrCALtgrSTYlrlJp5CygO8JzVJzA7ULXeywRGHzbjJqfLG1RmSjrN7v_jP2FLCMjLepgxlfGblKWeK16UAsVFusKmluitULG1a3HdYr2L8cxXPcpoFyBsDMyIE0IG1kjZKx=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcqfmIBNTnGWjahmquyNZWEqNJxsEo86VQfTtZMLsJyrTRKHYPKuvTAdd8En1MxT39-SokP_00GtmUwa2UAxZSeA1HX4wh7P0Dz_AUTpVBL2sB8WRFEYz_SBn1v2z8r_tyL-tLrukN8cRc=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Homey+Home+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:33.865752+00:00"
+    },
+    "2cbbe1e3471d80efa5bbf511b27bb97e": {
+      "name": "Huan Kaew Coffee",
+      "address": "4/14 Mueang Chiang Mai District, 50200",
+      "phone": "085 623 1355",
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 10:30–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdW0ZnQ5eiBEE5PkKF7TYGz8SIfbJvXG7zZRAQwJXDT3GQN3y5uh8tm70_t7K8fX8rbiLDe4wcXm5_oFgYhqn1DfBJFLpmlDcqfibHC8CbIfmz4nTmtJvSAltHQzNoEaIW_8m3EtQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Huan+Kaew+Coffee+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:52:40.067724+00:00"
+    },
+    "2bfbe1e3471d805f890efe3d067b132b": {
+      "name": "Early Owls",
+      "address": "13 Muan Dam Pra Kot Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "095 224 6590",
+      "website": "http://www.facebook.com/earlyowls",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 09:00–18:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcuwo9h4WF0FPZnUGZ_tVbLhxa4TOcSblwGIYYBDZ7wAR-N-j69uakMUJCT-G3KXqEjuyT2_wPe8pcN8uLuCk6qpfDPiKBr9ua_nHCDTDrG17VeEr_OGZXjuCsqxIsqy1jnpyy6=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Early+Owls/@18.8058614,98.9890292,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bdad0dbc8c7:0xa2800d37f916930!8m2!3d18.8058614!4d98.9890292!16s%2Fg%2F11h1rx2pys?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:52:47.672288+00:00"
+    },
+    "2b8be1e3471d80baad48c21bf7e1c2da": {
+      "name": "Cafe Arte",
+      "address": "155/4 หมู่ 2 ถ.เจ็ดยอด-อยู่เย็น ซ.8 Chang Phueak, เมือง Chiang Mai 50300",
+      "phone": "081 821 9250",
+      "website": "https://www.facebook.com/Cafeartechiangmai2013/?locale=th_TH",
+      "category": null,
+      "openingHours": [
+        "星期三 09:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_h46wp-taNAPFZzVcXXInp70l8TGSE30DHS0yMlCY7JAHB6qr805yeIYN0c7p8P_C9ZbhhULZQ_h7AtF1m99zbIFXYMrDDB1k-5NXLM0SxxYdG5wuwMhsJwm5Y3lPMTxoHNY=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdJ1g3B0ECyvaEuzWKl7MQyLd8QIAjKLEVRTW1PVxvCHfI4UlSEBv5EpvE1GW0hpv5gdDZyqomOduHx6X9xcfQ5RUMgmxODferbDnEU9SedParAHUHBRPDUB1BEMEfRj21Jwi9vX0-SeYA5=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcRgK-OcuHGG74Owrw9c-bSbIvmMSkbbQ4e_qnd98xdZeeWLaQXPq8JrjQL57vUdaLNzud_O9NeV2qxld8bMTTkqUAcUK0O-7DAX1PHkcoGRn5hYQoML17TyEcs2tJ1Bm-Bm509C0S5FCJl=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Cafe+Arte/@18.8104759,98.9670261,17z/data=!3m1!4b1!4m9!3m8!1s0x30da3bf1f47423b3:0x6169d6eca77d59ac!5m2!4m1!1i2!8m2!3d18.8104759!4d98.9670261!16s%2Fg%2F11ths9g10q?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:16.378003+00:00"
+    },
+    "2debe1e3471d807cacc4cc5b63d77808": {
+      "name": "คาเฟ่ เดอ โสต Cafe de Sot",
+      "address": "6, Sodsueksa Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "080 875 3499",
+      "website": "https://www.facebook.com/profile.php?id=100063528403937&mibextid=ZbWKwL",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 07:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLecboSS5RA55u9RjBdnuPzFfABgNY9W04cDxzF0TW9eTpf7OQz6tcWqqFeMs24A7dEmFBddT0q6uvrjV5XFOnP3L31S01s9iE7AM9kJL-GvJk5Re-XRmIi2WdLOAK2Pa-utjBvtdqyUVvei=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcPQ6Oe1v6GJssL7daHjkdj-PmewES1xKn-dfAg66eQpuGvm_q91-aUrjZiXuafPk83Hb9Qb9zCTpWsUK8mWP234TdBYG2umlpyhvRtEBVRMkMP25D98asiKWiWERMJg4HW14Rwu-IKa4fq=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Cafe+de+Sot+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:53:00.245248+00:00"
+    },
+    "2f3be1e3471d803bb041ea6277d954b8": {
+      "name": "Inchala",
+      "address": "106, 2, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "092 240 9554",
+      "website": "https://www.facebook.com/inchala.teahouse",
+      "category": "茶馆",
+      "openingHours": [
+        "星期二 休息"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcgOLskBD9MDgaITQ5qoWCGJ_dxYCYf_2i-1FQGPDSU9XpY0b1oHkiVleR8_kH-DaPPC-lNT9RxOl0Xlwn7ehDheF7l3ZXdd_TGy8Zf82-rZyfpVq-Kk9o4d9maQD2_DeKdx809=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Inchala/@18.8167957,98.9504918,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b6995e859b1:0x4165e5e58681d50e!8m2!3d18.8167957!4d98.9504918!16s%2Fg%2F11q7fv42k1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:53:06.834534+00:00"
+    },
+    "2fdbe1e3471d80c7b57df9932a2559b8": {
+      "name": "คาเฟ่ เดอ โสต Cafe de Sot",
+      "address": "6, Sodsueksa Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "080 875 3499",
+      "website": "https://www.facebook.com/profile.php?id=100063528403937&mibextid=ZbWKwL",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 07:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLecboSS5RA55u9RjBdnuPzFfABgNY9W04cDxzF0TW9eTpf7OQz6tcWqqFeMs24A7dEmFBddT0q6uvrjV5XFOnP3L31S01s9iE7AM9kJL-GvJk5Re-XRmIi2WdLOAK2Pa-utjBvtdqyUVvei=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcPQ6Oe1v6GJssL7daHjkdj-PmewES1xKn-dfAg66eQpuGvm_q91-aUrjZiXuafPk83Hb9Qb9zCTpWsUK8mWP234TdBYG2umlpyhvRtEBVRMkMP25D98asiKWiWERMJg4HW14Rwu-IKa4fq=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88+%E0%B9%80%E0%B8%94%E0%B8%AD+%E0%B9%82%E0%B8%AA%E0%B8%95+Cafe+de+Sot/@18.8041574,98.9810892,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bbae5bd14e3:0xb9a46c573c6b5c8d!8m2!3d18.8041574!4d98.9810892!16s%2Fg%2F11qpvrg7_5?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:53:15.442793+00:00"
+    },
+    "394be1e3471d8098a46eea3a5ff7accd": {
+      "name": "Mai bakery in garden",
+      "address": "5, T changpuenk, 1 Anuban Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "053 412 675",
+      "website": "http://facebook.com/maibakery",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 08:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd4QjAJpW_fy83y7d8aV7mm75X3mXj6TxrV9MJuWyvvmDvjhawyQy7fukwJbVQaFRPWXP0JuT0vFShjgNnUiKslKs9FdikvVOQjZrhTsX2WjnLI9fmGjp0FQIws_gIZcW4lvhiV=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Mai+bakery+in+garden/@18.8109701,98.9890639,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b029688ce57:0xa08b970a61c85d4c!8m2!3d18.8109701!4d98.9890639!16s%2Fg%2F1pzw399jk?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:53:22.278380+00:00"
+    },
+    "2e0be1e3471d80478afefcaa83781dbd": {
+      "name": "Chom Cafe and Restaurant",
+      "address": "2 13 ม.2 Somphot Chiang Mai 700 Pi Rd, Mae Hia, เมือง Chiang Mai 50100",
+      "phone": "053 271 749",
+      "website": "https://www.facebook.com/chomcafeandrestaurant",
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期二 11:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdYc2VmJFpytOaDJefJXIvGSkUzwZKFz7hy_sONENg1yx7v1N0p9vcVzf3-9rNFKI_tnstbGilEnbZvxe8jmP4Mx_rwurOFPeGjd4ojvFfePfAVwAUJd6hm_DLKnYDm1bqzX40TR-gH9JB0=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chom+Cafe+and+Restaurant/data=!4m7!3m6!1s0x30da30c2b9c53dc5:0x1c4af489a66c8d9b!8m2!3d18.7484954!4d98.9455152!16s%2Fg%2F11f2sh06z2!19sChIJxT3FucIw2jARm41spon0Shw?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T14:53:32.139121+00:00"
+    },
+    "2d5be1e3471d80ecb4c3f331eeaee26f": {
+      "name": "JAI LOY CAFE & ROOFTOP",
+      "address": "153 Chang Moi Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "096 542 6079",
+      "website": "https://www.facebook.com/jaicafechiangmai",
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfaql9-1dUHnwIlomjy0TdS14ls1TSooGKAdi-oOwkxn74mxA-9TdTE-KrBSa7yXj5U-T9cBZYJ2O-M-fxX02auuF__dpDm6RZvJkKZYqjEIPCWZv8Np0oE5jNgqy1Nek3_rjMyFk8OnCCv=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqe13R7oMof_nQLe8UCBkHr41UTRnQ7m5PulZvZGxbRJg1ThMClvyC1UEsIQjuoSQERMyrDWmRXczxFdKyDzsTuV0a-af3HYuiu4pdizx0FPoEHdW5R5TS4pJWQsyZ1tldvuYG=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Jailoy+Cafe%26Rooftop+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:53:37.492166+00:00"
+    },
+    "2d5be1e3471d8040b989edfe77622687": {
+      "name": "HIDELAND.cnx",
+      "address": "193 Chang Moi Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "061 252 4222",
+      "website": null,
+      "category": "烧烤吧",
+      "openingHours": [
+        "星期二 17:00–23:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeatpTyGoAMn6pOBmjQILjU3p2unDdlAnr-7GBwjqVpeFM1mLtjQOfeS8uvf9Wj7WVlykFfBJbArkU2kXeGufNm6KiTJFw6v1L5QcI6JaeLLYevQQbtASN0levEJMikNJoC-ldmZw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/159+HIDELAND+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:53:43.806079+00:00"
+    },
+    "324be1e3471d80909bdce0e251be3d6c": {
+      "name": "Areemitr Coffee",
+      "address": "17 Sodsuksa road, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": null,
+      "website": "https://areemitr.com/",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 06:30–15:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdG7uesjFu6VV12WgLcbij06bWTyPwhHn7ed2ZS1iaMAPPE-ydLpEsTpV9Ez2GdaEHsO52hY0W7m41Dgvdv9DhftfO4otACzdHx4liLAWdJCE33o4oQYXPmHhTIrSte1p042Qk2Ig=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Areemitr+Coffee+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:53:49.524361+00:00"
+    },
+    "2b4be1e3471d80a19fb2d4a84078cf7c": {
+      "name": "One Nimman",
+      "address": "1/1-1/12, 1/5 Nimmanahaeminda Road Nimmanhaemin Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "052 080 900",
+      "website": "https://www.onenimman.com/",
+      "category": "购物中心",
+      "openingHours": [
+        "星期二 11:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfYoh0gxyt3qYLaobeiAaGnTQco9PXZnOqS1kEoGHCEYogkc0lCe16Xre2c-7mQL56vdkdPyyqzswliXJnKfGUoO1o5zAyWdo3Vgx814FjovCrLMTpHIStgagF1Q0BGBFguwRt1eiTgSk0_=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd2MWtRxasPB1ZRduirTZDCIg3SBbY0pOQhGu8U6HkTCD6MY8dmZktDFMxFVh30DWQM9s4JGPz4MHciGEAgeWWkBwGKb4W5f4DZHJE0fkGra-JfL-iwWHqkTEjlzkJyU6iR6be4Wt7_xjB2=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQfUfkQjP2GSnV8qQT2Bq-Bh46qwkQivawzPXv9s7AbiSsAQ3nkaZpeE9e97KFz5C_1sRrhTRRslj6ypSptoLiv87f5gqnaxi2xNcXk9CO9wTko3-SPsSo7Yju32NvCZ_vNRt=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/One+Nimman/@18.8001561,98.9676423,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf5284d07f1:0x39ff3a601ee23fb7!8m2!3d18.8001561!4d98.9676423!16s%2Fg%2F11gmz7v8_x?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:53:57.563987+00:00"
+    },
+    "2c9be1e3471d801bad2ade822f331900": {
+      "name": "Hooman boardgame house",
+      "address": "98/1 Kamphaeng Din Alley, Tambon Hai Ya, เมือง Chiang Mai 50100",
+      "phone": "084 047 8630",
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLflYbLf8q07SSjLH0TVIjMrq2-i7piNylb5PCqmpgoxBIi3aczHSbAaoWMU7KcecQJvHMiqsZ7-js9_V2QabW3vW6wWK06qygsH5UhrdfZZsv-ACnII1WmET9p5NxjuQkVd6vgO=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Hooman+boardgame+house/@18.7784749,98.9945745,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3af25a6fe2c7:0x6105f8ae06ec4aab!8m2!3d18.7784749!4d98.9945745!16s%2Fg%2F11fyzcg71x?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:06.327713+00:00"
+    },
+    "2d1be1e3471d8075a96ae4668d6271c2": {
+      "name": "结果",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdTD9tC7m8kJn3HwbToZtHgSK6csfmCTwQ7ieXk3xTNkryh7PTMhb19-tPR82RSMIGAPHex_VpJQln60tAjmpN0uXW5UEW1nwIaibq8VS82-UoQIRSO5e6Qg_goN1CbAPlwXdDZ=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfUA5lQh0wua7Dd6V9hOAqmsRRE9g0GzE4EQD6MURhq85HbLKQExy9pKUT3M318ElsntQeB2I3QGTDaRcNgQa8FBjTNQjUN2m0KQjWILjki63oVnhvtSpVH0zSqBegZqD8d0o3XxQ=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcDdEZP7qXPV0d2ZDX4TbdxeLFsDukQOao0qOXaGKcuxsoPbYNVOvvdYmYkHnFuqWTWXzdhZMk8ZZx23UzM0KKfEg5c4A7FfWzDTajPzEP_LdW9loMu-kfOazrr_8WV799Y7uZx=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E5%B0%9A%E6%B3%B0%E7%94%B5%E5%BD%B1%E9%99%A2+%E8%B4%AD%E7%A5%A8+Chiang+Mai+Thailand/@18.7875229,98.9927513,14z/data=!3m1!4b1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:12.923511+00:00",
+      "unavailable": true,
+      "reason": "google_maps_link_missing",
+      "guideName": "尚泰电影院 购票"
+    },
+    "2a6be1e3471d8088ab72fc56407f4ec2": {
+      "name": "Artisan sourdough by apple fahey",
+      "address": "113, 12 Soi 16 Chanhom, Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "065 237 7173",
+      "website": null,
+      "category": "糕点店",
+      "openingHours": [
+        "星期二 休息"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdlMWD5bCbCK47gsbfVUCVhwDeb2HY6bn8bYtT-MVBMkWXrapgRxLUFMfxAogXy8EQGd2UJoJS_fprrxZqGAwJ1zGU5OEbsvshQL8d6wjY25nvDb5QuyFBscX2Y4fnz5lzIyF3PUzayp7g=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Artisan+sourdough+by+apple+fahey+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:54:18.813484+00:00"
+    },
+    "2b9be1e3471d806b80c9d4ae547e5ddc": {
+      "name": "PHAPLOEN MARKET : พาเพลิน มาร์เก็ต",
+      "address": "25, 31 Changklan Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": null,
+      "website": null,
+      "category": "市场",
+      "openingHours": [
+        "星期二 18:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdpNFtsgsF1cSVdYx0dvxforGZsAXzBWxPFBXrZvxa7mB9x2SuWS-SmoPZrdCEe895uIzXz6Mx9bfQHe-YtupSunxklAP1m-OPwSB4pbTzw8sXsABAylgcg1rZv1Vlg_JSPdTEmBFP8flrK=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcTDuBepZADcDU21p8wKskewc8oFrlO8CPw_W4yGA-JwnnKvwBjPu3edKPGehNIg3vi3aTO1AGugirJ76fZdbOPpuhqn5eJa1eHlrerFVSyXlt1xi_XYOA85u17chEO70wdaRmEWg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/PHAPLOEN+MARKET+:+%E0%B8%9E%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99+%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/@18.786672,99.0007507,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31b9e058c9ef:0x7b96e47d7959aa76!8m2!3d18.786672!4d99.0007507!16s%2Fg%2F11wqgzgplx?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:27.993716+00:00"
+    },
+    "2a5be1e3471d808ba54af5a9925b29d3": {
+      "name": "Sathu Moo Krata (Thai BBQ), Mae Rim",
+      "address": "WW5W+RXR, Rim Tai, Mae Rim District, Chiang Mai 50180",
+      "phone": "089 851 7049",
+      "website": "https://www.facebook.com/share/19AMk6sSTj/",
+      "category": "餐馆",
+      "openingHours": [
+        "星期三 16:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdaFdUFiUoyCKBnRva3NnYnHDmjxCfMtjzAx37XUdaXXcYt9DWR6plQTHDmDnpdIjuw3QFjqAKr4cB2pgbCjph8KSujwar2uavNoi-RGk8C5HzxuImQ0q_yBV7O0JTqZ0Lx1wkz2Q=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Sathu+Moo+Krata+(Thai+BBQ),+Mae+Rim/@18.909621,98.9473835,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3c4777d2c837:0xc568fad6447ca0de!8m2!3d18.909621!4d98.9473835!16s%2Fg%2F11cn9l1y14?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:22.612216+00:00"
+    },
+    "2abbe1e3471d8086acb0d55a87f7009a": {
+      "name": "HomNoey Thai BBQ",
+      "address": "3414 Prachautid Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeWuppuwRbh6lUTLsUtRU8BsSMMB2SlXllRwCuRxX_d0jTjjtHsKrgMxjyTsywEWGSvymJ_Yz1Fyvtbz4LVdphHrI2khOlVq72TCDAu4THx7cjGATE68Cn9SQIDiSFTjs6cHxMC=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/HomNoey+Thai+BBQ/@18.8012977,98.9825031,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b9e2afb0969:0x5d6c0b21c74a2e1f!8m2!3d18.8012977!4d98.9825031!16s%2Fg%2F11ssd1jm10?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:40.259433+00:00"
+    },
+    "2c8be1e3471d802f83e8efd5c703aada": {
+      "name": "Chill Chill House",
+      "address": "88 Wua Lai 2 Alley, Tambon Hai Ya, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": null,
+      "website": null,
+      "category": "度假屋",
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeYcETT-kU4_E8UM7adl4wKoI92eMBpx_DDrX9rvw5W4MlakiM9734AN_PQxhq9qz61XfnJaSgNsoQECRMoaQObup4Q6E9UJzEhVnsTT_q1TwzcO7mF2OrpaQR4cgOn2DA1EMTHRTeMal83=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chill+Chill+House/@18.7792433,98.9847564,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3143e9541d35:0x9ca55bb5658f2574!8m2!3d18.7792433!4d98.9847564!16s%2Fg%2F11mspcmvzs?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:51.141760+00:00"
+    },
+    "2a7be1e3471d80148044c4c370fd78f9": {
+      "name": "Look Inside CNX",
+      "address": "163, 3 Moon Muang Rd Soi 9 Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "062 526 1844",
+      "website": "https://www.instagram.com/lookinsidecnx",
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd5gY2pTlATltvvgGjqimSrw7FTw6GS8W2K9oqFhr9N7k8h-iwnwUNEzQ5noWmiXUuW2lG1iY8cXxY0eNTTmbm3oiBo84yCmLSnHTAAstOOWQE4JbfzoEm-Tay-QSlD73MVAlOjF7CAGo9Y=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Look+Inside+CNX/@18.7915407,98.9929104,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b64b71ac721:0x204f4a92f4fd67f2!8m2!3d18.7915407!4d98.9929104!16s%2Fg%2F11lcn4ttwb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:54:58.679011+00:00"
+    },
+    "29cbe1e3471d80e1aa18d9defe5e0950": {
+      "name": "Chiang Mai OriginaLive - The First Indie Livehouse in Chiang Mai",
+      "address": "QXMV+J4C Old City Tambon Phra Sing, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "083 680 6868",
+      "website": null,
+      "category": "现场音乐表演场地",
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLiwdduIwhZm5m-Zan9ieQcceR9QE5f4nILSTV_CQeMLIvTuC2sstlz7gUYRZKApflxw2no6foHA62OLyNrT1vjXiebcVRm23YzYavJ4zizM9M_L2XCRqAWd0eJf9LBz5d_OI1=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/QXMV+J4C+OriginaLive+-+The+First+Indie+Liv+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:55:04.616743+00:00"
+    },
+    "2b9be1e3471d801db5c6f4ab13c9e4aa": {
+      "name": "清迈人妖秀",
+      "address": "ตลาดอนุสาร (ไนท์บาร์ซ่าเชียงใหม่ Changklan Rd, Tambon Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "083 477 0109",
+      "website": "https://www.facebook.com/ChiangmaiCabaretShow",
+      "category": "卡巴莱歌舞俱乐部",
+      "openingHours": [
+        "星期二 19:00–23:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfiulHm3nLBsnk36MKaLgDQMQKAcoIP1Hn5AK0pzT8KC6QN7HsgenLnZYaDPFrO1BTqkAa3JyeNgo7Kknw4uGP-6W-PaWZcITfH-cyVfJ6Xur6Jd__flH2oVfyHNekO9EqChvEo3A=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E4%BA%BA%E5%A6%96%E7%A7%80/@18.7825961,99.0011044,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa877e8f97f:0x20b7e29e2d7b16e5!8m2!3d18.7825961!4d99.0011044!16s%2Fg%2F11cjkq1d8y?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:55:12.654580+00:00"
+    },
+    "2b9be1e3471d80bbb480e4313ca8d569": {
+      "name": "Boy Blues Bar",
+      "address": "โครงการไนท์บาซ่าร์เชียงใหม่, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "094 634 4555",
+      "website": null,
+      "category": "蓝调俱乐部",
+      "openingHours": [
+        "星期二 19:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc_hLDAe9Ql8zrE7VmHhxkZxelvZVe6KtbCFQicNUSHpcGZueS3KwnLsESz1OylUgvhKk1OUuQcxnQv0xC5VcHr4VJ1IwJAZrae1f6OhPS3yNItC9WHLHKb6DoBqUy1tv6XKzp670v6dlyU=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Boy+Blues+Bar/@18.7854255,99.0002127,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa61094be3d:0xaa4f30631502a77b!8m2!3d18.7854255!4d99.0002127!16s%2Fg%2F11b6rzhx62?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:55:19.672029+00:00"
+    },
+    "2c9be1e3471d8092b42dd519483ffcf8": {
+      "name": "Do You Ever Social Club",
+      "address": "56 Siri Mangkalajarn Rd Nimmanhaemin Suthep, muang, Chiang Mai 50200",
+      "phone": "063 119 2695",
+      "website": "https://www.facebook.com/doyoueversocialclub",
+      "category": "酒吧",
+      "openingHours": [
+        "星期二 17:00–01:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfd5hp6K8bMBXmdUcUKRghCafi4GWp3mwf_p8YadPLowB-To0FDf_lnEsePB4GvqEESc3J_JYQ63q8BMydVzoTeMLnRLj9rpmlWkq0F9rGW0IySR7QR9NHX0LG78H50Q217gLw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Do+You+Ever+Social+Club/@18.797626,98.970825,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba9c457ec6b:0xfef861846b72523f!8m2!3d18.797626!4d98.970825!16s%2Fg%2F11t859fv24?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:55:26.135523+00:00"
+    },
+    "2d0be1e3471d80c2b748fe387344f135": {
+      "name": "Sai Ping Bar & Restaurant",
+      "address": "91 ถนน เจริญราษฎร์ Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
+      "phone": "099 246 3522",
+      "website": "https://www.facebook.com/saipingbarandrestaurant/",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 11:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLejhcHEElixDRM0kuIqHfKK0ZkNqdtCyHtRHjDtPkiDg4CENyGQr-JuGK14JExaRotAMWzPSaDHCAr67aqjwIdk2nbyL8xLLDyD_qgCy8lVP2XRxiXpBLxAL8JeB1F2ru93bws=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Sai+Ping+Bar+%26+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:55:32.281114+00:00"
+    },
+    "2e2be1e3471d80108b87cf8aaf38108d": {
+      "name": "บ่อกุ้ง บ้านพาเพลิน",
+      "address": "QX9J+4C4, Tambon Pa Daet, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "063 882 5666",
+      "website": null,
+      "category": "ร้านอาหาร",
+      "openingHours": [
+        "星期二 14:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcIhPAaDyxiSn4JpH3OF0TmRJeGAciOWiZsUy7aLUBf7mzwPEjJcnoM-Zawyl5scpjnGJ-zxIpkPQ_CMIoY4oViRaxJaIluApVAuEmr2vujONsXPMHLln2K9IQ5bd313-NRrxU9kQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:55:38.338398+00:00"
+    },
+    "397be1e3471d805a8a64d5babac6243c": {
+      "name": "The Coco Club",
+      "address": "29/15 Jed Yod-Yu Yen Soi 4, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "084 558 2173",
+      "website": "https://www.facebook.com/cocokala.co",
+      "category": "共用工作空间",
+      "openingHours": [
+        "星期二 09:00–21:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfckeTVVlKGPe79NN_jAHGy9KUeomcf1mSAucbPME9InwP3IvoyNGeFis72JB2yCZcoDPc1fi9ga8KHD9WZck4gvvsTbKQ53PoBhecI6Qu-obg47FLQ7X9byozdFegsSJYOtz2V=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/The+Coco+Club+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:55:44.243167+00:00"
+    },
+    "29fbe1e3471d80d9ac4ad81f28e071a2": {
+      "name": "Doi Saket Hot Spring",
+      "address": "ชม.3005 Pa Miang, Doi Saket District, Chiang Mai 50220",
+      "phone": "091 769 0002",
+      "website": null,
+      "category": "旅游胜地",
+      "openingHours": [
+        "星期二 08:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf-5S6T_-lq9NhOymayistWgKbIyhniUb-oNRi1eOESy3DMfp37bPtqK86iv9DoazUdLBQpR6HZVkWKrcdgBt6eGPjidQEiYoYBY_26TyE7WH8XzMaf1USzOBMmEaPAg72dbDk0TRgD3v77=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe5LzoQ2DczMnquIzNpObimELdAQYsInmf67PFiiULE7xNGHP7YbO0xbY6OeIgZrjZCUvntlAcwZp53qvUJl448OD3nz1pZFCgGJ05koPdpKl0oPzmg_SJPSnWvRFYnGWbxbTCYTbcav0M=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdI61RwNCbNL1HcMkSPdODeImoIrtAWMQmQdYs_OnIj1cUir1nDG4n-_s2ZQUI_B3SWbXvCNcd-EVKI7orKvagVLpdmEsg0vefJ8emsJIxwIW4grWNq2TwIzmuQH1oEHtM0R0sFcQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Doi+Saket+Hot+Spring+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:55:50.444163+00:00"
+    },
+    "29fbe1e3471d80268a99d01cffe57a46": {
+      "name": "Chez Yann",
+      "address": "Q2M2+WGR, 43 Kampangdin Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfprptY87sr6B7NMwGFpylrKhiGIUce0PkfBYdssfu_i2cEG4zGGkm5rkKuruzrkSEJwEgknpiVvjQEPQX3_g46AHxSM5a3zPy1edYYHSv9zfqvopxXCpi-v83sPspvsSVOx9zp9Q=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chez+Yann/@18.784918,99.0013279,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb586da1b99:0x4d6f62b5b9422895!8m2!3d18.784918!4d99.0013279!16s%2Fg%2F11tp95kjnr?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:55:57.752105+00:00"
+    },
+    "2bdbe1e3471d8091bb44faaac9c2bd86": {
+      "name": "Wellnest Sauna & Ice Bath Chiang mai",
+      "address": "198 Nam Phrae, Hang Dong District, Chiang Mai 50230",
+      "phone": "080 523 6290",
+      "website": "https://wellnest-spa.com/",
+      "category": "桑拿浴",
+      "openingHours": [
+        "星期二 12:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfNdpKk29cB00g4LvraH3aIsPUj5VJFsf8aIXTsO-lYKInqXMuCraYC5Cl4fvbHY9p_P-ytYtum1AgxXeHhSjy4yQzhNuBW9delFDyw14OAQLKLrCK_oWYp0Tq9EUAmrHOfBfnW6b7uHjV1=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/The+Cocoon+Sauna+%26+Ice+bath+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:56:03.726415+00:00"
+    },
+    "2c0be1e3471d80e7abefc29aba6611e8": {
+      "name": "San Kamphaeng Hot Springs",
+      "address": "1, Ban Sa Ha Khon, Mae On District, Chiang Mai 50130",
+      "phone": "087 659 1791",
+      "website": "https://www.skphotsprings.com/",
+      "category": "旅游胜地",
+      "openingHours": [
+        "星期二 07:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdzlXyAGmFomwrXLyn-7dzlBDBWc3GfXcfl6qH2oV9KaPpw5_UqjmxpsrG3i1fKdDWHKYxcqEAWLlvtwXqhWuRKZcf5zcrmzOAXkjKNCwMwpt7kVFypvfdqR6Zr3KYbVu5jeewF=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMneW74Sg8HyEZxqkl5udPGt5v_GdhKm8GsI3zBBkZwP9_grynGUPk2v7Jr2KliguEmHEiVDEtHMsRxu4PlFFnlaFkZ5dDOf0yiu--e-rZRhKWo5_oc8zgD_ciHpYS_W2II4GqHw=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdb5oP5BgMtg1IAxywfSmZu0bzmza5rAapHBOsHQ42cBriD76WA_M6Y-OgbD1JdOvsvSf-wo3PWxvcfFi9JoaTx6Tp11upWKczwv8cJ3bIW57MwoHlxK_ti8sykBiKY_6OTZP8QqQz-w7qe=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/San+Kamphaeng+Hot+Springs+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:56:09.836139+00:00"
+    },
+    "3e9be1e3471d80c4a888eb81d88d9d6a": {
+      "name": "groundrecoveryclub",
+      "address": "10 1 ม.3 Tambon Pa Daet, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": null,
+      "website": "https://www.groundrecoveryclub.com/",
+      "category": "健康中心",
+      "openingHours": [
+        "星期二 10:00–21:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcdNGlEpS57t4JsJcfZc_rSSQWdj-OU-KRG8xXby_zU-Ljgg9CMspiUQ7qTAUijjeDeuXYJg1RNTpc5isI7ev_lsb0Bl3pS2RN9dZExvVyf_Eh6LOTHHC98GZgl_xykkhDiqNDYXrjAJvdX=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/groundrecoveryclub/@18.7542607,98.9933088,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31005bcdcb23:0xb95b8a5e6fc1eaad!8m2!3d18.7542607!4d98.9933088!16s%2Fg%2F11zgvhnmxw?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:56:16.527487+00:00"
+    },
+    "2abbe1e3471d800997bec007b48faaa2": {
+      "name": "ākho - อาโค ปังนมสด",
+      "address": "59 Siri Mangkalajarn Rd Lane 5, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "062 595 4192",
+      "website": "https://www.instagram.com/akho.bpangnomsod",
+      "category": "甜品餐馆",
+      "openingHours": [
+        "星期二 17:00–23:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfes_jT9iPb9I0qM70RVKtI9xoy8esQQspvxUJYoPieLmVXh-bPTMc0RhT2w2QHOGHc7FyF2nzhLwJwCLBfo7CHHKELyxI-r4UVlh0gWX3gtJ-itoHO6TjJjyzmZ6Bcc8i44t5i=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%C4%81kho+-+%E0%B8%AD%E0%B8%B2%E0%B9%82%E0%B8%84+%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%A1%E0%B8%AA%E0%B8%94/@18.795723,98.9710792,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0054656e13:0x86762557c956ef0d!8m2!3d18.795723!4d98.9710792!16s%2Fg%2F11lp00h93_?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:56:23.093239+00:00"
+    },
+    "2bcbe1e3471d80dcb4f1e623765cdfb9": {
+      "name": "善灵素菜馆",
+      "address": "52 3 Singharat Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "088 819 9669",
+      "website": "http://goodsoulskitchen.com/",
+      "category": "斋菜馆",
+      "openingHours": [
+        "星期二 08:00–22:00",
+        "星期二08:00–21:30"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E5%96%84%E7%81%B5%E7%B4%A0%E8%8F%9C%E9%A6%86/@18.7932115,98.9821212,17z/data=!4m7!3m6!1s0x30da3a9078ef2e93:0xac523030a3089a13!8m2!3d18.7932115!4d98.9821212!10e2!16s%2Fg%2F11h9_qp9dy?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:56:30.264535+00:00"
+    },
+    "2bebe1e3471d8065a290df92ece268e2": {
+      "name": "ร้านทุเรียนเฮียต้อม789",
+      "address": "PXP3+HVF ดอนปิน ซอย 6 Tambon Mae Hia, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "095 642 6465",
+      "website": null,
+      "category": "水果批发商",
+      "openingHours": [
+        "星期三 08:00–22:00"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%AE%E0%B8%B5%E0%B8%A2%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%A1789/@18.7364309,98.9546564,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3100453d8713:0xd9aec7923f8350d1!8m2!3d18.7364309!4d98.9546564!16s%2Fg%2F11m5qd18z0?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:28.628938+00:00"
+    },
+    "2c1be1e3471d80d7b8b2d5a0ee976b54": {
+      "name": "Sababa Chiang Mai - Main Branch",
+      "address": "93, 1 Wua Lai Rd, Haiya Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "090 957 9068",
+      "website": "http://sababacm.com/",
+      "category": "地中海风味餐馆",
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLel8a4ZJ281ktLpyZY_mMWoqcEwyLfjtFkAtgt4ycSDaDL6ndiEjR0v6rEpZBuBMJAVQ8mPfPt2baEE5l6yB74IgeZO1RkRkJ0FlXZMzbqEHPq5NZ-y3ZH7p0MpmWvKzZfZMQLUaw=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipPcjMi43e-zkfsYPvP-OzjfEHuoKZVYCI5x1b39=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Sababa+Chiang+Mai+-+Main+Branch/@18.7781163,98.9842556,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa78890b63b:0x46ee2ab3860b8ed6!8m2!3d18.7781163!4d98.9842556!16s%2Fg%2F1td5c7m3?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:56:46.621814+00:00"
+    },
+    "2c5be1e3471d80a2aea7ff87c6ac8f8b": {
+      "name": "Madam Loei",
+      "address": "58/2 ถนนหัสดิเสวี ช้างเผือก Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "080 191 4224",
+      "website": "https://www.wongnai.com/restaurants/389336HL-%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%A2",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 09:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLddxDU5nQT4DUc7sMIMon5yS3fEdYVamZH_BQq2H5w4pFsxba-LeiPOmrTqHZoxz5ITGzohlkaPqZtY2-F86c02V-OfuNgEBko63_ARLfOnDA3GDGWbczgaPL4xXoNtt0VMZexgEw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Madam+Loei/@18.8039411,98.9812595,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b8503e380b3:0x9fa0c55dac30e1bb!8m2!3d18.8039411!4d98.9812595!16s%2Fg%2F11fkdmhfnr?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:56:53.414386+00:00"
+    },
+    "2cebe1e3471d8014a97cc610ab4fbb94": {
+      "name": "Guang",
+      "address": "9/2 Suthep Rd, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "053 809 005",
+      "website": "http://www.facebook.com/kk.yodpak",
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期二 09:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdV9QvC3l76B0P0LInmBmOqyVzXdPWObg1xmQHXOavppxg6opFQFqymOKeh6v2_HeDLFTeWBxHCX2d0PjA-my6lyTcJF8gRSWOPrpWPMOpLFo2VdbNjExESv4dZyjk-c6aXmBqg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Guang/@18.7893693,98.9672822,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a7dbfd099ff:0x43597ad0cca99fb3!8m2!3d18.7893693!4d98.9672822!16s%2Fg%2F11ckvm20nj?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:57:01.957551+00:00"
+    },
+    "2cfbe1e3471d806099c2e0101935dd89": {
+      "name": "Sai Gon Oi Vietnamese Cuisine",
+      "address": "R2Q5+58C, Fa Ham, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "081 530 8224",
+      "website": "https://www.facebook.com/saigonoirestaurantcm/",
+      "category": "越南风味餐馆",
+      "openingHours": [
+        "星期二 10:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeKOdnXcyGI6IaULKBtnMPrkRBoeLSkR_y8f0TMFbdYj2nnPmvUg7XLjaj1DtjjnvabZFkRzvhtvdZ6HJuLtdeOTwioD8hPEJBVokRF9W5XEmEC2VA8c8jOizN5V_xfi_GSnPkWTiz5TLwe=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/R2Q5+58C+Sai+Gon+Oi+Vietnamese+Cuisine+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:57:08.361918+00:00"
+    },
+    "2dbbe1e3471d80f0b2a3ff1f3a87495e": {
+      "name": "กะเพราขี้เมา น้ำลี้",
+      "address": "222 12 Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "088 411 4866",
+      "website": "https://www.facebook.com/p/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89-100064175197066/",
+      "category": "ภัตตาคารอาหารไทย",
+      "openingHours": [
+        "星期二 10:00–19:30"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2+%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89/@18.7638194,98.9773962,17z/data=!3m1!4b1!4m6!3m5!1s0x30dc0931764478bd:0x67ce51a099a9745b!8m2!3d18.7638194!4d98.9773962!16s%2Fg%2F11vbj0ly2c?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:57:14.776409+00:00"
+    },
+    "309be1e3471d80edbf33fa19cc499166": {
+      "name": "Brownie Yeesib",
+      "address": "Nimmanahaeminda Road Nimmanhaemin Tambon Su Thep, Amphoe Mueang Chiang Mai, Chiang Mai 50200",
+      "phone": "097 164 2583",
+      "website": "https://www.facebook.com/brownieyeesib",
+      "category": "糕点店",
+      "openingHours": [
+        "星期二 09:00–22:30",
+        "星期二09:00–22:30"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/Brownie+Yeesib/@18.7974202,98.9702008,17z/data=!4m7!3m6!1s0x30da3bf133c3ba4d:0xc4a588ad53d5e3f!8m2!3d18.7974202!4d98.9702008!10e2!16s%2Fg%2F11qn_w_bj2?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:57:21.439732+00:00"
+    },
+    "3e0be1e3471d80099425fbfe5a245b65": {
+      "name": "ร้านอาหาร เติ๋น TOEN Thai Food & Restaurant",
+      "address": "ช้างเผือก 158/28 เมือง Chiang Mai 50300",
+      "phone": null,
+      "website": "https://www.instagram.com/toen.restaurant/",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 16:30–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcMnjS72OYSlmjp9vgqMWh2w5KFKAGotnSuHEU67HgPgFLDKMCzem4IiDyYTwMf2iTtNkBltMJTOs-8Z9_wqtfjMdgBnFQpNnpnrYkVchNiVuwQondNcp90YrRI6RuuNOoMy0B8Jd5P9GH4=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/TOEN+Thai+Food+%26+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:57:27.705272+00:00"
+    },
+    "3e3be1e3471d80b4bfcbfcd741a36a9b": {
+      "name": "Shu Homemade",
+      "address": "4, 1 ซอย 12 Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "083 254 6035",
+      "website": "https://www.instagram.com/shu_homemade/profilecard/?igsh=MTJkemxweDNxeWkzdQ==",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 09:30–16:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcbQSkH_UqCcp5rx-RbM8ogOlOQ7Ed44niXsZflTUqpHg5Vn9foeXNDdsiHm3cIJf3-njGFBd1K6wteV2YivRjBSL7jLOAnTwybHuyZszlUp5qto-Gxy_5bud0foTKvT-ueQe3-QJy41XM=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Shu+Homemade+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:57:33.731753+00:00"
+    },
+    "3fcbe1e3471d806cb549f0a8d848e4ee": {
+      "name": "Chiang Mai University Main Food Court",
+      "address": "QXX2+RMP, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": null,
+      "website": "https://www.facebook.com/CMU-Food-Center-217149319696174/",
+      "category": "美食广场",
+      "openingHours": [
+        "星期二 07:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqNwys_XwCXPRxan6GQ6p8lFjStyrrUXwWzCoeDDpQdED8UVrDcge_91LAjHsYcb4WMy39lgYDRKqqAOH76_xab8V0HFCLnzMaKPY2hNsUW-Iiv4wFsJz2J6tNd4XI-nlkYMWPq-wqUEo_=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdmCq4-dxo6iKIta9lakhmc0Dv6RMe4fI0oOSkOZXrjQ2gUOQoKUUeEqCn2Ykd9FYm-TjFZ4pn8-1I8Nfthigy6qNEAXvTwPeZUkCCL2f5DIx6QVb8FiHEUk2dP1aO88Hi01KvP=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcpqfM8SpkT4xO09E2PXX1cotZ0--ZWw3g-vZY5uQ-yXdHPJ09W1yJwqfhFKQc5n_BlMsPALxq3VT5fYmKbaeRlYOOIhroSazzX82Ly136zxqB5m7ioWD_XA_Bpxk1CESY-UWX2Jg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/University+Main+Food+Court+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:57:39.639034+00:00"
+    },
+    "2d8be1e3471d803081e8d7b524e17041": {
+      "name": "Kati Breakfast and Brunch",
+      "address": "115, 115/1-5 Rachadamnoen Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "083 841 3496",
+      "website": "http://linktr.ee/katibreakfastandbrunch",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 07:30–15:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfkxPu4hZAXKHQBlG4XpO07rv1g0boHFrksKoMjqLtaG5Uyzv25-o4TwPxAUF9y8LAScCi-lxisghjTBGSj6EvYOnh-1qCjoNkTsUsSYcGBbBtQKqZYT6bRvghseBphhXZAbPY=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipOOHyQquzIZy_ZboijOt_gmwnMKChH2j4z96XrA=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Kati+Breakfast+and+Brunch/@18.7880021,98.988719,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba4b73f9d15:0x8a08c503725b8c4d!8m2!3d18.7880021!4d98.988719!16s%2Fg%2F11rvctk73l?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:57:46.012958+00:00"
+    },
+    "2fbbe1e3471d805ca287d27cea8fd33f": {
+      "name": "THE VOLCANO One Nimman",
+      "address": "Nimmana Haemin Road Lane 1 (Soi 1), Mueang, Chiang Mai",
+      "phone": "065 705 0725",
+      "website": "http://www.thevolcanodessert.com/",
+      "category": "日式和果子专卖店",
+      "openingHours": [
+        "星期二 11:00–22:00",
+        "星期二11:00–21:30"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/search/THE+VOLCANO+One+Nimman+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:57:51.824640+00:00"
+    },
+    "3e8be1e3471d807faeaaf786f2899812": {
+      "name": "OYES Smoothies & Happy Food - โอเยส ผักผลไม้ปั่น",
+      "address": "บ้านเลขที่ 27 1 ถนนหัสดิเสวี Chang Phueak, อำเภอ เมือง Chiang Mai 50300",
+      "phone": "065 464 7627",
+      "website": "https://linktr.ee/oyessmoothies",
+      "category": "早餐店",
+      "openingHours": [
+        "星期二 08:30–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcFEYcV7vwHzxiDmPRM61Se4tvFq4mRfTvxqe0f8vb7aQ1xkfw-mSAGqMqWHjPx0B3ssM9W5I7bPei67_FszekLlzAiZjA_wpSrtdUyj9twCijd2kDNoJFcOwVzsxfcTOLkUGc4UniMDco=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipMi6ideozLWhIs_58S5mZJatYpBzzQkAyNJPMeK=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/OYES+Smoothies+%26+Happy+Food+-+%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A2%E0%B8%AA+%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%9B%E0%B8%B1%E0%B9%88%E0%B8%99/@18.8028196,98.9809519,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b102208cc23:0x450ae82508bb8346!8m2!3d18.8028196!4d98.9809519!16s%2Fg%2F11tfh4q9zd?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:57:58.526666+00:00"
+    },
+    "2a3be1e3471d80288579dc50c8d31936": {
+      "name": "OL Beef Noodle",
+      "address": "2 3 Montri Rd, Tambon Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
+      "phone": "082 758 0722",
+      "website": "https://www.facebook.com/profile.php?id=100068858810413&mibextid=ZbWKwL",
+      "category": "面馆",
+      "openingHours": [
+        "星期二 09:30–14:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfZxOkil29Xf3EIu1ArS1JJROE0TAgXiDZpBEToPd20d5lxQWk82f3zzDvfdWO5mOSFBj_HXzkdiO3bF-JbsKLkgYkn-dXAZpMOLzwtg-NsyCrQ4hSPN78tTvhLp_VJfAEb55c=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/2+OL+Beef+Noodle+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:58:04.754464+00:00"
+    },
+    "2abbe1e3471d807bb42adb0d0387edc2": {
+      "name": "Kobe King Japanese BBQ",
+      "address": "234 Chang Moi Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "093 456 6623",
+      "website": "https://www.facebook.com/kobekingbbq/",
+      "category": "日式烧肉店",
+      "openingHours": [
+        "星期二 17:00–22:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ2hv6Akqrp4oPurQusazaK2hnBHfC5Tg1wInAqsN1AHjYXpA2og3M7RW8a7h0HwoU2THp_AJSPa0T0W6MSuC1jS63g-56Ze5t7kWQrcxv79dOsrZ_zl1MnsbmMW8PcMwi91bL=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Kobe+King+Japanese+BBQ/@18.7901823,98.9951776,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa37200f65b:0x305e94c26d3690e!8m2!3d18.7901823!4d98.9951776!16s%2Fg%2F11f33jnh9r?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:10.965075+00:00"
+    },
+    "2adbe1e3471d8094a796efc015e1591c": {
+      "name": "Mooyim JimJum Hotpot Restaurant",
+      "address": "5, 2 Taewan Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "081 716 6971",
+      "website": "https://www.facebook.com/Mooyimjimjum/?locale=th_TH",
+      "category": "火锅店",
+      "openingHours": [
+        "星期二 17:00–03:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeaj2mUsgK8Vn-tMfDevZ3QDDhhB162vOZ9W-dX5DxAPSAiqxh6bClloKb2bqYrxy3tQ9IQI5UXXW4MtnwRQfFWYJDQO54UIL7HgKfgZ-BPwDZYVkLLX9yAqijC9C9b-nNG99LaeA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Mooyim+JimJum+Hotpot+Restaurant/@18.8057894,98.9732267,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3af4b0983c2b:0x87240d816f6ca373!8m2!3d18.8057894!4d98.9732267!16s%2Fg%2F11b77d683t?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:17.831127+00:00"
+    },
+    "2afbe1e3471d80ae88fdd5b286563b80": {
+      "name": "Cherng Doi Roast Chicken",
+      "address": "2, 8 Suk Kasame Rd Nimmanhaemin Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "081 881 1407",
+      "website": "https://l.facebook.com/l.php?u=https%3A%2F%2Ffb.me%2FKaiyangcherngdoi2&h=AT34RFLWFLDzCnBmM8boRPb5Km5TPjNG1KnFbsdPgSRCtlhs2P1YZ0aixG33gkAstj9xfGitveoeDAb4YRFmNiL69zqjlY-1d_kvTRUzwfO3-Hq5ywa5Il2AbwPWSJVWzDUc",
+      "category": "鸡肉餐馆",
+      "openingHours": [
+        "星期二 11:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeViZ-JpJoNiHjpd5ZM6tLhpMzSWowg3ql3dM-wisnclDL6l_n8WPgPRRi84EfM3cj6vDRlrOWekrriJCR3ZjJDgrG8wcfKHHUS95tWJh4lUPaYnkq54DsIoN1-wpub6a6f4OTrgg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Cherng+Doi+Roast+Chicken+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:58:23.756326+00:00"
+    },
+    "2b6be1e3471d80a78f35fffea5d090a3": {
+      "name": "Chiang Mai Horumon",
+      "address": "43 19-20 Sodsueksa Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "085 439 4803",
+      "website": "https://www.facebook.com/chiangmaihorumon",
+      "category": "日式烧肉店",
+      "openingHours": [
+        "星期二 17:30–22:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMGlQY3ciq52a-kS5N-S5b_bYxGr3Pc7pRq5iyq9GSQO5kqOGqVWwpXMDuSNHyPuh6HAHAcXRWX2qYOQhE3yGX3gA9LulMg6Uuz6bEQ0mYmyrajPKf_pe3X4c8hoxxfQ2DJ-rWW0adfHM-=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chiang+Mai+Horumon/@18.8052969,98.9815232,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aed3131b3a5:0xc0f25d2c1f9d9b4d!8m2!3d18.8052969!4d98.9815232!16s%2Fg%2F11b8c4djsx?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:31.171469+00:00"
+    },
+    "2b8be1e3471d806987bbdc00abb2fa98": {
+      "name": "Jen Moy Local Thai Restaurant",
+      "address": "138 Bumruang Rajd Rd, Wat Ket, Mueang Chiang Mai District, Chiang Mai 50000",
+      "phone": "081 028 8189",
+      "website": null,
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期二 17:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLduBychpSD9rt2oCuJtZRbqd6rywu6uakGpBiSM6wWF3Tqn6cyia9Skbk898wqJimfTWtuS2fewE_06mwtAL0RemJHDn3EXov-629AWoPs6rLCIpoQeMQiRKErFtZ5iQbveeEhQkw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Jen+Moy+Local+Thai+Restaurant/@18.7908391,99.0088947,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb75749c3b9:0xf351e764e64a08f5!8m2!3d18.7908391!4d99.0088947!16s%2Fg%2F11hfybf8lp?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:38.016512+00:00"
+    },
+    "2b8be1e3471d80c2862aed5039a0a3e7": {
+      "name": "老高潮汕菜馆 Lao gao Teochew Cuisine ข้าวแกงปักษ์ใต้นครศรีธรรมราช",
+      "address": "105 37 Huay Kaew Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "086 343 7919",
+      "website": null,
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 11:00–21:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcUxQ4azUF7Az57Wm32T2PZonHH4tzQfvPe6gRRQsUNhf_hZ3XPvz_9sU6G6T2oa_uW4wHdwtKNDKf8rzZAPsminQJbBzk0VPhW5vj7NivR3hOqZ3DJyZ_lRPq-YHI1tpxAES3KZzcAWIPd=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E8%80%81%E9%AB%98%E6%BD%AE%E6%B1%95%E8%8F%9C%E9%A4%A837+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T14:58:44.774940+00:00"
+    },
+    "2c1be1e3471d80e096d2e15c658d37ae": {
+      "name": "结果",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfGnRNAfUFmNqa12th1CqvRrQykmecbXC8wBFeILRrEXceLRO5_JSwzLSDPDmLnCFDHKOT7v6VJ9-gBKPG-GsM1l5hyrv4PnnLbX_sbNrtfF3vuTvjAWQoeIJSQm-RxtexVkyE=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfKuvqqGDIulQkxtFu_MQlt3zgCR85kA-yFqO0XKzKzps7OD9AQX1fpf-pwcjOFMWmXmkIe2WuHJYWJubuZNV4Ss9jX2R-teQBmMvnw2PG6eWApnkNxmOdCRNnK_A1ghijPtHvM=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdLnHlU7dUYnAR5MS39l_kUzzs1D_DMQzM0YB4o4kk97DmgK-ZFTJNx-C2fpp-Vu_C5xyn_CEaQYeRs4iLvIFBEsl2d5IsLuguAqLOsxNbvznkokjIaBitlQKEs2Op2lCJomqD1fBPqIS4=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E5%B7%9D%E6%B9%98%E8%8B%91%E4%B8%AD%E9%A4%90%E5%8E%85+Chiang+Mai+Thailand/@18.7806579,99.0018439,14z/data=!3m1!4b1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:52.480348+00:00",
+      "unavailable": true,
+      "reason": "google_place_details_unavailable",
+      "guideName": "川湘苑中餐厅"
+    },
+    "2c2be1e3471d80479b1be7462567c7c4": {
+      "name": "云川饭馆",
+      "address": "RX26+32V, Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "065 455 1396",
+      "website": null,
+      "category": "中餐馆",
+      "openingHours": [
+        "星期二 11:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe0j37SN1aRQv3Z7IrxPPA-3A9xzwcWA6WZ1yN_Djp6RojGZHEYNNKUkAyY2VZtUi_U7ezjlrd6CiuCmwT2x4l6OZtk5SQhGSywzQTYYM42puAga_FYFeZhpZTlxQgAqh1W-iuv7Gfbjq0=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E4%BA%91%E5%B7%9D%E9%A5%AD%E9%A6%86/@18.8002342,98.9600651,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b006295e6b3:0x53dd22bed1cd2aef!8m2!3d18.8002342!4d98.9600651!16s%2Fg%2F11x22hh_df?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:58:59.980001+00:00"
+    },
+    "2c3be1e3471d8094aed4e81a578cf8df": {
+      "name": "SANAE • Sanae Thai Cuisine",
+      "address": "68, Soi Baan Khangwat, Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "081 159 0435",
+      "website": "https://www.facebook.com/Sanaethaicuisinescnx",
+      "category": "清真餐馆",
+      "openingHours": [
+        "星期三 11:30–21:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdVbifuskQWyf5h80h0bN6IKzV0mVZQ3F7AToYEkVfSobqaXGmly_CYx0ZnMNd9OWeuv15nCeEv2R6opgpb__6KG4_7CmimqQmpe8BX0bdHdHkufjT5FrvYQl3Xn8RxmIfvb--CDx-xTQM=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/SANAE+%E2%80%A2+Sanae+Thai+Cuisine/@18.7768624,98.946032,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b3f7cf52339:0x526b957ebe17459e!8m2!3d18.7768624!4d98.946032!16s%2Fg%2F11sy3v95z8?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:45.746521+00:00"
+    },
+    "2cfbe1e3471d80bb9ac5db2923dfc477": {
+      "name": "Uncle Kani",
+      "address": "29 Suk Kasame Rd Nimmanhaemin Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": null,
+      "website": "https://www.facebook.com/profile.php?id=100078672494963&mibextid=LQQJ4d",
+      "category": "牛排馆",
+      "openingHours": [
+        "星期二 11:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLePI5OL_NhL7gzEeHIaN3akLkIrvgFKHw7eClinCwrTagEXuPvqMoPuHRVpjkMPLBNokNi2uyg4HNP7toz4nSwehMYRO6AdR_Ts2yuQGjK3rAfdjE8bRmSpW33jTDduvx4QYZlj=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Uncle+Kani/@18.8009223,98.9637209,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bc623b95e35:0x914f20413464a6c5!8m2!3d18.8009223!4d98.9637209!16s%2Fg%2F11rtz8rw_v?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:59:17.648140+00:00"
+    },
+    "2d7be1e3471d802eabe2fae4ee648d8b": {
+      "name": "7-Eleven",
+      "address": "QXQM+C5C, Rachadamnoen Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "091 002 2920",
+      "website": "https://www.7eleven.co.th/",
+      "category": "便利店",
+      "openingHours": [
+        "星期三 24小时营业"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeFiiE7ooq9_9px4anhPy6MqI_D8O6rf849BW9sBo25GGwOIWZeIMGcVBbEy9gzOZXQV-KejAKL6x2FuMiSj2LCYqp7Ym8riG65uFqo4Jw8ANjKBQuc6j2Ur-o__bXLqE3xL4cdgdW8dZG6=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/7-Eleven/@18.7885723,98.9828944,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a9b9f603a0d:0x5848aff32495cae3!8m2!3d18.7885723!4d98.9828944!16s%2Fg%2F11f8blk96x?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:05:52.450999+00:00"
+    },
+    "2a6be1e3471d80f98d1cfca08aa20707": {
+      "name": "清迈老字号红烧牛肉面馆",
+      "address": "71 Rachadamnoen Rd Old City Phra Sing, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "093 589 6477",
+      "website": "https://www.facebook.com/pages/Blue%20Noodle/298192864029976/",
+      "category": "面馆",
+      "openingHours": [
+        "星期二 09:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcTteTJjf6ctwcKDhzXoYB3Ze_C4pCO-3CGwVA2fIzEAlGRGVPJNwgXNZ5SyBYotxpQKcQH9TVwiOYuH-9QzBNkRsPufXIy5DDmod9kGcyw2HfyZ8_-cAr4by6DAYnR6PUpV5ONzRVbguM8=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcEk3_Tc2vQQPUPtwBztqN-Zv5GE00U4MjiUdUQmdr2OyqMXBjRy7pP5IFqWP5qOW79bQ9EoEKqp9HN-R6y0yz-SFMhJg9kvwkx_LI_rp2UK3EJOfSUvk6KqbPxLW1CcM3AmjGYBYOQHMYz=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E8%80%81%E5%AD%97%E5%8F%B7%E7%BA%A2%E7%83%A7%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%86/@18.7875068,98.9902411,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a98a573b641:0xc429560773b3dde8!8m2!3d18.7875068!4d98.9902411!16s%2Fg%2F11b6gl794n?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:59:37.734060+00:00"
+    },
+    "2e5be1e3471d8032a9f3f97998160c68": {
+      "name": "烤串麻辣烫",
+      "address": "รัชยาแมนชั่น 76 Siri Mangkalajarn Rd Nimmanhaemin Suthep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": null,
+      "website": null,
+      "category": "日式串烧店",
+      "openingHours": [
+        "星期三 18:00–23:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd28Jge3ZaT5W8Ek68YZ7IkTk1v8I_BsttKRl5HumrAUXIkWzMX7E7T4rFJ3tyR0aapsseFfMbwM7dSL3h86nu-v_8zR38xxch4oIUIsmIvXx0zE7JX6zQ53wc7zAQsP7eFnsEh6uxXbUYZ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E7%83%A4%E4%B8%B2%E9%BA%BB%E8%BE%A3%E7%83%AB/@18.7955581,98.9706499,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0014ef1e01:0x424d485c3402c90b!8m2!3d18.7955581!4d98.9706499!16s%2Fg%2F11m6v76txk?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:06.150651+00:00"
+    },
+    "2e8be1e3471d80f6ac32c78d6d8e45f0": {
+      "name": "Neng Roasted Pork",
+      "address": "2 Rattanakosin Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "084 276 5579",
+      "website": "https://www.facebook.com/%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%AD%E0%B9%88%E0%B8%87-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-109617363790899/",
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期二 10:30–22:00",
+        "星期二10:30–21:30"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/Neng+Roasted+Pork/@18.7998228,99.0048013,17z/data=!4m7!3m6!1s0x30da3ba0e2cd3553:0xe05104b20bb58629!8m2!3d18.7998228!4d99.0048013!10e2!16s%2Fg%2F11gmwq0ffb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T14:59:59.995245+00:00"
+    },
+    "2f2be1e3471d802db796f45aaab4448e": {
+      "name": "Cherry Burmese",
+      "address": "121/8 Ragang Rd, Chang Khlan Sub-district, Amphoe Mueang Chiang Mai, Chiang Mai 50100",
+      "phone": "082 939 5250",
+      "website": "https://www.facebook.com/Cherry-Burmese-115225291159206/?mibextid=LQQJ4d",
+      "category": "缅甸风味餐馆",
+      "openingHours": [
+        "已结束营业 · 开始营业时间：周三09:30·查看更多营业时间"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcSvwzfk9TgkJoWZzpp8eUcnFl7dNUySDx1RSh7wegMW1KdNqI1nVMzBUYWEd1V3uwjitIBoj7f6wmIGc2Z_AMUNTmhMsqnJXW-J_5GSj-_YX4Z3QaDTaSk_pyI2pVzRZLhYVVeEr-pr8VP=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Cherry+Burmese/data=!4m7!3m6!1s0x30da315462f28d4b:0x2d323d74fd218ea3!8m2!3d18.7755961!4d98.9973647!16s%2Fg%2F11k48k7nmy!19sChIJS43yYlQx2jARo44h_XQ9Mi0?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T15:00:09.043491+00:00"
+    },
+    "31bbe1e3471d804abc01ccfefd99165d": {
+      "name": "Grace & Jean's",
+      "address": "12/1 Chang Moi Kao Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "093 912 3025",
+      "website": null,
+      "category": "中餐馆",
+      "openingHours": [
+        "星期二 10:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLebbRvCpAIq8KZkIneBjPsNWdQkcv0JPYYf0xIaxdGJk8ZYhtzyb9qaoP4CeGdYCz8sKcxvi0v5OiNZa10epTxWjwfaOdCRVdQ3t7BY219PC9EJHwNgXJ0TpjPVeChVshdKgu8W=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Grace+%26+Jean's/@18.7887439,98.9943662,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb0aeb5faa1:0x37d1698e6bcf4ad!8m2!3d18.7887439!4d98.9943662!16s%2Fg%2F11y4033gl1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:00:15.190135+00:00"
+    },
+    "31fbe1e3471d80f7847dcddf6114a2ef": {
+      "name": "AM.TONY Antique & Coffee",
+      "address": "11, 3 Old City Tambon Phra Sing, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "081 992 9610",
+      "website": "https://www.facebook.com/profile.php?id=100073992550366",
+      "category": "艺术咖啡馆",
+      "openingHours": [
+        "星期二 09:00–15:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfKwgT7-DP9zmAeCF-S5LEaAvUCQ1ewK1mU3tNRnV1VPT1PBtYz7UHVsCWA_Pj7VDhEMBmd5o5Wp45A_w0d8-Y5hIn9DZhen9BpfPCtytj07cZ4qDDiXaxyCxUazOlxnGDZtsNLVQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/AM.TONY+Antique+%26+Coffee/@18.7850783,98.9923445,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b5139b33b83:0x5fa03e31918fe688!8m2!3d18.7850783!4d98.9923445!16s%2Fg%2F11s2j68_ms?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:00:21.360882+00:00"
+    },
+    "38abe1e3471d8081b106edc7625ae8b1": {
+      "name": "กะเพราขี้เมา น้ำลี้",
+      "address": "222 12 Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "088 411 4866",
+      "website": "https://www.facebook.com/p/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89-100064175197066/",
+      "category": "ภัตตาคารอาหารไทย",
+      "openingHours": [
+        "星期二 10:00–19:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeAItEmB457k43LTi9zK8i9aiBtYOumYFFtrwBdYaoYTqLlkeiYB6YvaJF582bF3BG7ySvpqYeaDSVrPx4oDkTu-8ZiBPjYO9VTOn9hKR4SfRXUNcKkR-VnDs6vOIj-d83Hdr-aIYysmFk=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2+%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:00:27.593936+00:00"
+    },
+    "38cbe1e3471d80c78633d5381d8a6d5d": {
+      "name": "Chiang Mai Horumon",
+      "address": "43 19-20 Sodsueksa Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "085 439 4803",
+      "website": "https://www.facebook.com/chiangmaihorumon",
+      "category": "日式烧肉店",
+      "openingHours": [
+        "星期二 17:30–22:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMGlQY3ciq52a-kS5N-S5b_bYxGr3Pc7pRq5iyq9GSQO5kqOGqVWwpXMDuSNHyPuh6HAHAcXRWX2qYOQhE3yGX3gA9LulMg6Uuz6bEQ0mYmyrajPKf_pe3X4c8hoxxfQ2DJ-rWW0adfHM-=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chiang+Mai+Horumon/@18.8052969,98.9815232,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aed3131b3a5:0xc0f25d2c1f9d9b4d!8m2!3d18.8052969!4d98.9815232!16s%2Fg%2F11b8c4djsx?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:00:34.196247+00:00"
+    },
+    "39ebe1e3471d80edba8de558f38504b5": {
+      "name": "Neng Roasted Pork",
+      "address": "2 Rattanakosin Rd, Tambon Chang Moi, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "084 276 5579",
+      "website": "https://www.facebook.com/%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%AD%E0%B9%88%E0%B8%87-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-109617363790899/",
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "已结束营业 · 开始营业时间：周三10:30·查看更多营业时间"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcU20gPHUtlrKeMkT-U9LP2v_n0eCl_zPxqUX0KzbFWsObBzl39h4EqXV-trj1PiYUvA4Z5p0b4Kmqq5oLYvuBbPlw1Oa82bT6ZORslSwp0oopKYZHQRaEWCyfLV-TSYNyz2BUKjeLVBcRG=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Neng+Roasted+Pork/@18.7998228,99.0048013,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba0e2cd3553:0xe05104b20bb58629!8m2!3d18.7998228!4d99.0048013!16s%2Fg%2F11gmwq0ffb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:00:40.769950+00:00"
+    },
+    "3a0be1e3471d80938950cc8a85e2cd2d": {
+      "name": "ร้านสวนแม่ไร",
+      "address": "J255+H4Q, RO Pho Cho Lamphun 3186 Rd, Pratu Pa, Mueang Lamphun District, Lamphun 51000",
+      "phone": "095 793 9296",
+      "website": null,
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 17:00–23:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcu1XufSJen3FzQBgDbvoFhNaquJUjMvK37hG0dIKE0BmgF0cDgyjcfGo6jCXiSjqy1SCzPSROfxAZBttpgCL1xDEbTBtEeXcMUHXJ48uuGZldRllF_VwHu-s0IjZfVXO0M5ew=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%A3/data=!4m7!3m6!1s0x30da32a6aefb98d7:0x8cf6529d39e96661!8m2!3d18.6089578!4d99.0078533!16s%2Fg%2F11hdb1tscd!19sChIJ15j7rqYy2jARYWbpOZ1S9ow?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T15:00:48.896634+00:00"
+    },
+    "3a1be1e3471d80b6a867db4159fa9737": {
+      "name": "结果",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcC6PFHljwOhS28ryItqr9lN288NvwRh-Vtv4CC-2fixOT-132kU2RBRRLHKhShM2hN2MzE_768ClN0r5oWKvw7VYYW-6Xj2mdVpskAFbex_ar3JM_4Z-nSfFjRYS0pEaFyLpWk=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfpLS7oVupgxpHlW7NdnjCVA4mv0PWkIaJHA45qw-VfaClrj8MRW8c4ffasKuRtc2Sg4Nd8kRhYPlNBYPkrhcJ2z1_uiGopy7fq0GQfTGyi_fhNcgE94u7khko_IMtRjpjRaoPN1A=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfGHlRg59cdH9NUcaItipJwEbTC8-0Hni5w9Jhclhv5B1O_1ttiaESrhG52W1da7Bzyz5XqUvUUOcvXHS4TVSVpLo5MvnS-RHN6qXeqQsKbjxu30lkedZ2kXzPIg8E94SjRp3wWRfDti6U=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E5%86%B7%E5%86%BB%E6%B8%AF%E5%BC%8F%E6%97%A9%E8%8C%B6+Chiang+Mai+Thailand/@18.7853373,98.9803231,14z/data=!3m1!4b1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:00:56.217757+00:00",
+      "unavailable": true,
+      "reason": "google_maps_link_missing",
+      "guideName": "冷冻港式早茶"
+    },
+    "3a5be1e3471d80f8abaafc95d4aa4cbd": {
+      "name": "Frog eye",
+      "address": "ซอยดอกบัวโรย San Sai Luang, San Sai District, Chiang Mai 50210",
+      "phone": "080 282 9539",
+      "website": "https://www.wongnai.com/restaurants/133566ST-%E0%B9%80%E0%B8%81%E0%B9%8A%E0%B8%B2%E0%B8%9A%E0%B9%88%E0%B8%B0%E0%B8%95%E0%B9%8B%E0%B8%B2%E0%B8%81%E0%B8%9A-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%87",
+      "category": "烧烤店",
+      "openingHours": [
+        "星期二 17:00–22:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLds7x7NIFbrM3TimUXlNn8tinOUA77WT36-3EyITiJuf4qky1CiAsEBB0-BQswTLt2TpG4vfkv-1Qrm09h1qg5__Pj6WkN6SoHDyte4ci_OYRyy2P5sg8eyJhvmSZZ8zNDmKqO0kVm4xDEl=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Frog+eye+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:01:02.107478+00:00"
+    },
+    "3abbe1e3471d80a7a169f5b01b2d96b1": {
+      "name": "Mae Tha Chang Kang Thong",
+      "address": "เลขที่ 122 Moo1, Ban Pong, Hang Dong District, Chiang Mai 50230",
+      "phone": "091 859 2949",
+      "website": null,
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期二 15:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLclna2XBggcZRCd_4U0VNovdVnGASU2jHe2rNZZpI6xkckq9ey0mvt0NlDzQNEav3A6R_9zfoo5CwEBGEgjHgfT2s92TbGWMjbdzgz3iiPQujHuvb2TpAVPbsPm6NC0Hvf3EbuM=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Mae+Tha+Chang+Kang+Thong+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:01:08.346309+00:00"
+    },
+    "3aebe1e3471d80babff5d4eaf7ea3945": {
+      "name": "Khao Soi Maesai",
+      "address": "29, 1 Ratchaphuek Alley, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "053 213 284",
+      "website": "https://www.facebook.com/khaosoimaesai",
+      "category": "面馆",
+      "openingHours": [
+        "星期二 08:00–16:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeDdKoAziTVALpPfo1GTevxXRXtnCYh6AD7ezDRUKpDhhvaRH-aG6eBCwK1IVLhdmuPAxiV0xw_AJBlbDWO5Fu0sAt_EkYYAaf0Ffj7jbngHpGLI2Koo5c2ExA29NmyYi9Ar3Jyj2BK0RwX=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Khao+Soi+Maesai/@18.7995989,98.9752135,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a8c1eaccca9:0x45f0468a756c49e8!8m2!3d18.7995989!4d98.9752135!16s%2Fg%2F11b6gh2sgf?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:01:18.380173+00:00"
+    },
+    "3bcbe1e3471d80448659cd4da3163351": {
+      "name": "RASIK LOCAL KITCHEN",
+      "address": "44 3 Sridonchai Rd, Tambon Chang Khlan, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "083 269 6632",
+      "website": "https://www.facebook.com/rasik.chiangmai",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 休息"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf1psEpCrKH0gQXqDTyNEr7vrVs1regfIsV7yRn3qKElePvY8cHrAtxlbxS8YfxZwFNC4XXz6zs9S_sYCyU7iusLYnL9ADxN4JLEcyuno8ZGo4cgnhdvZ0tdP4P2VmNCULHbmkCjQF0S7FZ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/RASIK+LOCAL+KITCHEN/@18.7810535,98.9957562,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bec0a5a2acb:0xecf109020e718e34!8m2!3d18.7810535!4d98.9957562!16s%2Fg%2F11t2vph9w6?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:01:24.514718+00:00"
+    },
+    "3bcbe1e3471d80b09a9bca3dd699e0b4": {
+      "name": "牛杂店",
+      "address": "119, 58 หมู่ที่ 5 ถนน อ้อมเมือง, Nong Hoi Sub-district, Mueang Chiang Mai District, Chiang Mai 50000",
+      "phone": "094 479 8293",
+      "website": null,
+      "category": "餐馆",
+      "openingHours": [
+        "星期三 09:00–16:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdY5pziE8HJIiCCC26Nn0QiFGfwvXjwzXne2xpsdLEkwQmh7LJDvlBrnqIEpKgpqcVLHZn3fiVfXrcGSkQU1mGS6WcU10qA5FfrPUlZGOZo7RMQw_gNFCvaccqwDJZC3FsB1pUjFMR7o46J=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E7%89%9B%E6%9D%82%E5%BA%97/@18.7627414,99.0245678,17z/data=!3m1!4b1!4m6!3m5!1s0x30da2f697e041c0d:0xb3666be57eb8b3c2!8m2!3d18.7627414!4d99.0245678!16s%2Fg%2F11v07h7zkf?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:18.336413+00:00"
+    },
+    "3d6be1e3471d80468c10c7847aa52e30": {
+      "name": "泰国古法牛肉茶餐室",
+      "address": "95 Charoen Prathet Rd, Chang Khlan Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "094 646 7334",
+      "website": "https://www.facebook.com/profile.php?id=100088742154530&mibextid=ZbWKwL",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 09:00–17:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcA2Wml9VdRh0TDZ5f0daylSP2FYEH3l27eMrWD_7nScY1xyigNs4bUdIBpIz_f0loXZGXrKyhG78sbQo4A4kdAjxrgLaWzAkqyselblOafGP7K0FdXnj561mtQ6gYy1HX8cDSCBQ=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%B3%B0%E5%9B%BD%E5%8F%A4%E6%B3%95%E7%89%9B%E8%82%89%E8%8C%B6%E9%A4%90%E5%AE%A4/@18.7828547,99.0033314,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31948d3a6cf9:0x977b59f01c7c2525!8m2!3d18.7828547!4d99.0033314!16s%2Fg%2F11sdpqgqb2?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:01:36.121004+00:00"
+    },
+    "405be1e3471d8013ae79fd5cb3d3d582": {
+      "name": "Kaphrao Nuea Nuea",
+      "address": "Suthep Rd, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "091 079 9824",
+      "website": "https://www.facebook.com/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD-110029813697519/",
+      "category": "泰国风味餐馆",
+      "openingHours": [
+        "星期三 17:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdUFSt1l7eAg8pjDqXzskFNPOdv-g2oACGfOSRhzokmIm4A3Fe9nujelSmabpGo-8udN63bnYhfrvfNbvymq1jiIhV-LzDwWoW_ds04NIlJLAzNprqcTeQCuG0y6EYr2sxIdMZA19PKo619=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Kaphrao+Nuea+Nuea/@18.7923247,98.9570583,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf818938e3b:0x80b905318bfe3b69!8m2!3d18.7923247!4d98.9570583!16s%2Fg%2F11smtzn3st?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:29.715196+00:00"
+    },
+    "2b0be1e3471d8024b8ced1311f67fe2f": {
+      "name": "Super Soup - MaLaTang",
+      "address": "37/1 ถนน เวียงบัว Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "084 503 5878",
+      "website": "https://www.facebook.com/SupersoupChiangmai/",
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 11:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc9KR9MRtgqgCzqyren2lfzCzMbXqZjSvMM62-WqLYaJCDC1TEpvYaWWZ22SrCDubukyQaanS_TcRKlh_5nANUgr6PS2yZdmjN5Z9C_1278h4n-rbLmydGXH2x6-w7pxXhS9tDS=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcRu7BA7yJnWGJr5pHHWtrBbsUPnig7wLKh5UyDsxsAGiyUqlPKtkXiS6Ki2xBdRM_9bb6Sj7mGzvJAR3txobi1c3KlQNGYVL4OqfLL1XDusbgIqmR9_tOnv4Jn8KcrHT_Y8MDDvNMKSHjq=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Super+Soup+-+MaLaTang/@18.8060629,98.9808732,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b131e4187b3:0x74d5a7f866e7aa71!8m2!3d18.8060629!4d98.9808732!16s%2Fg%2F11hdp9nr21?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:01:48.215398+00:00"
+    },
+    "2cbbe1e3471d8013a704e413b9004235": {
+      "name": "A.T. Thaifoods",
+      "address": "Near Emporium Hotel, 38 Santitham Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "081 885 3763",
+      "website": null,
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 09:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcHSmJD3ryzb_SA59gBdnjxJi74rOK3imwAbFG6KT9cu4DWQJeU3k2G6ZUURNciP1CATYik5PZSQyJ4F8GNKaSToepxbR81jRVApv_zm2FIpJa_-dI-v2OqYMT5Tfa40e9ufGU=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/A.T.+Thaifoods/@18.8032312,98.9785422,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a8d6abbcafb:0xd2520955d636e06e!8m2!3d18.8032312!4d98.9785422!16s%2Fg%2F11hb3dgy33?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:01:55.650280+00:00"
+    },
+    "2d6be1e3471d807aa1f7f694069aca1c": {
+      "name": "ข้าวมันไก่ ป.7",
+      "address": "6 Sodsueksa Rd, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": null,
+      "website": "https://www.wongnai.com/restaurants/182041Ll-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88-%E0%B8%9B-7",
+      "category": "餐馆",
+      "openingHours": [
+        "星期三 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdXNEFT9ziGAaCwZD8CMtTf7c44hVYxBf1XD9WS9hndpDm-IlXijKS6AsOOYw7DaU9cZXwoA1QjPKbBTG8qDkXDf5cPUwFUYkTtSxQm--I6Rus-kKB22knBrjoVdkpsKeQf_AjOE8BdJSex=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe-Gs7kbLkKGj3iO6lX44g6oAtHSDPpWa5VVNiFnELmmZoh29_Q0goC1tdRpwAMSSfJfUSFMajCiy2Z_yrOVfzlENRviySMOPrqsbacNSMZZBGT7zoMJq0jYQY0jQjb1QZYrqa6JkGK2cMg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88+%E0%B8%9B.7/@18.80392,98.9790591,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a8d5b34c585:0x1da3d90e0f29113a!8m2!3d18.80392!4d98.9790591!16s%2Fg%2F11cjvnp42g?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:38.193692+00:00"
+    },
+    "323be1e3471d80b99ee4e15aea0e263b": {
+      "name": "Mauyum Cafe Santitham, Authentic Thai Food Restaurant",
+      "address": "20/5 Ratchadamli Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "080 717 4767",
+      "website": null,
+      "category": "餐馆",
+      "openingHours": [
+        "星期二 11:00–04:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdjST4HV1Zl3oc1hUkhqvj_Ky3Y-hZ9NY22rMJP7Lh5_MXd0OlmYVuzb1FCL8s5RMVoHrZM73JXfuqLremRPgD8rJKEd2LY9xz9gz5Y-0N9jv9ErVKdlfpOST0xur3P62lNkhYDzPn8upBj=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Mauyum+Cafe+Santitham,+Authentic+Thai+Food+Restaurant/@18.8023403,98.9759196,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bc1167ab663:0xe4e8e012d8ad409b!8m2!3d18.8023403!4d98.9759196!16s%2Fg%2F11rxv0c8tw?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:02:08.435615+00:00"
+    },
+    "3a1be1e3471d80799a10d68e1e5b7413": {
+      "name": "Tomimaki",
+      "address": "11, ช้างเผือก, 1, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "062 967 5940",
+      "website": null,
+      "category": "日式餐馆",
+      "openingHours": [
+        "星期二 11:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfb5cAp4uxrmzILUmUinxUZ98GoLDeor-XUn7zLZJBKAQv0Wnqkd5__nkKluylSpAOlmXStGjgAfDp2zBgqLfk4qwM_RUYHZVJ2orZgXPjwiXpPby5snb6uts8dS0jG55Zpoq-8=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Tomimaki/@18.8045787,98.9796008,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b6f1c471f09:0x964cb67e014b8275!8m2!3d18.8045787!4d98.9796008!16s%2Fg%2F11rl26mf4y?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:02:14.836858+00:00"
+    },
+    "3d6be1e3471d806c9b09db1681543d26": {
+      "name": "Meater Earth",
+      "address": "88 ช้างเผือก 3 ซอย 22 Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "065 278 0132",
+      "website": "https://m.facebook.com/Meaterearth/?ref=bookmarks",
+      "category": "烧烤店",
+      "openingHours": [
+        "星期二 16:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdANu_-m905SJelyPhgSrrbFEQPoUBQiq4HNCU9-ZF8oEgjYjtaXJoup1U1IbCOOvf_C07iOffG2hQPEb0G8iwareBuY7opEZz41RZSkBrpFbSc3s51yc85ftctrEZ0hMxFZGzvg4nnnwbH=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Meater+Earth+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:02:20.590027+00:00"
+    },
+    "2b4be1e3471d8017955ae183446ce6f0": {
+      "name": "MUSCULAR LAIR",
+      "address": "59 Sirithorn Rd, Tambon Chang Phueak, เมือง Chiang Mai 50300",
+      "phone": "095 451 3904",
+      "website": "https://muscularlair.com/",
+      "category": "健身房",
+      "openingHours": [
+        "星期二 08:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfLUD7UFBjfkk5i6Qxol-QztoMjf_WJ_z-EUjJJhIy3ynNNrPAe7erT-Vw3GB79ArC8xSKUkhXT0-8A6OUfiPZT2uofc7e6c3o-E_mLyzvtFP2kwtZCHN1bCllJrF1BI4jqw8Q57Q=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/MUSCULAR+LAIR/@18.8085203,98.9775175,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b59620975bf:0xfcfb83eb5e016173!8m2!3d18.8085203!4d98.9775175!16s%2Fg%2F11p13l_d4c?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:02:26.925560+00:00"
+    },
+    "2bdbe1e3471d800f8c81ecf2876c4ccb": {
+      "name": "兰纳高尔夫俱乐部",
+      "address": "ศูนย์พัฒนากีฬา มณฑลทหารบกที่33 Chotana Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "053 221 911",
+      "website": "http://www.golflannachiangmai.com/",
+      "category": "高尔夫球场",
+      "openingHours": [
+        "星期二 06:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLffpwDJgi50lY2wKXkCVeB4uqgmilrJqrksoosnyMG8sFenoLUgfMBKw7hR9xnwmWkZ6PQR_ZuuIwIkdRAo7kgndj6klL3pgTTv33s5bTSniEmrB8PqLNHiphSaDZtqpabRf4c=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc0JdB8F6kjsDE0Gi6kvD0MfVZjqL6138Lz6NeQB9el-b7wkB9C3_ZUZ27yIzl6URp5OPNuczTyL4EEdqSBVXMvWPQNExuE_f-etKMnLycWNLToKu8tSsghrp2jU0-m1Q_il1b12KavIxgu=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdM7Y8qKelN3TMDjHv_MYlysiZKFUZIozD-vhcBhad52jO87AAlA-Oe2Ma3g3EqeJjaT3ZRdDtVjoCRUAp42hGA0GGw_DbKos1nt5cG1an-ZSquj-58aIibGzRRAeVpmOrvVmgm=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E5%85%B0%E7%BA%B3%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BF%B1%E4%B9%90%E9%83%A8+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:02:32.911952+00:00"
+    },
+    "2d9be1e3471d8068adddd244ed755db5": {
+      "name": "Looper Swimming Pool",
+      "address": "ลัดดาแลนด์ 144/50 ซ Yu Yen Rd Moo 2, เมือง Chiang Mai 50300",
+      "phone": "087 177 2640",
+      "website": "https://www.facebook.com/looperswimmingpool/",
+      "category": "游泳池",
+      "openingHours": [
+        "星期二 07:00–21:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdm3MTRReqtkZrrZVfR4oCYHQdLpCSKTwdMKMvZ2t4Txik_mgsGTlMKP5yDOBx_rKQj2Ve1N5EplSK-QKtgJFn2lcKunojNfLkk2nOKkBJRgQ8yh31u2Lubmzv9wIsY1_R72MhT=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipOTjW7mIGh8T5KPsTdTVAOz6Af15sxudrLkpc5C=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Looper+Swimming+Pool/@18.8130325,98.9648743,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b32f032c5a9:0x991becace730240b!8m2!3d18.8130325!4d98.9648743!16s%2Fg%2F11htm821wn?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:02:42.927213+00:00"
+    },
+    "2c0be1e3471d802baf12c99a74233a53": {
+      "name": "Satva Yoga - Chiang Mai, Thailand",
+      "address": "19 Taewarit Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "080 673 6516",
+      "website": "http://www.yogachiangmaithailand.com/",
+      "category": "瑜伽馆",
+      "openingHours": [
+        "星期二 09:00–18:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_xsRvyTE3oHj_Wl-VI0BH-TQeZm-HSplB_less4sVgFI5hZxJQ4ruXFHWAlHmUCZjOD1VdqOLaNleQQMCuuJSyIeqzYCHiB8dEPmtSZ6nojPo0qFnnJTeVVz4r-p34Gm_NlAE=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Satva+Yoga+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:02:48.836001+00:00"
+    },
+    "2c8be1e3471d80d2ad56e02b95c75fa9": {
+      "name": "Pimantip Golf Club",
+      "address": "10 Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "093 143 5000",
+      "website": null,
+      "category": "高尔夫俱乐部",
+      "openingHours": [
+        "星期二 06:00–19:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMjUzhNB9QXbPYfYUMxGiDE60iQBXhfcGLq-kvZQSFi4YLUUb__4hZMSxobUodOMbDxleNP3lGbSx4_wSFDkblj1HyrRluakMyK9Gqq3K7cJ2JgwGnlcQZzFa18p1W-U0U9nKRn97xDAEu=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcaUJTmqTDsHCVdI0IuuAtM3KdJ2almW-IukIA76ZCQvm7xNb8DKvKfbSbW7-raBgRnPC0j9Rk4nHOoZwweDW9ZOWiL9odXXiVxwe7rbzf7KufYyHjl3SfWRYxad2UMV6pc52Goa5-XEjKZ=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0hn8kcsvtKMItaK0VQGnbjHUnJs0wLyG2uNNkkyA9qHHsc45WI5X4k2bjuGpeftUI7QdCWGHjmBlTlr4ZfOMWUlA10ydvl02NtCnWcuKcl5cJlU0Xk3KTpfeQNR5CMVBdxY=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/10+Pimantip+Golf+Club+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:02:54.773556+00:00"
+    },
+    "2c8be1e3471d80ae94f7dd491009c575": {
+      "name": "CNX GOLF",
+      "address": "StarDome Golf Club , Mahidol Road, Muang, CHIANG MAI 50200",
+      "phone": "053 274 962",
+      "website": null,
+      "category": "高尔夫用品店",
+      "openingHours": [
+        "星期二 06:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf5g7KzCes3hrhyYACG7WnnzwcXgIbuWip7vcnOJgd4DJ3NZoE9-RGv6cKofuEbBVXxB15-02wxTfBctLsyfLjxnA1UOeGiVNmlJky3HWwZ7jOiz98cewg5S5IKQ3ZukJQg3bGK=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/CNX+GOLF+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:03:00.822416+00:00"
+    },
+    "2d5be1e3471d80d6966bfe04debe9cae": {
+      "name": "Baan Suan Café",
+      "address": "170 หมู่ที่ 3 ถนน แม่เหียะ-บ้านปง Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "084 821 7357",
+      "website": "https://www.wongnai.com/restaurants/16925Mp-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F",
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 08:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdjiViXmJWVix6psLyceTfEgw9vAeOaNn9zFDI0isRNFe_F_nPgWXtSfsAqoluDNZWKqFsBVBkyzEnkigFuGRN05RJ0S6_V7Mmt2CkahnTNZBDew4RB4qX2xDX1gorkWukEtyvCQD_SgnMd=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Baan+Suan+Caf%C3%A9+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:03:06.680651+00:00"
+    },
+    "2d8be1e3471d80e39ee0c9bdfa55764f": {
+      "name": "X-Centre",
+      "address": "816 หมู่ 1 ถนนแม่ริม-สะเมิง ริมใต้ Mae Rim District, Chiang Mai 50180",
+      "phone": "053 297 700",
+      "website": "https://www.chiangmaixcentre.com/",
+      "category": "冒险运动中心",
+      "openingHours": [
+        "星期二 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfQSJ8NGzMDPPL95u4_1ZJ-9SRW23OmOT5Zq_6nEsKdx8fyhHmM8Gq5Unc24bWtIL8krAWRF_iRRX55C2O4KpQ-H7ZPhWe_tNs90XgBO93Il0phxMi3wgFJFz4Z81XIpoqgHWf1=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/X-Centre/@18.9219645,98.9241752,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3e81d5e66767:0x73a97f435537b10!8m2!3d18.9219645!4d98.9241752!16s%2Fg%2F1hm44gxwh?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:03:12.992072+00:00"
+    },
+    "2e0be1e3471d805cb9f7d06727327b4f": {
+      "name": "CrossFit Chiang Mai / CFCNX",
+      "address": "47 Chotana Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "082 381 4938",
+      "website": "http://cfcnxfitness.com/",
+      "category": "健身房",
+      "openingHours": [
+        "星期二 06:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeTSu08E1vIBCQGdgWYTyUwHO1zANAmzuZIgticbTXUlSjh2wap34EAnVQ87HWVc3cIXoMWBDtewv0Mwlqj7uQzJSo4rEtjKkCQTkanyW5Bf37WC7a2hBOJvIvvYlytG5uJtHZk=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/CrossFit+%2F+CFCNX+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:03:19.181240+00:00"
+    },
+    "3a1be1e3471d80779916d64ca5182cb4": {
+      "name": "Wiangfueangfa Thai Massage Therapy เวียงเฟื่องฟ้านวดไทยบำบัด แก้อาการ Please make an appointment in advance..",
+      "address": "15 1 Santisuk Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "062 553 1922",
+      "website": "https://www.facebook.com/profile.php?id=61559834369705&mibextid=wwXIfr&mibextid=wwXIfr",
+      "category": "按摩水疗",
+      "openingHours": [
+        "星期三 10:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcMVas6Dv7E2D2gYLZz2qH8yeiMX46ge3OFcQnMk6IoqIS0X8OAUj74W3lsg81SLUaCnLFA5Y7CoUIUOIYsOytNJBGUN7vM2aX-124lSR2TnlLUVolByoq1SAoZkixMSOvg8evh9T6shOHy=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Wiangfueangfa+Thai+Massage+Therapy+%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%9A%E0%B8%B3%E0%B8%9A%E0%B8%B1%E0%B8%94+%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3+Please+make+an+appointment+in+advance../@18.8030733,98.9773009,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0fc5392c1b:0x38e688fb550f3ff4!8m2!3d18.8030733!4d98.9773009!16s%2Fg%2F11vztwv1wh?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:50.190345+00:00"
+    },
+    "3a1be1e3471d80fd8f81c86bc30f91b1": {
+      "name": "sum bamboo massage (Ruamchok) ซุ้มไผ่ มาสสาจ สาขารวมโชค 1",
+      "address": "E 58-59 204 Fhaham, Fa Ham, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "062 240 4456",
+      "website": "https://www.facebook.com/SumBambooMassage/reviews",
+      "category": "按摩师",
+      "openingHours": [
+        "星期二 10:00–22:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcmxBi78eidFBitmNzmQPiUOQkoP8dEZAn1u739bhYcHCbOxAkE17d02dl3-17S9IONDH9uyi1SL7mVvdvXHyLeXnBDfbP-f486RrAJL59vjyTHGGCsrXHhLC7wKpYSMcwB_AQN=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipME3n53B7LPpCk87Ar9OawvGfwUKH6oj3X7dnfS=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/sum+bamboo+massage+(Ruamchok)+%E0%B8%8B%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%84%E0%B8%9C%E0%B9%88+%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B2%E0%B8%88+%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%84+1/@18.8243755,99.008989,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b8752845c7d:0xd3ec019aee3932fc!8m2!3d18.8243755!4d99.008989!16s%2Fg%2F11frjqdqcd?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:03:36.261336+00:00"
+    },
+    "3febe1e3471d80acae52ffa5616d3d27": {
+      "name": "Thong Nam Nueng Thai Massage",
+      "address": "Haiya Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "080 083 0182",
+      "website": "https://www.facebook.com/ThongNumNeung?mibextid=ZbWKwL",
+      "category": "按摩师",
+      "openingHours": [
+        "星期三 09:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdfYwhRv2-VhSeUaGqsxdq3-pGaDhNlXbLth-DUz9BtlTLu8F-XxgqYk8nb2RpFFsBTEPS6mUjeE6JaR0IWaHIN2J9mA7E4DdncttUZTeASGHEKMmp8f4zcycDNDKmwR5wQpaNTtfhlFLAs=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Thong+Nam+Nueng+Thai+Massage/@18.7774452,98.9855513,17z/data=!3m1!4b1!4m6!3m5!1s0x30da307428eb0641:0xb6440d6abd744935!8m2!3d18.7774452!4d98.9855513!16s%2Fg%2F11c3vxbtjc?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:06:57.092340+00:00"
+    },
+    "3e3be1e3471d8099b9b0fe94fba6e228": {
+      "name": "the butterfly effect - organic cafe",
+      "address": "5 22 Rachadamnoen Rd Soi 7 Old City Si Phum, อ. เมือง, Chiang Mai 50200",
+      "phone": "094 264 2440",
+      "website": "http://www.tbe-organic.com/",
+      "category": "咖啡馆",
+      "openingHours": [
+        "已结束营业 · 开始营业时间：周三09:00·查看更多营业时间"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdXlR7affdate1nJM-B6WgZ8NO9fWlHnxFeflFAVuu4nvTUKTdIWcIPEDPUmHAxO1IpB7IO3x57IbEldFwRe4kIL5xIsOwtid46-24wWLDtAPj4eEiRJ0I5IuFILB9_UfAK4wGKWsFbvq0R=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipOfjcvh0Ds1-Ei5QqjZmSI2AfUIoNVdVAQBTiF-=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/5+the+butterfly+effect+-+organic+cafe+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:03:50.689538+00:00"
+    },
+    "299be1e3471d80318dccd39f5dc1cfc1": {
+      "name": "Shanti Nii Yoga | Qi Gong | Pilates | Sound Healings",
+      "address": "168 / 03 Moo 6. Hang Dong Hang Dong, Hang Dong, Mueang Chiang Mai District, Chiang Mai 50230",
+      "phone": "095 415 9609",
+      "website": null,
+      "category": "瑜伽休闲中心",
+      "openingHours": [
+        "星期二 09:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd9chf6DupAagHkNHWATgYOxEYojS0812_7NySWwFwQ5stRQDR3IU-gE38AjRWICv5ZTYXxt8Q88zI56tiHGJpT6cjuQdJ78pvm1ca5NX7FcX4aY-otF0GtrH3h7q63v7DH-n_ltP1FPq4=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Shanti+Nii+Yoga+%7C+Qi+Gong+%7C+Pilates+%7C+Sound+Healings/@18.7016629,98.906024,17z/data=!3m1!4b1!4m6!3m5!1s0x30da371f14950051:0x56314bb84144b84d!8m2!3d18.7016629!4d98.906024!16s%2Fg%2F11l5lv4x9g?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:04:00.739646+00:00"
+    },
+    "2abbe1e3471d807db762e9d81d8e2612": {
+      "name": "attika Workshop studio & Cafe",
+      "address": "63 Tha Phae Road, Chang Moi Sub-district, Amphoe Mueang Chiang Mai, Chiang Mai 50100",
+      "phone": "093 632 9966",
+      "website": "https://www.instagram.com/attikastudio_cafe",
+      "category": "艺术咖啡馆",
+      "openingHours": [
+        "星期二 09:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf6tW-EQX69D3JaxopuatKmjyVxw6vXy1hW3lYiF-cmnGHlxxxk5uRcEAyzzr7i4GIgcQgBWSoIBp0Bm2U4A7zZ1Zjx64_mLRAvXHzWqiqWnyCv0W72PEHbLZQ77kkxhFimzoYeKor7HYPA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/attika+studio+Caf%C3%A9%26Workshop+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:04:07.006928+00:00"
+    },
+    "2abbe1e3471d80d1967df77fefc7fdf8": {
+      "name": "Much Room Cafe",
+      "address": "MuchRoom cafe 110/2 Pa Daet Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "080 684 5656",
+      "website": null,
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期二 10:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLftcai3dfMBuzH57be0-nX4gz1oQ5U-FVKjXD1r14c_Rf2xqrUlA2hP3RDicHuzpiJCUyDRGkTkMRDQ1fUKmNbsp0Kym-K1MROY77efKeuTjbgteuc6gqxfIp0B2Z1GHwcjN26w=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Much+Room+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:04:13.024981+00:00"
+    },
+    "2b5be1e3471d809081b8d1bd94471dab": {
+      "name": "Game On Pool Hall & Sports Bar",
+      "address": "เลขที่ 205/1 Sri Poom Rd Old City Si Phum, Mueang, Chiang Mai 50100",
+      "phone": "095 009 5010",
+      "website": "https://gameonchiangmai.com/",
+      "category": "撞球台球俱乐部",
+      "openingHours": [
+        "星期二 13:00–01:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc4HysvTuKGKHh5khciCFwiR_eLAxxYmUmBdVIpBwhpfcYbSpilFidOAd3lUrwZrK_iNXUfGU8AvvyCgrI5nyggUpr_My_gq4v9OMYb8XGjT7hhlrgeB5xTxR9hQRlg5vkopV2G=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipP9JTNaJXdLlG2uJuswZvjG6Lfq3m4CDrCNXpnj=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Game+On+Pool+Hall+%26+Sports+Bar/data=!4m7!3m6!1s0x30da3b9810d7937d:0xe4ef812b54613c65!8m2!3d18.7953973!4d98.980351!16s%2Fg%2F11w8gl95tw!19sChIJfZPXEJg72jARZTxhVCuB7-Q?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T15:04:20.536494+00:00"
+    },
+    "2babe1e3471d80ef8915c53770aa4231": {
+      "name": "Red Panda Cafè (CNX) | ร้านกาแฟแพนด้าแดง (สาขาCNX)",
+      "address": "100 70-71 Huay Kaew Rd, Tambon Chang Phueak, Amphoe Mueang Chiang Mai, Chiang Mai 50300",
+      "phone": "092 409 2704",
+      "website": "https://www.thefusion.center/redpanda",
+      "category": "咖啡店",
+      "openingHours": [
+        "星期三 09:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfR5qbRssaOm-uVEx0VXIrY5kErO22oXoBk8loveQbymdeU3I3wqCdndtIeKH_-eWcAFtKAPA1LQ-E9wSOG0HO7tGmTETz9xKDZ7jcvVmPYt3kVmCnYVhHO_wO1aQbshuY7B6P3=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Red+Panda+Caf%C3%A8+(CNX)+%7C+%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%87+(%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2CNX)/@18.8089178,98.953815,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b00291222bf:0xdef261c3b570da7d!8m2!3d18.8089178!4d98.953815!16s%2Fg%2F11y4qtkt04?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:07:10.321203+00:00"
+    },
+    "2bdbe1e3471d80528841c5aa232b5031": {
+      "name": "Pimantip Golf Club",
+      "address": "10 Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": "093 143 5000",
+      "website": null,
+      "category": "高尔夫俱乐部",
+      "openingHours": [
+        "星期二 06:00–19:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMjUzhNB9QXbPYfYUMxGiDE60iQBXhfcGLq-kvZQSFi4YLUUb__4hZMSxobUodOMbDxleNP3lGbSx4_wSFDkblj1HyrRluakMyK9Gqq3K7cJ2JgwGnlcQZzFa18p1W-U0U9nKRn97xDAEu=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcaUJTmqTDsHCVdI0IuuAtM3KdJ2almW-IukIA76ZCQvm7xNb8DKvKfbSbW7-raBgRnPC0j9Rk4nHOoZwweDW9ZOWiL9odXXiVxwe7rbzf7KufYyHjl3SfWRYxad2UMV6pc52Goa5-XEjKZ=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0hn8kcsvtKMItaK0VQGnbjHUnJs0wLyG2uNNkkyA9qHHsc45WI5X4k2bjuGpeftUI7QdCWGHjmBlTlr4ZfOMWUlA10ydvl02NtCnWcuKcl5cJlU0Xk3KTpfeQNR5CMVBdxY=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/10+Pimantip+Golf+Club+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:04:32.248861+00:00"
+    },
+    "2c4be1e3471d801388d3e897f7620467": {
+      "name": "清邁",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdtwk7JbgY9vYhHU50jYU7Hje-VmN2IT1Pgl8fR4ZM5vVdOJ8ZDqE9hmN2pxrCNtyzuSNm5dOczj8UoR4U9fpttXjF7bcpTc2yO6YkIqLC222mbsVcK_SPoaY1t3c4z4VLOeLWYZA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E5%BA%9C+Mueang+Chiang+Mai+District,+%E6%B8%85%E9%82%81/@18.7942459,98.9564772,12z/data=!3m1!4b1!4m6!3m5!1s0x30da3a7e90bb6f5d:0x98d46270a59b4367!8m2!3d18.7883439!4d98.9853008!16zL20vMDFocjU4?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:04:43.570224+00:00",
+      "unavailable": true,
+      "reason": "google_place_details_unavailable",
+      "guideName": "未命名地点"
+    },
+    "2a5be1e3471d80ddac5bc1bb52a6da53": {
+      "name": "WTF Coffee Camp",
+      "address": "192 หมู่ที่ 1 ถนนแม่ริม - สะเมิง Pong Yaeng, Mae Rim District, Chiang Mai 50180",
+      "phone": "081 885 0710",
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcs5OvhCTYetsb4_qbalw5O3bUQ6zfD6nlWFZ8Nn60KSNhbpuaU4NbvqhlAF7ZbWKeFGS6zl4Hm9oUpjF5K75PgCXpfFMtn-ydEHyQSZjRi396q6gzPHouE_xvqzkth9MlxeW1OAFNAtBNM=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/WTF+Coffee+Camp/@18.8734381,98.8131681,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3f71beb48379:0x69a5ecb4bcfa72e5!8m2!3d18.8734381!4d98.8131681!16s%2Fg%2F11lh5p160l?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:04:51.886073+00:00"
+    },
+    "3a5be1e3471d80d297a3da5e0d319595": {
+      "name": "กาแฟสะพานแขวน @เขื่อนแม่กวง",
+      "address": "X42P+GVX, Luang Nuea, Doi Saket District, Chiang Mai 50220",
+      "phone": null,
+      "website": null,
+      "category": "咖啡馆",
+      "openingHours": [
+        "星期三 08:00–18:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc_WCDnY2tWVDuY3PfLWl1_7cepEb1FatYvFgk9FWw_I4jy6CVQ8-i0eJ3_ubqtw3oCwWS4WVoUwSl7OVw9YzCLcX5j-Z0oykuMZgtUwGtZa-Vfi9tAl7W8IzX-iWJiKbJuKela=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%82%E0%B8%A7%E0%B8%99+@%E0%B9%80%E0%B8%82%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%A7%E0%B8%87/@18.9513678,99.1372435,17z/data=!3m1!4b1!4m6!3m5!1s0x30da21d034a15d85:0x1ceacd006398921a!8m2!3d18.9513678!4d99.1372435!16s%2Fg%2F11gfmcf75z?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:07:28.475926+00:00"
+    },
+    "3a7be1e3471d8040af5ac99716e6cfc4": {
+      "name": "AMFER’cafe",
+      "address": "39 Ban Thi District, Lamphun 51180",
+      "phone": "095 685 6660",
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [
+        "星期二 10:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeObEHCyxkOgflBgAzRZIFBg31rtXZPuS00wZk73LJamzSJROanquw2cHmCyxvvQ2V4ZTGcMBrZqqeDDw3fJKJdUr69r6hzgpPTzpcWoKuP1TvRAhomuRajnNzil0Iqf9rVxY-VPM77-0ud=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/AMFER%E2%80%99cafe+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:05:10.778167+00:00"
+    },
+    "3aabe1e3471d80b68fc8dd0036cb3433": {
+      "name": "Mae Ya Waterfall",
+      "address": "Highway 1009, Ban Luang, Chom Thong District, Chiang Mai 50160",
+      "phone": null,
+      "website": "https://ticket-advance.com/doi-inthanon-national-park-full-day-small-group-tour",
+      "category": "旅游胜地",
+      "openingHours": [
+        "星期二 08:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLewh8eb1jjdYAI_lHNs8AhzRg0fLSHa9X6--fuG-Tv_j-qLEdV2rGRqZ-lvZc3-faWeKHfJH4u2RB7zX5L3gbVXsZyAcNJ6vFXTZShmWgNQ6Q4ptHto0cr6Dszw3npcezXxxIY6Yw=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfU4_l06geqICZbEAgO6_DJTBuA0bz3t9IVqTNU-T19NFH1md7inZc8I-zSXD2HfFy55Tpniq5RR9yUp9TtovYeOtkTzRi35_QNelXWgqBXOy9dOm3xgQyWFDnivNHbOf9919rqKGs8V7XA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/Mae+Ya+Waterfall+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:05:17.026791+00:00"
+    },
+    "3aabe1e3471d806b8492c637be34a32c": {
+      "name": "Wachirathan cafe",
+      "address": "GHRX+MPP, Ban Luang, Chom Thong District, Chiang Mai 50160",
+      "phone": null,
+      "website": null,
+      "category": "咖啡店",
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdY4UVRid4gtGlhGHmJ2qjNEz0gVsygGaXMwMyQuUGhHY69g4wZseXX_PUbm2ybS3V5vtxT30lftxplTFicqqYAJmOArWT1SC5aijQKplVT6bAoU6YehlvwEcoGdwzPnTackMXx=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Wachirathan+cafe/@18.541705,98.5993191,17z/data=!3m1!4b1!4m6!3m5!1s0x30dbac40ca07e88b:0x4785a4b9f9e7e546!8m2!3d18.541705!4d98.5993191!16s%2Fg%2F11c0pxgj19?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:07:39.286775+00:00"
+    },
+    "3aabe1e3471d809c817ccea894fdd8a4": {
+      "name": "Ban Tarnchevee Homestay",
+      "address": "39 หมู่ 11 บ้านแม่แมะ Mae Na, Chiang Dao District, Chiang Mai 50170",
+      "phone": "099 414 4265",
+      "website": "https://www.facebook.com/tarnchevee.chiangdao",
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdnYm2rLu30_HM_4tCaZ-0OYtdtn9JS4aXjoq-qHiHr2PlEKpVYGxwizNZf8-BlkDusCv9nzmSGgx2Vo1MbBqvfUypX_vbneQvjz4MZlvXUJ28pabYEa5C-HearXFXfnrLoSyMydg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps?q=39+%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88+11+Ban+Tarnchevee+Homestay,+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B8%B0+Mae+Na,+Chiang+Dao+District,+Chiang+Mai+50170&ftid=0x30da0be601fd28ad:0xf96e3722dfc8fc66&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjI5LjEuOTQ2NjczNjQzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAlRI&skid=fea7df77-7d2b-4599-a993-e798af08ac24&g_st=ic",
+      "scrapedAt": "2026-10-28T03:07:45.394800+00:00"
+    },
+    "3e3be1e3471d80d294f7dd3c1a26a8a0": {
+      "name": "The Yard Hostel Chiang mai",
+      "address": "27, 1 Prapokklao Road Old City Si Phum, Amphoe Mueang Chiang Mai, Chiang Mai 50200",
+      "phone": "080 262 2551",
+      "website": "https://www.theyardhostels.com/cnx",
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd9J5LD9tGiGkGc-pZmc2Qzz4BIoTJ7SE8-Hv4bOd2g0KIKDZqP7fdt8wxLKRREzWjr2Plw-3EUqeT15ZMgkWM0TK8gP_ly0zKHSu7tOxDsA9ce93aqv0RU_aAB6PciJUDD0hIUZNw5pzbr=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc7rksWOSDCv3XL6eHHS8Uj-c1NzafN00x8O7U3Zb10PRmG0XnNipbj0S-N9evPY4mlJA6mxGzYsr8QEhaNo9YBhssw-E0Hl6vxx-8VFpISU7oGwPhEBG3I0gDbtVEA4KtrFIJC=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLexy6HLDXolwS5S9Dd-Rp9P1Wvlnw096BnLTaVOKnNQzsKmyUtir_wjk_Tbg3gJjYkO406hyPT4EvO5EKfHs7RU6Jo9f78iDLLmVDnWmSNF7F_tXwQYI_evnCJoUGAppdGYHdEi-qk5z4xl=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/The+Yard+Hostel+Chiang+mai/@18.7894789,98.9892238,17z/data=!4m9!3m8!1s0x30da3b6d9e015175:0x45f4a6949eeec35e!5m2!4m1!1i2!8m2!3d18.7894789!4d98.9892238!16s%2Fg%2F11w48b4j9f?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:05:37.133127+00:00"
+    },
+    "2a6be1e3471d80659e64f5000cd8ea2c": {
+      "name": "结果",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLegyRNLVw0_0Jb444anc9zhH4ziQ9RK3si04iJnBe6cnQgpcZ4kJ9sWBLqxRht64P69sjgnL-gxeJHJ3wfN-wUxkY837uliudaExDRewZCiWWgn2pfNTWHGLMUnpmhEl8AtVMtz=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeaxgMW_BggkUzU8967cuh9YMqqsTbP_5TUVwhQJvyWGn7QaDp9wpn7xpOirtpu9IwxbfsXRJc8J3Fo1qEeTuHKsA7w0QX0iK2xXnCSIFhye7CWNg6VerUV1att_Ly6YBjCW7RM=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeu-pbWI9aQ2Z_AjPj-GIzZ2EzCjaeuID2R-QcH3rOO9cCaGHfeX5x4y9M4sFP85d9XRHbtjzbjLzYyjbSFMUPeEn9afUpgnX5DEpA78wQVK4OlhWnjK8EzzGb6qU1M0Io8fV_YeA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/%E6%B8%85%E8%BF%88%E5%AE%A2%E6%A0%88%E6%8E%A8%E8%8D%90+Chiang+Mai+Thailand/@18.7912571,98.9832787,14z/data=!3m1!4b1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:05:47.604486+00:00",
+      "unavailable": true,
+      "reason": "google_maps_link_missing",
+      "guideName": "清迈客栈推荐"
+    },
+    "3b7be1e3471d80bc8848ee1fcf8ae58b": {
+      "name": "摩托车租赁",
+      "address": "Srithana Condo 2 Siri Mangkalajarn Rd Lane 1, Tambon Su Thep, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "087 728 0515",
+      "website": "https://mangobikesrent.com/",
+      "category": "滑板车租赁服务",
+      "openingHours": [
+        "星期三 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe3IeYGX48OV9ukr_3f0g3cYbRCyM7stEMtOHU5EC5L9kp8jTKf77VoDifxwmuuOByv5wlC5W7JLx0geQ8aS3ITFb3o12tzWcIx1Gyk6n4H0zZDw9XlDqGWpkPMMYvsmhbv_-qmgUks7oI=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/geougc/AF1QipNf2xF45YPxf5YTbxGyi-U13bO6IMm-78P8IgsI=h400-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%91%A9%E6%89%98%E8%BD%A6%E7%A7%9F%E8%B5%81/@18.797225,98.973059,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a8e9f382f43:0x69b88385039eddb6!8m2!3d18.797225!4d98.973059!16s%2Fg%2F1q62d1hh5?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:07:53.980179+00:00"
+    },
+    "402be1e3471d80888f84e0152c0e578b": {
+      "name": "二手摩托车 黑店",
+      "address": "117 เมือง Chiang Mai 50200",
+      "phone": "062 262 2993",
+      "website": null,
+      "category": "摩托车维修店",
+      "openingHours": [
+        "星期三 08:00–20:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcUu_yG31sFgMj5da4T6jtJy2WS628LzA1VgnwlRYmixAx8-14U5jdMacsBOk5f9cbplnezd2Y9kqOZKTg0lUDKQb_XK_N4GAAvA5tiBTcAcSnNmPipYq1FfGY0I_HNMnFIksTIvBk1iBpX=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E4%BA%8C%E6%89%8B%E6%91%A9%E6%89%98%E8%BD%A6+%E9%BB%91%E5%BA%97/@18.7923177,98.9513767,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b8570b02253:0xc36ee994b23ea765!8m2!3d18.7923177!4d98.9513767!16s%2Fg%2F11t1662l3w?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:08:01.713209+00:00"
+    },
+    "3f1be1e3471d808da2e8d78c7fb6f31c": {
+      "name": "หอมแดงแกงใต้ Red Onion Thai Southern Food",
+      "address": "9XG3+HQV, Chiang Dao, Chiang Dao District, Chiang Mai 50170",
+      "phone": "092 317 4660",
+      "website": null,
+      "category": null,
+      "openingHours": [
+        "星期三 08:00–15:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdjDE2ahRsaEpSWvt3Xu0RNotcg-ZWX0GO1XnAfkEmAhgfkM-H_pE8b8VVKyVQAyXRYVmk-rFrKc8iyjfBCeg0wwJ7Hs-m6wmX2G9izXtIw0-sQdMT7puX4nfiUpl9wkwvfAFcknwTmxENa=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B9%81%E0%B8%94%E0%B8%87%E0%B9%81%E0%B8%81%E0%B8%87%E0%B9%83%E0%B8%95%E0%B9%89+Red+Onion+Thai+Southern+Food/@19.3764375,98.9544375,17z/data=!3m1!4b1!4m6!3m5!1s0x30d0a74c5d565679:0x3175be48ba956ad8!8m2!3d19.3764375!4d98.9544375!16s%2Fg%2F11myjb833q?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:08:07.953219+00:00"
+    },
+    "2a8be1e3471d801793a7fea69f66ed71": {
+      "name": "Pura Vida Bar One Nimman",
+      "address": "One Nimman Top Floor / 3rd Floor, 1/5, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "080 438 8101",
+      "website": "https://www.facebook.com/cnxpuravidacigarlounge/",
+      "category": "鸡尾酒酒吧",
+      "openingHours": [
+        "星期二 19:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeIhmqgOV0R5N_RyY70HVC8IgR9g685hNb1Q1PXgqzbr6l1vpg8MR8LYm1GC5XwaXyyJvTcwnvWh2A5IkfpwA2SdwYp-z-wohFfRHH3pJRLsEeGwi02apa7qhZWLMqNloMHYnjUEPSI-F2Q=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Pura+Vida+Bar+One+Nimman/@18.8003953,98.967946,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b500b8ffc17:0xbfa72772f87250b2!8m2!3d18.8003953!4d98.967946!16s%2Fg%2F11t072wlrg?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:06:16.224700+00:00"
+    },
+    "2abbe1e3471d80e0a18bd88a411b1a88": {
+      "name": "mr.pierre money exchange",
+      "address": "119/2 Tha Phae Road, Chang Khlan Sub-district, อ.เมือง, Chiang Mai 50100",
+      "phone": "062 928 9981",
+      "website": "https://mrpierre-exchange.com/",
+      "category": "货币兑换服务点",
+      "openingHours": [
+        "星期二 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcczu1BVEetSU2poTOcDTPQsm0QJuSPEhgJKYTLpWGRPOi18ZfgcXmXZq-blyH1xhB_9977Qhjia1eXnngo4-dwxFrRMpAZ-Z_q3TNe4bzoa4BFkGfNuwsY_4rHfv4YYdAJnjpNDA=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/mr.pierre+money+exchange/@18.7881826,98.997608,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa46a2a9805:0x91a4e37a07c84752!8m2!3d18.7881826!4d98.997608!16s%2Fg%2F11f11kbc2t?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:06:22.637158+00:00"
+    },
+    "2bebe1e3471d803eb42ad6e5d7a75f7e": {
+      "name": "ร้านมนตรีถ่ายเอกสาร MONTREE COPY",
+      "address": "9 Siri Mangkalajarn Rd Lane 13, Suthep, Amphoe Mueang Chiang Mai, Chiang Mai 50200",
+      "phone": "053 226 665",
+      "website": null,
+      "category": "复印社",
+      "openingHours": [
+        "已结束营业 · 开始营业时间：周三08:15·查看更多营业时间"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdf3sT66IQr1nkj8c8sRHF8FIKzJtPrwgYrfg8hwD5LWBVxswGbM24ytkSjrS0OlQqUHj1o8D59NgZnjk2C0_e4z7Ek9u3mL_sKf6bf1tBK5P2rBsl-3JtYcRtqcuUfusMiN3o=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/search/MONTREE+COPY+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:06:28.768814+00:00"
+    },
+    "2abbe1e3471d80b982e2d388c2c3e597": {
+      "name": "HIDELAND.cnx",
+      "address": "193 Chang Moi Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "061 252 4222",
+      "website": null,
+      "category": "烧烤吧",
+      "openingHours": [
+        "星期二 17:00–23:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeatpTyGoAMn6pOBmjQILjU3p2unDdlAnr-7GBwjqVpeFM1mLtjQOfeS8uvf9Wj7WVlykFfBJbArkU2kXeGufNm6KiTJFw6v1L5QcI6JaeLLYevQQbtASN0levEJMikNJoC-ldmZw=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/HIDELAND.cnx/@18.7897028,98.9962179,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b457d24f64b:0x26d3b12e6b24104e!8m2!3d18.7897028!4d98.9962179!16s%2Fg%2F11s4662bl8?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:06:37.629683+00:00"
+    },
+    "2adbe1e3471d8000bd6ffe2d98fcbf0a": {
+      "name": "Punspace Wiang Kaew",
+      "address": "10 Wiang Kaew Rd Old City Tambon Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "061 027 7885",
+      "website": "http://www.punspace.com/",
+      "category": "共用工作空间",
+      "openingHours": [
+        "星期二 09:00–18:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf4nUvT44P4L-KICaRZqGXD5thJvfntrkeR1a-ebjye6-ixE3CfGXSJLAVgaUbHBFvyRELjDlN9eZZqEVJuAizC5IBg8pUf1dXngfoG64dvvSOzPIjA_I7nEyv8pDDDP7G6RpYtPg=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdfTh9H-AfX4Aj17mvc1bQKYSB5koTR7sGa1PGtuf29Mm7k2M1wuvdr33_1xX5n6MKZFqAEW-MEGRzcTvGBTVcpg3Y7jOnHbfpPnX1yZPNedryMcKRCxD7o6LQ8xKuENNaM35sqX4nwQUOW=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Punspace+Wiang+Kaew/@18.7932407,98.9867172,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a97680a46ef:0x613bbb5c4777a705!8m2!3d18.7932407!4d98.9867172!16s%2Fg%2F11gf8g9xjm?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:06:46.285508+00:00"
+    },
+    "2adbe1e3471d80e59eb8ce8fc0a0b72e": {
+      "name": "Motorbike Repair Shop",
+      "address": "QXPH+C8J, 1 Arak Rd Old City Si Phum, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": "053 280 222",
+      "website": null,
+      "category": "摩托车维修店",
+      "openingHours": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLc4K6zdUawtXc-1Mhjl_b_nCMeG7N-NpLK0ueFSSs_0_du_UjJi1fmKSljyscgbzgzYzvsQhH0qIeHQ-1KqBBa19A0bjOvz1z6_1N8LTE2SAG7S53hgAuokNcbQkPPi75eYNIt7=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Motorbike+Repair+Shop/@18.7860609,98.9782412,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b9b71312c87:0x46486e735476ae0!8m2!3d18.7860609!4d98.9782412!16s%2Fg%2F11v10yq4jx?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:08:16.243003+00:00"
+    },
+    "2c1be1e3471d80878cbaed684ae4e36d": {
+      "name": "结果",
+      "address": null,
+      "phone": null,
+      "website": null,
+      "category": null,
+      "openingHours": [],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/search/%F0%9F%8F%A5+Chiang+Mai+Thailand?hl=zh-CN",
+      "scrapedAt": "2026-10-27T15:06:58.137102+00:00",
+      "unavailable": true,
+      "reason": "google_maps_link_missing",
+      "guideName": "🏥"
+    },
+    "2cabe1e3471d80f794becb0aa4142de7": {
+      "name": "ปุณเภสัช Poon Pharmacy",
+      "address": "45 Santitham Rd, Tambon Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": "091 545 2541",
+      "website": null,
+      "category": "药店",
+      "openingHours": [
+        "星期二 09:00–22:30"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeyQ_MFVADLuFNEAmV3kKJXBrJf8nfmFG7KayhFq5d4dCUJHR7E_8eAUi9a2mDG0EgGYSqJVWvIaf2NXBg1HNb1bRcyOQ_ngdz5cBf53cHGSM-hd2yoWD7crgFSc-6aNAwohiy-qR74uC0H=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%A0%E0%B8%AA%E0%B8%B1%E0%B8%8A+Poon+Pharmacy/@18.8035105,98.9784204,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0013731a77:0x85f2ebe31a8a9224!8m2!3d18.8035105!4d98.9784204!16s%2Fg%2F11whp1c911?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:07:04.499575+00:00"
+    },
+    "3acbe1e3471d804fb84ac9b2f8768844": {
+      "name": "清迈门",
+      "address": "QXJQ+GJW, Mun Mueang Rd, Tambon Phra Sing, Mueang Chiang Mai District, Chiang Mai 50200",
+      "phone": null,
+      "website": null,
+      "category": "古迹地标",
+      "openingHours": [
+        "星期二 24小时营业"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdalFhOV2Rzp1vY6YEDpcQ31SS8AfaZvQmicheHB7CS5zeJMXHMP65t7WKe32HOcOKOsvISL7IuimDdPCVaWFJFHNgU2hQEL_sh-l6sQe__PuYzMcGcznDnQ9zc34Jmt_QiAg2bqpLUCBvo=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfOFAYxX5IZVwEt21Kj28XdsHRftYiSGsVqBo2kBP4R9r9Ei22G6j53rvvE6KtHhCjBpa3NAB-vl3aGT08CB_Tu6LrzyBa-JNzP-6DpLwIlqiMRz6iwn4ehbEXDLFMUYoOqHB7K=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcAa-Ym78ukcnGJ4z2HCRAWINYln7Yriv8g55SiT46vcWhgj-YCCm4Ny_oBYrQO6Az_3-gI-5EoP1wl01cRI1utoOOEUxG8SDn7SLNtJXEsZec23xTnnFob9a5q1_T7orjmFkp08g=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E9%97%A8/data=!4m7!3m6!1s0x30da3a9fdbbc2c2f:0x5ea5a5cf7c70444d!8m2!3d18.7813558!4d98.9890913!16s%2Fg%2F11b6t80cbn!19sChIJLyy825862jARTURwfM-lpV4?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T15:07:11.800790+00:00"
+    },
+    "2c3be1e3471d8010b121ecaadad82a05": {
+      "name": "Night Bazaar Chiang Mai",
+      "address": "Changklan Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
+      "phone": null,
+      "website": null,
+      "category": "夜市",
+      "openingHours": [
+        "星期二 17:00–00:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdsvvRAsAJMqHZXuwOZmaiHoS5fmYysu1rtH6oIQrnclqhx9QCIx3kCZwYVkZUZsJRivEO4fKbOy9IRmpifh1IcKYlOofQsmkz8-iJOWxegIiV44n1JsUbEU9L3MHkTMvv7DtWukOsQ9M8H=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcci7VgrE4rx9HRjgyJGxPdGPUuiK4SwQRExaq-uFNH4synIBlXtFxKkn1uBkLKh6W5Nc08bbdLD8vZ6dyVIMgAmpNf6UZiJIYhsO3tF4MzTC-RsbQjJLTz9stKwlN_0wrdGlfH8y8iu-dc=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLenBj-X0TbPwknMj1dPksIsrS1SzIUEwe0eMh58EBxKP0pCrrV10S7nEBuszd-sPDDlLGOVwtehG3Kmds4YtYfwI-us08F-_Cd5-QH0capLz8p_KFLRwG1WmtAVBIMn2O53xkv5Bg=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Night+Bazaar+Chiang+Mai/data=!4m7!3m6!1s0x30da3aa60ca74a5b:0xb2ef5007f26b01d!8m2!3d18.7852244!4d99.0002986!16s%2Fm%2F05c54fn!19sChIJW0qnDKY62jARHbAmfwD1Lgs?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+      "scrapedAt": "2026-10-27T15:07:20.200048+00:00"
+    },
+    "2c7be1e3471d8068b967c6e609770277": {
+      "name": "Royal Project Agricultural Research and Development Center",
+      "address": "910 หมู่ 3 ต Mae Hia, อ.เมือง Chiang Mai 50200",
+      "phone": "053 324 001",
+      "website": "https://royalproject.org/",
+      "category": "基金会",
+      "openingHours": [
+        "星期二 08:00–17:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfMPlcsv7UFCSJpaWbf4QOjoL-FHTNzunBVB3iUyFbq_devXCVFdQuezlZslNfGqG8ibdusWth1JCZGiz357R6RGI16LTNqyH6cbbJuQSKHFFsQtMLe5WsbkN3tDYJ2_v0x1jstBw=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLdpTDK7QwDmbR42Fsq-9tp48okQ9He-wGNjo75IRwrVTxVZnOZmKpaaaBKV-373P1y407H4CGqEShEhyXsBhHHnpBhEJ23U5KXk3hW4AzmFrWikzOR2og-yWDENJGL9_7rxGb4=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Royal+Project+Agricultural+Research+and+Development+Center/@18.750647,98.9284981,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a731fcdc8af:0x8110aa04e7061e75!8m2!3d18.750647!4d98.9284981!16s%2Fg%2F1pzpqrfrf?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-27T15:07:27.537876+00:00"
+    },
+    "2ccbe1e3471d80408f71f2aecdef6d2e": {
+      "name": "Chiang Mai Driving School",
+      "address": "Nong Phueng, Saraphi District, Chiang Mai 50140",
+      "phone": "061 685 3037",
+      "website": "http://cmdrive.sombunyota.com/",
+      "category": "驾驶执照培训学校",
+      "openingHours": [
+        "星期三 08:00–19:00"
+      ],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLf_ySJbF6nvAhj1xASCLfKyIt5DYTjcQxILLFsf2YHfqq76LebueQSDIG5CBd6h9nhXRrovB3iH-3IC55s5P2PGQEn9wCv9oiTFQ2vi583pViDJQoeCKC-FxUzJYSgv6if5_iITux12S1bD=w1600-h1200-no"
+      ],
+      "googleMapsUrl": "https://www.google.com/maps/place/Chiang+Mai+Driving+School/@18.741428,99.0149181,17z/data=!3m1!4b1!4m6!3m5!1s0x30da2fd7ad7cfb9b:0xf5fd0126be68335d!8m2!3d18.741428!4d99.0149181!16s%2Fg%2F11b8tx06h9?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:08:24.041634+00:00"
+    },
+    "2cfbe1e3471d8009af78e6db0effab21": {
+      "name": "Kerry Express Parcel Service Point สาขา We Fix (Shop #14181)",
+      "address": "1/2 ห้าแยกสันติธรรม, Chang Phueak, Mueang Chiang Mai District, Chiang Mai 50300",
+      "phone": null,
+      "website": "http://www.kerryexpress.com/",
+      "category": "货运和邮递服务",
+      "openingHours": [
+        "星期三 09:00–21:00"
+      ],
+      "photos": [],
+      "googleMapsUrl": "https://www.google.com/maps/place/Kerry+Express+Parcel+Service+Point+%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2+We+Fix+(Shop+%2314181)/@18.8019397,98.9781929,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b19cdfc7013:0x6d14ae04740dafe7!8m2!3d18.8019397!4d98.9781929!16s%2Fg%2F11fktht14g?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
+      "scrapedAt": "2026-10-28T03:08:30.123205+00:00"
+    }
+  },
+  "quality": {
+    "method": "name search followed by direct-link correction",
+    "total": 150
+  }
+}

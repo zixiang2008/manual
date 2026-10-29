@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#173f36">
+  <meta name="description" content="财绅的清迈生活手册">
+  <link rel="canonical" href="https://cm.caishen.today/">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="stylesheet" href="/vendor/maplibre/maplibre-gl.css">
+  <link rel="stylesheet" href="/styles.css?v=17">
+  <title>清迈生活手册</title>
+</head>
+<body>
+  <main id="login" class="login-shell">
+    <section class="login-card">
+      <div class="mark">CM</div>
+      <p class="eyebrow">CAISHEN'S FIELD NOTES</p>
+      <h1 data-i18n="appName">清迈生活手册</h1>
+      <p class="muted" data-i18n="loginLead">咖啡、餐厅、活动与那些值得再去的地方。</p>
+      <label class="language-picker"><span data-i18n="language">语言</span><select class="language-select" aria-label="Language"><option value="zh">中文</option><option value="en">English</option><option value="ja">日本語</option><option value="th">ไทย</option></select></label>
+      <div class="auth-tabs" role="tablist">
+        <button id="loginTab" class="active" type="button" data-i18n="login">登录</button>
+        <button id="registerTab" type="button" data-i18n="register">注册</button>
+      </div>
+      <form id="loginForm">
+        <label><span data-i18n="yourName">你的名字</span><span class="field-note" data-i18n="nameLoginHint">选择或输入注册时使用的名字</span>
+          <select id="rememberedUsers" hidden aria-label="已登录过的名字"></select>
+          <input id="loginUser" name="user" autocomplete="username" placeholder="例如 Elvis" data-i18n-placeholder="nameExample" required>
+        </label>
+        <label><span data-i18n="pin4">4 位 PIN</span><span class="field-note" data-i18n="pinHint">每次登录时输入这四位码即可</span>
+          <input id="loginPin" name="pin" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" autocomplete="current-password" placeholder="••••" required>
+        </label>
+        <button type="submit" class="primary"><span data-i18n="enterGuide">进入手册</span> <span>→</span></button>
+        <p id="loginError" class="error" role="alert"></p>
+      </form>
+      <form id="registerForm" hidden>
+        <label><span data-i18n="yourName">你的名字</span><span class="field-note" data-i18n="nameRegisterHint">以后登录时使用，2–24 个字符</span>
+          <input id="registerName" autocomplete="name" placeholder="例如 小明" data-i18n-placeholder="registerNameExample" required>
+        </label>
+        <label><span data-i18n="setPin">设置 4 位 PIN</span><span class="field-note" data-i18n="pinHint">每次登录时输入这四位码即可</span>
+          <input id="registerPin" inputmode="numeric" pattern="[0-9]{4}" maxlength="4" autocomplete="new-password" placeholder="••••" required>
+        </label>
+        <label><span data-i18n="accessCode">授权码</span><span class="field-note" data-i18n="codeHint">由手册管理员提供</span>
+          <input id="registerCode" autocomplete="one-time-code" placeholder="输入授权码" data-i18n-placeholder="codePlaceholder" required>
+        </label>
+        <button type="submit" class="primary"><span data-i18n="registerEnter">注册并进入</span> <span>→</span></button>
+        <p id="registerError" class="error" role="alert"></p>
+      </form>
+    </section>
+  </main>
+
+  <div id="app" hidden>
+    <header class="site-header">
+      <div><p class="eyebrow">CHIANG MAI · THAILAND</p><h1 data-i18n="todayWhere">今天，去哪里？</h1></div>
+      <div class="user-menu">
+        <button id="userMenuButton" class="avatar-button" aria-expanded="false"><span id="avatar">C</span><span id="currentName">访客</span>⌄</button>
+        <div id="userMenu" class="menu-popover" hidden><div id="starSummary" class="star-summary"></div><label class="menu-language"><span data-i18n="language">语言</span><select class="language-select"><option value="zh">中文</option><option value="en">English</option><option value="ja">日本語</option><option value="th">ไทย</option></select></label><button id="shareButton" data-i18n="sharePlace">分享地点</button><button id="adminButton" hidden data-i18n="adminConsole">管理后台</button><button id="logout" data-i18n="logout">退出登录</button></div>
+      </div>
+    </header>
+    <section class="search-wrap">
+      <div class="search"><span>⌕</span><input id="search" type="search" enterkeyhint="search" placeholder="搜地点、区域、菜系、标签、备注…" data-i18n-placeholder="searchPlaceholder"><button id="searchSubmit" type="button" data-i18n="searchAction">搜索 ↵</button></div>
+      <div class="nearby-panel">
+        <button id="nearbyButton" class="nearby-main">◎ <span data-i18n="nearby">附近有什么</span></button>
+        <label class="distance-picker"><span data-i18n="range">范围</span>
+          <select id="nearbyRadius" disabled>
+            <option value="0.2">200 米</option>
+            <option value="0.5">500 米</option>
+            <option value="0.8">800 米</option>
+            <option value="1">1 公里</option>
+            <option value="3" selected>3 公里</option>
+            <option value="5">5 公里</option>
+            <option value="10">10 公里</option>
+          </select>
+        </label>
+        <span id="nearbyStatus" data-i18n="nearbyHint">授权定位后，按距离查看收藏</span>
+      </div>
+      <div id="quick" class="quick"><button data-q="宁曼" data-i18n="qNimman">宁曼附近</button><button data-q="家后面" data-i18n="qHome">家附近</button><button data-q="落日" data-i18n="qSunset">看落日</button><button data-q="河边" data-i18n="qRiver">去河边</button><button data-q="Pm" data-i18n="qNight">晚间营业</button></div>
+    </section>
+    <nav id="categories" aria-label="分类"></nav>
+    <section class="summary"><p><span id="count">0</span> <span data-i18n="savedPlaces">个收藏地点</span></p><p id="updated"></p></section>
+    <div class="view-switch" role="group" aria-label="展示方式">
+      <button type="button" data-view="globe" class="active" aria-pressed="true"><span>◎</span> <span data-i18n="globeMode">地球模式</span></button>
+      <button type="button" data-view="list" aria-pressed="false"><span>☷</span> <span data-i18n="listMode">列表模式</span></button>
+    </div>
+    <section id="globeView">
+    <div id="globeStage" class="globe-stage">
+    <section class="globe-shell" aria-label="地点地球地图">
+      <div class="globe-heading">
+        <div><p class="eyebrow">EXPLORE CHIANG MAI</p><h2 data-i18n="mapTitle">清迈有趣推荐By财绅</h2></div>
+        <p><span id="mappedCount">0</span> 个已定位 · <span id="unmappedCount">0</span> 个待定位</p>
+      </div>
+      <div id="globe" class="globe"></div>
+      <div class="globe-hint globe-hint-left" aria-hidden="true"><b>☝</b><span>向右滑</span></div>
+      <div class="globe-hint globe-hint-right" aria-hidden="true"><b>☝</b><span>向左滑</span></div>
+      <div class="globe-hint globe-hint-zoom" aria-hidden="true"><b>↔</b><span>双指缩放</span></div>
+      <button id="recenterGlobe" class="recenter-globe" type="button" aria-label="回到中心位置" title="回到中心位置"><span>⌾</span><small>回到中心</small></button>
+      <div class="globe-actions">
+        <button id="autoTourButton" type="button" class="active" aria-pressed="true"><span>▶</span> <span data-i18n="autoTour">自动轮播</span></button>
+        <button id="fullscreenGlobe" type="button"><span>⛶</span> <span data-i18n="fullscreen">全屏地图</span></button>
+      </div>
+      <button id="exitFullscreen" class="exit-fullscreen" type="button" aria-label="退出全屏">× <span data-i18n="exitFullscreen">退出全屏</span></button>
+      <div id="globeLegend" class="globe-legend" aria-label="类别图例"></div>
+    </section>
+    <article id="placePreview" class="place-preview below-map" hidden></article>
+    </div>
+    <section id="unlocatedPanel" class="unlocated-panel" hidden>
+      <div><strong>未定位地点</strong><span>仍可直接进入查看完整手册</span></div>
+      <div id="unlocatedList" class="unlocated-list"></div>
+    </section>
+    </section>
+    <section id="listView" class="list-view" hidden aria-label="地点列表">
+      <div id="cards" class="cards"></div>
+    </section>
+    <p id="empty" class="empty" hidden data-i18n="empty">没有找到匹配地点，换个关键词试试。</p>
+  </div>
+
+  <dialog id="detail"><button id="closeDetail" class="dialog-close" aria-label="关闭">×</button><div id="detailBody"></div></dialog>
+  <dialog id="shareDialog" class="share-dialog"><button id="closeShare" class="dialog-close" aria-label="关闭">×</button><div id="shareBody"></div></dialog>
+  <dialog id="adminDialog" class="admin-dialog"><button id="closeAdmin" class="dialog-close" aria-label="关闭">×</button><div id="adminBody"></div></dialog>
+  <script src="/vendor/maplibre/maplibre-gl.js"></script>
+  <script type="module" src="/app.js?v=20"></script>
+</body>
+</html>
