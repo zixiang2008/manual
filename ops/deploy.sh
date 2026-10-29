@@ -15,7 +15,7 @@ STAMP="$(date +%Y%m%d-%H%M%S)"
 
 cd "$ROOT"
 tar czf - server.mjs Dockerfile docker-compose.yml package.json .dockerignore \
-  scripts public config data README.md DEPLOY.md 运维手册.md 交接文档.md \
+  scripts public config data docs README.md \
   | ssh -o BatchMode=yes -o ConnectTimeout=15 "$NAS" \
       'rm -rf /tmp/cm-src && mkdir -p /tmp/cm-src && tar xzf - -C /tmp/cm-src'
 

@@ -2,7 +2,7 @@
 # 公网端到端验证（只读，不需要 NAS 权限）。
 # 用法：CM_PIN=0409 ./ops/verify.sh
 set -euo pipefail
-BASE="${CM_BASE:-https://cm.caishen2049.us}"
+BASE="${CM_BASE:-https://cm.caishen.today}"
 USER="${CM_USER:-elvis}"
 PIN="${CM_PIN:-}"
 
