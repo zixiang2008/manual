@@ -26,12 +26,13 @@
 6. [Concrete advantages over Google Maps](#concrete-advantages-over-google-maps)
 7. [Additional value](#additional-value)
 8. [Live examples](#live-examples)
-9. [Feature list](#feature-list)
-10. [Architecture](#architecture)
-11. [Quick start and configuration](#quick-start-and-configuration)
-12. [Security and privacy](#security-and-privacy)
-13. [Use cases and extensibility](#use-cases-and-extensibility)
-14. [Responsible use](#responsible-use)
+9. [Version and updates](#version-and-updates)
+10. [Feature list](#feature-list)
+11. [Architecture](#architecture)
+12. [Quick start and configuration](#quick-start-and-configuration)
+13. [Security and privacy](#security-and-privacy)
+14. [Use cases and extensibility](#use-cases-and-extensibility)
+15. [Responsible use](#responsible-use)
 
 ---
 
@@ -247,9 +248,24 @@ The production site after login uses the same behaviour with MapLibre GL:
 
 ---
 
+## Version and updates
+
+Current release: **v25** (2026-11-18). The full history is in [CHANGELOG.md](CHANGELOG.md).
+
+- v25 adds four selectable UI themes (paper / forest / ocean / sunset), signed public share links that open without login (WeChat-friendly `og:` metadata, public fields only), an enforced "at least 2 visible photos per place" fallback, and refreshed Google Maps business details.
+- The version number is kept in sync across `public/index.html`, `public/app.js`, `public/sw.js` (`cm-life-v25`) and the changelog. Bump all of them together so Service Worker caching cannot serve stale assets.
+
+```bash
+npm run check:media -- --out docs/media-coverage.json   # photo and opening-hours coverage
+```
+
+---
+
 ## Feature list
 
 - Chinese, English, Japanese and Thai mobile PWA
+- Four selectable themes, persisted locally, with matching browser theme colour
+- Signed public share links from any place detail view — no login required to open, public information only
 - Full-text search; category, sub-category, tag and 200 m–10 km distance filters
 - List view and an illustrated Chiang Mai guide map (MapLibre + OpenStreetMap raster tiles with a stitched local mosaic fallback), locked to four explicit controls instead of free pan/zoom, snapping to the nearest café on load
 - 150-place snapshot across 26 categories; address, hours, phone, website, booking, photos and map links

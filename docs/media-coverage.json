@@ -1,0 +1,1547 @@
+{
+  "summary": {
+    "generatedAt": "2026-11-18T09:45:00.936Z",
+    "places": 150,
+    "ownPhotosAtLeast2": 6,
+    "visiblePhotosAtLeast2": 117,
+    "stillShort": [
+      "2b9be1e3471d80be9c80c66f9439a2fc",
+      "2b9be1e3471d805bbe0afedeaa9e354d",
+      "2bdbe1e3471d803ab50aff4b5f34ca1b",
+      "2adbe1e3471d80798d51c86a1ee5b00e",
+      "2f3be1e3471d803bb041ea6277d954b8",
+      "324be1e3471d80909bdce0e251be3d6c",
+      "2c9be1e3471d801bad2ade822f331900",
+      "29cbe1e3471d80e1aa18d9defe5e0950",
+      "397be1e3471d805a8a64d5babac6243c",
+      "3e9be1e3471d80c4a888eb81d88d9d6a",
+      "2bebe1e3471d8065a290df92ece268e2",
+      "2cfbe1e3471d806099c2e0101935dd89",
+      "2b8be1e3471d80c2862aed5039a0a3e7",
+      "2d7be1e3471d802eabe2fae4ee648d8b",
+      "2e5be1e3471d8032a9f3f97998160c68",
+      "2e8be1e3471d80f6ac32c78d6d8e45f0",
+      "2f2be1e3471d802db796f45aaab4448e",
+      "31fbe1e3471d80f7847dcddf6114a2ef",
+      "3bcbe1e3471d80448659cd4da3163351",
+      "3bcbe1e3471d80b09a9bca3dd699e0b4",
+      "3d6be1e3471d80468c10c7847aa52e30",
+      "405be1e3471d8013ae79fd5cb3d3d582",
+      "3d6be1e3471d806c9b09db1681543d26",
+      "2c0be1e3471d802baf12c99a74233a53",
+      "3febe1e3471d80acae52ffa5616d3d27",
+      "2abbe1e3471d80d1967df77fefc7fdf8",
+      "2babe1e3471d80ef8915c53770aa4231",
+      "2c4be1e3471d801388d3e897f7620467",
+      "3aabe1e3471d806b8492c637be34a32c",
+      "3aabe1e3471d809c817ccea894fdd8a4",
+      "402be1e3471d80888f84e0152c0e578b",
+      "2c1be1e3471d80878cbaed684ae4e36d",
+      "2cfbe1e3471d8009af78e6db0effab21"
+    ],
+    "withOpeningHours": 133,
+    "withoutOpeningHours": 17
+  },
+  "rows": [
+    {
+      "id": "299be1e3471d80f0a94bc37d25cbe1f6",
+      "name": "Transit Number 8",
+      "ownPhotos": 2,
+      "googlePhotos": 1,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "29cbe1e3471d801ba7e8d6d4f918256a",
+      "name": "The Story",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2aabe1e3471d809b9513c0203f87e6e2",
+      "name": "The Baristro x Ping River",
+      "ownPhotos": 2,
+      "googlePhotos": 2,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "322be1e3471d803181fff353661c588a",
+      "name": "Dreamtime Cafe",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b8be1e3471d80319360c729ea5e8b7b",
+      "name": "LANN Cafe'",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b9be1e3471d80d7a9ead5fc688b0ec0",
+      "name": "Street Coffee Crew",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b9be1e3471d80be9c80c66f9439a2fc",
+      "name": "2STREETCOFFEECREW",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b9be1e3471d805bbe0afedeaa9e354d",
+      "name": "Buncha’s slow bar",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2bdbe1e3471d803ab50aff4b5f34ca1b",
+      "name": "Fern Forest Cafe",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2c3be1e3471d8014acccd197aa0502c9",
+      "name": "Zeit Roaster - Brewing Lab Cafe",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c7be1e3471d80a9a5cbe78155809639",
+      "name": "Baan Kang Wat",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cdbe1e3471d80cf8c62ca7f15822f9a",
+      "name": "Living The Dream Cafe & Playground",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e4be1e3471d80eba280df48e22b2347",
+      "name": "27-27/1 Paper Butter Oldtown the yard host",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e8be1e3471d80ee8acecf3fbe0b7ed8",
+      "name": "Yoong.Coffee Room",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2f6be1e3471d809f8257cdd6612ea7d8",
+      "name": "SELF",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "324be1e3471d80218147ccca2544a52e",
+      "name": "The Baristro Asian Style",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "398be1e3471d804b8bf1e09c56f7b36b",
+      "name": "Hohm Lamoon Café ( )",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3aabe1e3471d804a8b46d6b319151ecf",
+      "name": "ChomJai Cafe and Dessert",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3c5be1e3471d801f8938eb4c015f108e",
+      "name": "681 Kanal.cnx",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2f8be1e3471d80fba519d0d0eaa4506a",
+      "name": "Ombra Caffe Nimman",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2f6be1e3471d8009a182cbb49e0b11fe",
+      "name": "Charin Pie",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2adbe1e3471d80798d51c86a1ee5b00e",
+      "name": "FOHHIDE",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b8be1e3471d80c4ab32e51472060dbe",
+      "name": "Homey Home Cafe",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cbbe1e3471d80efa5bbf511b27bb97e",
+      "name": "Huan Kaew Coffee",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bfbe1e3471d805f890efe3d067b132b",
+      "name": "Early Owls",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b8be1e3471d80baad48c21bf7e1c2da",
+      "name": "Arte House",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2debe1e3471d807cacc4cc5b63d77808",
+      "name": "Cafe de Sot",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2f3be1e3471d803bb041ea6277d954b8",
+      "name": "Inchala",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2fdbe1e3471d80c7b57df9932a2559b8",
+      "name": "Cafe de Sot",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "394be1e3471d8098a46eea3a5ff7accd",
+      "name": "Mai bakery in garden",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e0be1e3471d80478afefcaa83781dbd",
+      "name": "2 Chom Cafe and",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d5be1e3471d80ecb4c3f331eeaee26f",
+      "name": "Jailoy Cafe&Rooftop",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d5be1e3471d8040b989edfe77622687",
+      "name": "159 HIDELAND",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "324be1e3471d80909bdce0e251be3d6c",
+      "name": "Areemitr Coffee",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b4be1e3471d80a19fb2d4a84078cf7c",
+      "name": "One Nimman",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c9be1e3471d801bad2ade822f331900",
+      "name": "Hooman boardgame house",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2d1be1e3471d8075a96ae4668d6271c2",
+      "name": "尚泰电影院 购票",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a6be1e3471d8088ab72fc56407f4ec2",
+      "name": "Artisan sourdough by apple fahey",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b9be1e3471d806b80c9d4ae547e5ddc",
+      "name": "PHAPLOEN MARKET",
+      "ownPhotos": 2,
+      "googlePhotos": 2,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a5be1e3471d808ba54af5a9925b29d3",
+      "name": "WW5W RXR Thai BBQ buffet",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d8086acb0d55a87f7009a",
+      "name": "HomNoey Thai BBQ",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c8be1e3471d802f83e8efd5c703aada",
+      "name": "Chill House",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a7be1e3471d80148044c4c370fd78f9",
+      "name": "Look Inside CNX",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "29cbe1e3471d80e1aa18d9defe5e0950",
+      "name": "QXMV J4C OriginaLive - The First Indie Liv",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b9be1e3471d801db5c6f4ab13c9e4aa",
+      "name": "清迈人妖秀",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b9be1e3471d80bbb480e4313ca8d569",
+      "name": "Boy Blues Bar",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c9be1e3471d8092b42dd519483ffcf8",
+      "name": "Do You Ever Social Club",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d0be1e3471d80c2b748fe387344f135",
+      "name": "Sai Ping Bar &",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e2be1e3471d80108b87cf8aaf38108d",
+      "name": "บ่อกุ้ง บ้านพาเพลิน",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "397be1e3471d805a8a64d5babac6243c",
+      "name": "The Coco Club",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "29fbe1e3471d80d9ac4ad81f28e071a2",
+      "name": "Doi Saket Hot Spring",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "29fbe1e3471d80268a99d01cffe57a46",
+      "name": "Yann",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bdbe1e3471d8091bb44faaac9c2bd86",
+      "name": "The Cocoon Sauna & Ice bath",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c0be1e3471d80e7abefc29aba6611e8",
+      "name": "San Kamphaeng Hot Springs",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3e9be1e3471d80c4a888eb81d88d9d6a",
+      "name": "10 Ground. Recovery Club",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2abbe1e3471d800997bec007b48faaa2",
+      "name": "ākho",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bcbe1e3471d80dcb4f1e623765cdfb9",
+      "name": "善灵素菜馆52",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 2,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bebe1e3471d8065a290df92ece268e2",
+      "name": "PXP3 HVF 789",
+      "ownPhotos": 1,
+      "googlePhotos": 0,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2c1be1e3471d80d7b8b2d5a0ee976b54",
+      "name": "Sababa - Main Branch",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c5be1e3471d80a2aea7ff87c6ac8f8b",
+      "name": "Madam Loei",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cebe1e3471d8014a97cc610ab4fbb94",
+      "name": "Guang",
+      "ownPhotos": 2,
+      "googlePhotos": 1,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cfbe1e3471d806099c2e0101935dd89",
+      "name": "R2Q5 58C Sai Gon Oi Vietnamese Cuisine",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2dbbe1e3471d80f0b2a3ff1f3a87495e",
+      "name": "กะเพราขี้เมา น้ำลี้",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "309be1e3471d80edbf33fa19cc499166",
+      "name": "Brownie Yeesib",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 2,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3e0be1e3471d80099425fbfe5a245b65",
+      "name": "TOEN Thai Food &",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3e3be1e3471d80b4bfcbfcd741a36a9b",
+      "name": "Shu Homemade",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3fcbe1e3471d806cb549f0a8d848e4ee",
+      "name": "University Main Food Court",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d8be1e3471d803081e8d7b524e17041",
+      "name": "Kati Breakfast and Brunch",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2fbbe1e3471d805ca287d27cea8fd33f",
+      "name": "THE VOLCANO One Nimman",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 2,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3e8be1e3471d807faeaaf786f2899812",
+      "name": "OYES Smoothies & Happy Food",
+      "ownPhotos": 0,
+      "googlePhotos": 2,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a3be1e3471d80288579dc50c8d31936",
+      "name": "2 OL Beef Noodle",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d807bb42adb0d0387edc2",
+      "name": "Kobe King Japanese BBQ",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2adbe1e3471d8094a796efc015e1591c",
+      "name": "Mooyim JimJum Hotpot",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2afbe1e3471d80ae88fdd5b286563b80",
+      "name": "Cherng Doi Roast Chicken",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b6be1e3471d80a78f35fffea5d090a3",
+      "name": "43 Horumon",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b8be1e3471d806987bbdc00abb2fa98",
+      "name": "Jen Moy( ) Local Thai",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2b8be1e3471d80c2862aed5039a0a3e7",
+      "name": "老高潮汕菜館37",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2c1be1e3471d80e096d2e15c658d37ae",
+      "name": "川湘苑中餐厅",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c2be1e3471d80479b1be7462567c7c4",
+      "name": "云川饭馆",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c3be1e3471d8094aed4e81a578cf8df",
+      "name": "SANAE",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cfbe1e3471d80bb9ac5db2923dfc477",
+      "name": "Uncle Kani",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d7be1e3471d802eabe2fae4ee648d8b",
+      "name": "QXQM C5C 7-Eleven",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2a6be1e3471d80f98d1cfca08aa20707",
+      "name": "清迈老字号红烧牛肉面馆71",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e5be1e3471d8032a9f3f97998160c68",
+      "name": "烤串麻辣烫",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2e8be1e3471d80f6ac32c78d6d8e45f0",
+      "name": "Neng’s Clay Oven Roasted Pork – Muang Mai",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 2,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2f2be1e3471d802db796f45aaab4448e",
+      "name": "Cherry Burmese",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "31bbe1e3471d804abc01ccfefd99165d",
+      "name": "Grace & Jean's",
+      "ownPhotos": 2,
+      "googlePhotos": 1,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "31fbe1e3471d80f7847dcddf6114a2ef",
+      "name": "AM.TONY Antique & Coffee",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "38abe1e3471d8081b106edc7625ae8b1",
+      "name": "กะเพราขี้เมา น้ำลี้",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "38cbe1e3471d80c78633d5381d8a6d5d",
+      "name": "43 Horumon",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "39ebe1e3471d80edba8de558f38504b5",
+      "name": "Neng Roasted Pork",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a0be1e3471d80938950cc8a85e2cd2d",
+      "name": "J255 H4Q RO Pho Cho Lamphun",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a1be1e3471d80b6a867db4159fa9737",
+      "name": "冷冻港式早茶",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a5be1e3471d80f8abaafc95d4aa4cbd",
+      "name": "Frog eye",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3abbe1e3471d80a7a169f5b01b2d96b1",
+      "name": "Mae Tha Chang Kang Thong",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3aebe1e3471d80babff5d4eaf7ea3945",
+      "name": "230 Khao Soi Kun Ta",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3bcbe1e3471d80448659cd4da3163351",
+      "name": "44 RASIK LOCAL KITCHEN",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3bcbe1e3471d80b09a9bca3dd699e0b4",
+      "name": "牛杂店58",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3d6be1e3471d80468c10c7847aa52e30",
+      "name": "泰国古法牛肉茶餐室95",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "405be1e3471d8013ae79fd5cb3d3d582",
+      "name": "牛肉饭",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b0be1e3471d8024b8ced1311f67fe2f",
+      "name": "Super Soup - MaLaTang",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cbbe1e3471d8013a704e413b9004235",
+      "name": "A.T. Thaifoods",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d6be1e3471d807aa1f7f694069aca1c",
+      "name": "ข้าวมันไก่ ป.7",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "323be1e3471d80b99ee4e15aea0e263b",
+      "name": "Mauyum Cafe Santitham",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a1be1e3471d80799a10d68e1e5b7413",
+      "name": "Tomimaki",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3d6be1e3471d806c9b09db1681543d26",
+      "name": "Meater Earth",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b4be1e3471d8017955ae183446ce6f0",
+      "name": "未命名地点",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bdbe1e3471d800f8c81ecf2876c4ccb",
+      "name": "兰纳高尔夫俱乐部",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d9be1e3471d8068adddd244ed755db5",
+      "name": "Looper Swimming Pool",
+      "ownPhotos": 0,
+      "googlePhotos": 2,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c0be1e3471d802baf12c99a74233a53",
+      "name": "Satva Yoga",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2c8be1e3471d80d2ad56e02b95c75fa9",
+      "name": "10 Pimantip Golf Club",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c8be1e3471d80ae94f7dd491009c575",
+      "name": "CNX GOLF",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d5be1e3471d80d6966bfe04debe9cae",
+      "name": "Baan Suan Café",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2d8be1e3471d80e39ee0c9bdfa55764f",
+      "name": "X-Centre",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2e0be1e3471d805cb9f7d06727327b4f",
+      "name": "CrossFit / CFCNX",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a1be1e3471d80779916d64ca5182cb4",
+      "name": "15 Wiangfueangfa Thai Massage Therapy Plea",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a1be1e3471d80fd8f81c86bc30f91b1",
+      "name": "sum bamboo massage (Ruamchok) 1",
+      "ownPhotos": 0,
+      "googlePhotos": 2,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3febe1e3471d80acae52ffa5616d3d27",
+      "name": "长康路按摩",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3e3be1e3471d8099b9b0fe94fba6e228",
+      "name": "5 the butterfly effect - organic cafe",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 2,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "299be1e3471d80318dccd39f5dc1cfc1",
+      "name": "Shanti Nii Yoga | Qi Gong | Pilates | Soun",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d807db762e9d81d8e2612",
+      "name": "attika studio Café&Workshop",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d80d1967df77fefc7fdf8",
+      "name": "Much Room Cafe",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2b5be1e3471d809081b8d1bd94471dab",
+      "name": "Game On Pool Hall & Sports Bar",
+      "ownPhotos": 2,
+      "googlePhotos": 2,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": false,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2babe1e3471d80ef8915c53770aa4231",
+      "name": "100 Red Panda Cafè (CNX) | ( .)",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2bdbe1e3471d80528841c5aa232b5031",
+      "name": "10 Pimantip Golf Club",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c4be1e3471d801388d3e897f7620467",
+      "name": "未命名地点",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2a5be1e3471d80ddac5bc1bb52a6da53",
+      "name": "WTF Coffee Camp",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a5be1e3471d80d297a3da5e0d319595",
+      "name": "X42P GVX @ Luang Nuea",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3a7be1e3471d8040af5ac99716e6cfc4",
+      "name": "AMFER’cafe",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3aabe1e3471d80b68fc8dd0036cb3433",
+      "name": "Mae Ya Waterfall",
+      "ownPhotos": 0,
+      "googlePhotos": 2,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3aabe1e3471d806b8492c637be34a32c",
+      "name": "GHRX MPP Wachirathan cafe",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3aabe1e3471d809c817ccea894fdd8a4",
+      "name": "39 หมู่",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3e3be1e3471d80d294f7dd3c1a26a8a0",
+      "name": "The Yard Hostel",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a6be1e3471d80659e64f5000cd8ea2c",
+      "name": "清迈客栈推荐",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3b7be1e3471d80bc8848ee1fcf8ae58b",
+      "name": "摩托车租赁",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "402be1e3471d80888f84e0152c0e578b",
+      "name": "摩托车便宜",
+      "ownPhotos": 0,
+      "googlePhotos": 1,
+      "visiblePhotos": 1,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "3f1be1e3471d808da2e8d78c7fb6f31c",
+      "name": "9XG3 HQV Red Onion Thai Southern Food Chia",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2a8be1e3471d801793a7fea69f66ed71",
+      "name": "Pura Vida Bar One Nimman",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d80e0a18bd88a411b1a88",
+      "name": "mr.pierre money exchange",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2bebe1e3471d803eb42ad6e5d7a75f7e",
+      "name": "MONTREE COPY",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2abbe1e3471d80b982e2d388c2c3e597",
+      "name": "159 HIDELAND",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2adbe1e3471d8000bd6ffe2d98fcbf0a",
+      "name": "Punspace Wiang Kaew",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2adbe1e3471d80e59eb8ce8fc0a0b72e",
+      "name": "QXPH C8J Motorbike Repair Shop",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c1be1e3471d80878cbaed684ae4e36d",
+      "name": "🏥",
+      "ownPhotos": 0,
+      "googlePhotos": 0,
+      "visiblePhotos": 0,
+      "openingHours": 0,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    },
+    {
+      "id": "2cabe1e3471d80f794becb0aa4142de7",
+      "name": "Poon Pharmacy",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 12,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "3acbe1e3471d804fb84ac9b2f8768844",
+      "name": "门口",
+      "ownPhotos": 1,
+      "googlePhotos": 3,
+      "visiblePhotos": 4,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c3be1e3471d8010b121ecaadad82a05",
+      "name": "清迈免费课程及旅行攻略总结",
+      "ownPhotos": 0,
+      "googlePhotos": 3,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2c7be1e3471d8068b967c6e609770277",
+      "name": "Royal Project Agricultural Research and De",
+      "ownPhotos": 1,
+      "googlePhotos": 2,
+      "visiblePhotos": 3,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2ccbe1e3471d80408f71f2aecdef6d2e",
+      "name": "Driving School",
+      "ownPhotos": 1,
+      "googlePhotos": 1,
+      "visiblePhotos": 2,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": true
+    },
+    {
+      "id": "2cfbe1e3471d8009af78e6db0effab21",
+      "name": "Kerry Express Parcel Service Point We Fix",
+      "ownPhotos": 0,
+      "googlePhotos": 0,
+      "visiblePhotos": 0,
+      "openingHours": 1,
+      "needsGoogleFallback": true,
+      "meetsTwoPhotoRule": false
+    }
+  ]
+}

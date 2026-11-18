@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T03:08:47.101Z",
+  "generatedAt": "2026-11-18T09:45:00.803Z",
   "provider": "playwright",
   "items": {
     "2aabe1e3471d809b9513c0203f87e6e2": {
@@ -16,7 +16,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLd05xxq1guHwXK4tV-sbLJXbUdC5Bt7ushg2MF74rNxWZR9XMO9llaBrVY_NxqmchdZfrjoEGrqNkRoXPtijc7vX5cNOetc_mpNlDwc6TsH-G4TRHUeTS2riccVh8uvVvjoF08327Ql0YmP=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/The+Baristro+x+Ping+River/@18.81582,99.00025,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf9cacfc44b:0x1e7ef01697e59984!8m2!3d18.81582!4d99.00025!16s%2Fg%2F11gfcxbnhz?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T08:20:58.731579+00:00"
+      "scrapedAt": "2026-10-27T08:20:58.731579+00:00",
+      "refreshedAt": "2026-11-18T09:27:35.101314+00:00"
     },
     "299be1e3471d80f0a94bc37d25cbe1f6": {
       "name": "Transit Number 8",
@@ -31,7 +32,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcFbBDAQCdxL3D49EyofnX89SnUbY0_6ecM0c4cWWp2_cB4dNbwxjSmqCBMwwMKcFw4R-hYdfKhpuh-uQkLXk7Otsfj0J4fieteb-cwQUY3bIjQe0j8lW0Uy8YlXVCDW9Ydy_A=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Transit+Number+8/@18.7871157,98.9602837,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf006de490d:0xe943f29ea298db52!8m2!3d18.7871157!4d98.9602837!16s%2Fg%2F11grvjs84q?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:50:10.771316+00:00"
+      "scrapedAt": "2026-10-27T14:50:10.771316+00:00",
+      "refreshedAt": "2026-11-18T09:27:24.626122+00:00"
     },
     "29cbe1e3471d801ba7e8d6d4f918256a": {
       "name": "The Story 106 Co-Working Space &Cafe",
@@ -62,7 +64,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipPZXeZqctHN42kH4s0clhWj5HbyDFOpyHSW8s4a=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Dreamtime+Cafe/@18.7798596,99.0069175,17z/data=!3m1!4b1!4m6!3m5!1s0x30da312eecd2c4ad:0xf46c707e8a1b6784!8m2!3d18.7798596!4d99.0069175!16s%2Fg%2F11msswx1p7?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:50:29.553717+00:00"
+      "scrapedAt": "2026-10-27T14:50:29.553717+00:00",
+      "refreshedAt": "2026-11-18T09:27:40.536873+00:00"
     },
     "2b8be1e3471d80319360c729ea5e8b7b": {
       "name": "LANN Cafe'",
@@ -77,7 +80,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfWnRMWu9eQePQoBSXJ9i11hFvdezSG7psR8cl064rG8rERhkIufPBK0FYZCLKNsUobnumWxgCdV1vbuqYbJ-thd9t29QOAD_AiOIQa4vTpOZc9UmdoFqRUQQ1M-fTaJdbQEuMi=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/LANN+Cafe'/@18.7936926,98.9780277,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bde11656571:0x497ca8f4283c6c1d!8m2!3d18.7936926!4d98.9780277!16s%2Fg%2F11svbw3n05?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:50:37.532128+00:00"
+      "scrapedAt": "2026-10-27T14:50:37.532128+00:00",
+      "refreshedAt": "2026-11-18T09:27:45.940634+00:00"
     },
     "2b9be1e3471d80d7a9ead5fc688b0ec0": {
       "name": "Street Coffee Crew",
@@ -92,7 +96,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfN9ze6CgMWtlxLFnQQJc21-kqYxC2rD19L3mqdF0ALlWMhlsT1vwpyUzRu8rRyHCQcmoiVfg31btYOo3T8BFygIFQRJ4kQ5ix_1b2h6TZ9ibso_w2tik-3UH9LTcZC5U1sk-5WqDNz6KMJ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Street+Coffee+Crew+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:50:43.433248+00:00"
+      "scrapedAt": "2026-10-27T14:50:43.433248+00:00",
+      "refreshedAt": "2026-11-18T09:27:51.453310+00:00"
     },
     "2b9be1e3471d80be9c80c66f9439a2fc": {
       "name": "2STREETCOFFEECREW",
@@ -107,7 +112,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdsg415fSEK2KCrHDqYSKBaD2aqHvkqLof0S5k4bBNeLlsLhFSCoFXP-cN_pKIP-eCOs6sKsVPfpf9KOhXxa1N49w4RKrf1Hm911G_cDTPIKohjHKRuNjvgtmb_Z-xn-ZUhJVrk=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/2STREETCOFFEECREW+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:50:49.408078+00:00"
+      "scrapedAt": "2026-10-27T14:50:49.408078+00:00",
+      "refreshedAt": "2026-11-18T09:41:26.192071+00:00"
     },
     "2b9be1e3471d805bbe0afedeaa9e354d": {
       "name": "Buncha’s slow bar",
@@ -122,7 +128,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfsC5RiBmP_DnogFnmenazaf7uINAzUOlppaC_S1kJ9IAp8Xz0xtExTeY5xU1UjLIpage_44fBduqliqNlhERX8NvNO7I1UivVHvC4nEf14RVCensXFPV7ldvpya_GYWVPQcUHasQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Buncha%E2%80%99s+slow+bar/@18.7832489,99.0030381,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b5a63952e11:0xb04d9ecc12707770!8m2!3d18.7832489!4d99.0030381!16s%2Fg%2F11q94441jf?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:50:56.698808+00:00"
+      "scrapedAt": "2026-10-27T14:50:56.698808+00:00",
+      "refreshedAt": "2026-11-18T09:41:31.898649+00:00"
     },
     "2bdbe1e3471d803ab50aff4b5f34ca1b": {
       "name": "Fern Forest Cafe",
@@ -137,7 +144,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcv_TdzHhlfOdSBJPC4DwJ19y2w1hIgi3fsz1QeGGqEcDjKgDwZQomsgqAbzurWL-MYZGPfxrirKiDKPE6UeNjX286yijW1MSEMV6s33BzQCuiqhkY-Yxc2ky7vrSZxvEPhvuwS=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Fern+Forest+Cafe/@18.7933635,98.982022,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a9a8f0d12db:0xdb8ed6b75be964bc!8m2!3d18.7933635!4d98.982022!16s%2Fg%2F1hc7fgf5g?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:51:05.835566+00:00"
+      "scrapedAt": "2026-10-27T14:51:05.835566+00:00",
+      "refreshedAt": "2026-11-18T09:41:37.767682+00:00"
     },
     "2c3be1e3471d8014acccd197aa0502c9": {
       "name": "Zeit Roaster - Brewing Lab Cafe&Coffee shop",
@@ -152,7 +160,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfpuPh4k3cDApbcJ-M3ai_4oDyhtcIP6NAu24Mcpl0zeZUIxFs2DENYarxRaU-avuBw2AfQdlZihK5GlcxUQwWkOiOjHexz4uPYntSK637qa6jH9z8A0vpUbuo2QwWALMmN7f9BLWZSVnAo=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Zeit+Roaster+-+Brewing+Lab+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:11.933474+00:00"
+      "scrapedAt": "2026-10-27T14:51:11.933474+00:00",
+      "refreshedAt": "2026-11-18T09:28:13.161041+00:00"
     },
     "2c7be1e3471d80a9a5cbe78155809639": {
       "name": "Baan Kang Wat",
@@ -169,7 +178,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfzIIC-C3-9k7hnxZDFK-Wmq5lEBwturMk6uikMPJGvZuF7Nc9f_Cp_B34sl25Hf5z6nmwbX-uTx1ad2EsPYikPQgIu2Ha88ueOxycBx57RMgMiQQm3DSvZNRXRsq8uBo_WtJRdLg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Baan+Kang+Wat+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:17.995145+00:00"
+      "scrapedAt": "2026-10-27T14:51:17.995145+00:00",
+      "refreshedAt": "2026-11-18T09:28:19.059190+00:00"
     },
     "2cdbe1e3471d80cf8c62ca7f15822f9a": {
       "name": "Living The Dream Cafe & Playground Chiang Mai",
@@ -185,7 +195,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipOtUIjJoFjU1LOgV2sOwD77ZDxSz0cvYcwZsM9s=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Living+The+Dream+Cafe+%26+Playground+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:24.082484+00:00"
+      "scrapedAt": "2026-10-27T14:51:24.082484+00:00",
+      "refreshedAt": "2026-11-18T09:28:24.371330+00:00"
     },
     "2e4be1e3471d80eba280df48e22b2347": {
       "name": "Paper Butter Oldtown",
@@ -215,7 +226,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfEma39MrvSGbfiTY-FH3tSFUIq5PzhVa7r8cE9J_OCkLnDGrpwemRFDMcdv4ibI06ulcCk-T152cb9oKijwsR_AXqOA-TuXwEOO7GrALM-fRv5GXdQm0gqWodv_RphVgo3LcfcNw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Yoong.Coffee+Room+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:35.596101+00:00"
+      "scrapedAt": "2026-10-27T14:51:35.596101+00:00",
+      "refreshedAt": "2026-11-18T09:28:34.822627+00:00"
     },
     "2f6be1e3471d809f8257cdd6612ea7d8": {
       "name": "SELF",
@@ -230,7 +242,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdccrXRFq9HSl56SHTWK4-fLw2wjw5W42JQEkDElRkRvu_5YyzTtzM-umK8yEo-ZZcybyqjfMFO9vFjMs6BQTw0bVPveTMoOxoDYUz4WjD16Rr9QxkivlDYumyIKK-U5BQfP8tuew=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/SELF+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:41.574738+00:00"
+      "scrapedAt": "2026-10-27T14:51:41.574738+00:00",
+      "refreshedAt": "2026-11-18T09:28:39.968389+00:00"
     },
     "324be1e3471d80218147ccca2544a52e": {
       "name": "The Baristro Asian Style",
@@ -245,7 +258,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLc9E834Nj5XUowP7ajPVeJ3HAVwy8TF9xgo3kROuKS_E-rX74m_1JDV40N-BkJ74hL8sFLuUIPk9Kh-AebVIKycGla4eK7BelkriKCTXcQN5s7aBluHHfrwKkXcUQFbZSztgcBm6A=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/The+Baristro+Asian+Style+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:47.466178+00:00"
+      "scrapedAt": "2026-10-27T14:51:47.466178+00:00",
+      "refreshedAt": "2026-11-18T09:28:45.540852+00:00"
     },
     "398be1e3471d804b8bf1e09c56f7b36b": {
       "name": "Hohm Lamoon Café (หอมละมุนคาเฟ่)",
@@ -260,7 +274,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf9siE0iKrY6D2wmrjEetEV_t6EVwDm9u1V8WnZu0qDxJI80aqa7Twdxq0CsAOEe1lI_xGC5PTXLQMJJBAEODKzfrkQ6u5AHz03FjPNfFvpwy2jM1QREt2hdB72S8cSMm_R6Mx0z_fZd_oz=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Hohm+Lamoon+Caf%C3%A9+%28+%29+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:51:53.227618+00:00"
+      "scrapedAt": "2026-10-27T14:51:53.227618+00:00",
+      "refreshedAt": "2026-11-18T09:28:50.723097+00:00"
     },
     "3aabe1e3471d804a8b46d6b319151ecf": {
       "name": "ChomJai Cafe and Dessert",
@@ -275,7 +290,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf9_9kjRfw32BYxLi_mfGpMVsvMG45lU8YcDSD0nHihpg2xzTovLtOOCPn_mBJbIw3VJb4Jt3gS73BctYjBDCwczcHkcXTpNTID6xd5nQMSoN_Arcq-RC5gV_osgGgbtmsSOBdJzqCGpqj6=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/ChomJai+Cafe+and+Dessert/@18.8070084,98.9794045,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0069748a8f:0xcb55eac9abc55983!8m2!3d18.8070084!4d98.9794045!16s%2Fg%2F11z58r81j7?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:52:03.349046+00:00"
+      "scrapedAt": "2026-10-27T14:52:03.349046+00:00",
+      "refreshedAt": "2026-11-18T09:28:56.133295+00:00"
     },
     "3c5be1e3471d801f8938eb4c015f108e": {
       "name": "Kanal.cnx",
@@ -290,7 +306,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfaqh2Z13C-DFViYZdvyEozfBfi8W25-SAnawb4Q3WwFNAZtHNP0fBdcG67sP0h7-0J-SKEnNOancy3gzgxZZpgSl63mrCMm2nff9WfSsEVCPP0OZHf_qieLJJkAX35THtjEAr2QIYIG__2=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/681+Kanal.cnx+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:09.819110+00:00"
+      "scrapedAt": "2026-10-27T14:52:09.819110+00:00",
+      "refreshedAt": "2026-11-18T09:29:01.466069+00:00"
     },
     "2f8be1e3471d80fba519d0d0eaa4506a": {
       "name": "Ombra Caffe Nimman",
@@ -306,7 +323,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipP0IeSA0xYc5bCxNm6WOQ8cYKseU8i9w507VvXu=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Ombra+Caffe+Nimman+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:16.026629+00:00"
+      "scrapedAt": "2026-10-27T14:52:16.026629+00:00",
+      "refreshedAt": "2026-11-18T09:29:06.724784+00:00"
     },
     "2f6be1e3471d8009a182cbb49e0b11fe": {
       "name": "Charin Pie",
@@ -321,7 +339,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfT1DDrWUjjieWRZy4Y5tjTFQQnvbNv-GCj0X4a4EiHCmTprSv2TjFi7-RzbeH3S8MVhB9GvD182g10hovbioEjSzO6HpsITQGSvree3WMFNxw3JVHFLAhvjBFNv-A97JBBy3crXpCD9y2p=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Charin+Pie+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:21.807769+00:00"
+      "scrapedAt": "2026-10-27T14:52:21.807769+00:00",
+      "refreshedAt": "2026-11-18T09:29:12.443759+00:00"
     },
     "2adbe1e3471d80798d51c86a1ee5b00e": {
       "name": "FOHHIDE",
@@ -336,7 +355,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeq1kgnLkyMTPcTK8ZreCYN8qFptan4WlU0ZIe5VqHoHZU9P1AuCBjzRx0peeaKG-XCk1tHMQJfbqgk82MEvwyhUVeJU9oK-iG7mgHK6p15DYU3IA0zJCHdvMG__GxsQvn168Q=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/FOHHIDE+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:28.131942+00:00"
+      "scrapedAt": "2026-10-27T14:52:28.131942+00:00",
+      "refreshedAt": "2026-11-18T09:41:43.585805+00:00"
     },
     "2b8be1e3471d80c4ab32e51472060dbe": {
       "name": "Homey Home Cafe",
@@ -352,7 +372,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcqfmIBNTnGWjahmquyNZWEqNJxsEo86VQfTtZMLsJyrTRKHYPKuvTAdd8En1MxT39-SokP_00GtmUwa2UAxZSeA1HX4wh7P0Dz_AUTpVBL2sB8WRFEYz_SBn1v2z8r_tyL-tLrukN8cRc=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Homey+Home+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:33.865752+00:00"
+      "scrapedAt": "2026-10-27T14:52:33.865752+00:00",
+      "refreshedAt": "2026-11-18T09:29:23.269215+00:00"
     },
     "2cbbe1e3471d80efa5bbf511b27bb97e": {
       "name": "Huan Kaew Coffee",
@@ -367,7 +388,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdW0ZnQ5eiBEE5PkKF7TYGz8SIfbJvXG7zZRAQwJXDT3GQN3y5uh8tm70_t7K8fX8rbiLDe4wcXm5_oFgYhqn1DfBJFLpmlDcqfibHC8CbIfmz4nTmtJvSAltHQzNoEaIW_8m3EtQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Huan+Kaew+Coffee+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:52:40.067724+00:00"
+      "scrapedAt": "2026-10-27T14:52:40.067724+00:00",
+      "refreshedAt": "2026-11-18T09:29:28.853587+00:00"
     },
     "2bfbe1e3471d805f890efe3d067b132b": {
       "name": "Early Owls",
@@ -382,7 +404,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcuwo9h4WF0FPZnUGZ_tVbLhxa4TOcSblwGIYYBDZ7wAR-N-j69uakMUJCT-G3KXqEjuyT2_wPe8pcN8uLuCk6qpfDPiKBr9ua_nHCDTDrG17VeEr_OGZXjuCsqxIsqy1jnpyy6=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Early+Owls/@18.8058614,98.9890292,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bdad0dbc8c7:0xa2800d37f916930!8m2!3d18.8058614!4d98.9890292!16s%2Fg%2F11h1rx2pys?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:52:47.672288+00:00"
+      "scrapedAt": "2026-10-27T14:52:47.672288+00:00",
+      "refreshedAt": "2026-11-18T09:29:34.513885+00:00"
     },
     "2b8be1e3471d80baad48c21bf7e1c2da": {
       "name": "Cafe Arte",
@@ -415,7 +438,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcPQ6Oe1v6GJssL7daHjkdj-PmewES1xKn-dfAg66eQpuGvm_q91-aUrjZiXuafPk83Hb9Qb9zCTpWsUK8mWP234TdBYG2umlpyhvRtEBVRMkMP25D98asiKWiWERMJg4HW14Rwu-IKa4fq=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Cafe+de+Sot+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:53:00.245248+00:00"
+      "scrapedAt": "2026-10-27T14:53:00.245248+00:00",
+      "refreshedAt": "2026-11-18T09:29:44.846926+00:00"
     },
     "2f3be1e3471d803bb041ea6277d954b8": {
       "name": "Inchala",
@@ -430,7 +454,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcgOLskBD9MDgaITQ5qoWCGJ_dxYCYf_2i-1FQGPDSU9XpY0b1oHkiVleR8_kH-DaPPC-lNT9RxOl0Xlwn7ehDheF7l3ZXdd_TGy8Zf82-rZyfpVq-Kk9o4d9maQD2_DeKdx809=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Inchala/@18.8167957,98.9504918,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b6995e859b1:0x4165e5e58681d50e!8m2!3d18.8167957!4d98.9504918!16s%2Fg%2F11q7fv42k1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:53:06.834534+00:00"
+      "scrapedAt": "2026-10-27T14:53:06.834534+00:00",
+      "refreshedAt": "2026-11-18T09:41:49.485342+00:00"
     },
     "2fdbe1e3471d80c7b57df9932a2559b8": {
       "name": "คาเฟ่ เดอ โสต Cafe de Sot",
@@ -446,7 +471,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcPQ6Oe1v6GJssL7daHjkdj-PmewES1xKn-dfAg66eQpuGvm_q91-aUrjZiXuafPk83Hb9Qb9zCTpWsUK8mWP234TdBYG2umlpyhvRtEBVRMkMP25D98asiKWiWERMJg4HW14Rwu-IKa4fq=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88+%E0%B9%80%E0%B8%94%E0%B8%AD+%E0%B9%82%E0%B8%AA%E0%B8%95+Cafe+de+Sot/@18.8041574,98.9810892,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bbae5bd14e3:0xb9a46c573c6b5c8d!8m2!3d18.8041574!4d98.9810892!16s%2Fg%2F11qpvrg7_5?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:53:15.442793+00:00"
+      "scrapedAt": "2026-10-27T14:53:15.442793+00:00",
+      "refreshedAt": "2026-11-18T09:29:55.773887+00:00"
     },
     "394be1e3471d8098a46eea3a5ff7accd": {
       "name": "Mai bakery in garden",
@@ -461,7 +487,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLd4QjAJpW_fy83y7d8aV7mm75X3mXj6TxrV9MJuWyvvmDvjhawyQy7fukwJbVQaFRPWXP0JuT0vFShjgNnUiKslKs9FdikvVOQjZrhTsX2WjnLI9fmGjp0FQIws_gIZcW4lvhiV=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Mai+bakery+in+garden/@18.8109701,98.9890639,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b029688ce57:0xa08b970a61c85d4c!8m2!3d18.8109701!4d98.9890639!16s%2Fg%2F1pzw399jk?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:53:22.278380+00:00"
+      "scrapedAt": "2026-10-27T14:53:22.278380+00:00",
+      "refreshedAt": "2026-11-18T09:30:00.996208+00:00"
     },
     "2e0be1e3471d80478afefcaa83781dbd": {
       "name": "Chom Cafe and Restaurant",
@@ -486,11 +513,13 @@
       "category": null,
       "openingHours": [],
       "photos": [
-        "https://lh3.googleusercontent.com/grass-cs/AABkmLfaql9-1dUHnwIlomjy0TdS14ls1TSooGKAdi-oOwkxn74mxA-9TdTE-KrBSa7yXj5U-T9cBZYJ2O-M-fxX02auuF__dpDm6RZvJkKZYqjEIPCWZv8Np0oE5jNgqy1Nek3_rjMyFk8OnCCv=w1600-h1200-no",
-        "https://lh3.googleusercontent.com/grass-cs/AABkmLeqe13R7oMof_nQLe8UCBkHr41UTRnQ7m5PulZvZGxbRJg1ThMClvyC1UEsIQjuoSQERMyrDWmRXczxFdKyDzsTuV0a-af3HYuiu4pdizx0FPoEHdW5R5TS4pJWQsyZ1tldvuYG=w1600-h1200-no"
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8qZrWHPqYQGRbzyUqM-YJ9mHEAdIg3B_GLjrKTjq0uH_ryWXWrnpRNHmR8VVK4hNb4ow-tLpPtZ4c1QAkMEAnah2cZG-HfDpwLdJXadu9ERK-HL7Ur2uk6s9RUi6EtbTTUmnL6228FkUw=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-proxy/AIM7gW08Zuwl6jzCwbEfdXqdpf18qpC9mqmLOeYkVG-oWjI3jFGtTeUzEvrPphcj10iz1aKEv5FycLUzBBS_R3L9E_p_bFXGBLYHgIuMom-XQn_KDEQ2PElTBSL-cxqgedkB9sfkeB44kN4pV-_Ih-OtHn7KHqHfFGQ43DujaqKS0y16eRs6EOo74w9cGA=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfsZhFoHUl728lbPdBA2Y8f2NjaTNkIyJmZJtmWoq0r7daRWpL-GI6hiKeXAd8cNg8FsvDzzWgvEb3OqmS2BByBfenp0kWf1RBhPPtG1ubQtL38z7_nu4ZEMEQXYoXWbNX80fc=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Jailoy+Cafe%26Rooftop+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:53:37.492166+00:00"
+      "scrapedAt": "2026-10-27T14:53:37.492166+00:00",
+      "refreshedAt": "2026-11-18T09:30:10.620294+00:00"
     },
     "2d5be1e3471d8040b989edfe77622687": {
       "name": "HIDELAND.cnx",
@@ -505,7 +534,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeatpTyGoAMn6pOBmjQILjU3p2unDdlAnr-7GBwjqVpeFM1mLtjQOfeS8uvf9Wj7WVlykFfBJbArkU2kXeGufNm6KiTJFw6v1L5QcI6JaeLLYevQQbtASN0levEJMikNJoC-ldmZw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/159+HIDELAND+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:53:43.806079+00:00"
+      "scrapedAt": "2026-10-27T14:53:43.806079+00:00",
+      "refreshedAt": "2026-11-18T09:30:15.877730+00:00"
     },
     "324be1e3471d80909bdce0e251be3d6c": {
       "name": "Areemitr Coffee",
@@ -520,7 +550,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdG7uesjFu6VV12WgLcbij06bWTyPwhHn7ed2ZS1iaMAPPE-ydLpEsTpV9Ez2GdaEHsO52hY0W7m41Dgvdv9DhftfO4otACzdHx4liLAWdJCE33o4oQYXPmHhTIrSte1p042Qk2Ig=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Areemitr+Coffee+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:53:49.524361+00:00"
+      "scrapedAt": "2026-10-27T14:53:49.524361+00:00",
+      "refreshedAt": "2026-11-18T09:41:55.140613+00:00"
     },
     "2b4be1e3471d80a19fb2d4a84078cf7c": {
       "name": "One Nimman",
@@ -537,7 +568,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeEQfUfkQjP2GSnV8qQT2Bq-Bh46qwkQivawzPXv9s7AbiSsAQ3nkaZpeE9e97KFz5C_1sRrhTRRslj6ypSptoLiv87f5gqnaxi2xNcXk9CO9wTko3-SPsSo7Yju32NvCZ_vNRt=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/One+Nimman/@18.8001561,98.9676423,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf5284d07f1:0x39ff3a601ee23fb7!8m2!3d18.8001561!4d98.9676423!16s%2Fg%2F11gmz7v8_x?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:53:57.563987+00:00"
+      "scrapedAt": "2026-10-27T14:53:57.563987+00:00",
+      "refreshedAt": "2026-11-18T09:30:27.022361+00:00"
     },
     "2c9be1e3471d801bad2ade822f331900": {
       "name": "Hooman boardgame house",
@@ -550,7 +582,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLflYbLf8q07SSjLH0TVIjMrq2-i7piNylb5PCqmpgoxBIi3aczHSbAaoWMU7KcecQJvHMiqsZ7-js9_V2QabW3vW6wWK06qygsH5UhrdfZZsv-ACnII1WmET9p5NxjuQkVd6vgO=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Hooman+boardgame+house/@18.7784749,98.9945745,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3af25a6fe2c7:0x6105f8ae06ec4aab!8m2!3d18.7784749!4d98.9945745!16s%2Fg%2F11fyzcg71x?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:54:06.327713+00:00"
+      "scrapedAt": "2026-10-27T14:54:06.327713+00:00",
+      "refreshedAt": "2026-11-18T09:42:00.871230+00:00"
     },
     "2d1be1e3471d8075a96ae4668d6271c2": {
       "name": "结果",
@@ -583,7 +616,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdlMWD5bCbCK47gsbfVUCVhwDeb2HY6bn8bYtT-MVBMkWXrapgRxLUFMfxAogXy8EQGd2UJoJS_fprrxZqGAwJ1zGU5OEbsvshQL8d6wjY25nvDb5QuyFBscX2Y4fnz5lzIyF3PUzayp7g=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Artisan+sourdough+by+apple+fahey+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:54:18.813484+00:00"
+      "scrapedAt": "2026-10-27T14:54:18.813484+00:00",
+      "refreshedAt": "2026-11-18T09:30:43.493448+00:00"
     },
     "2b9be1e3471d806b80c9d4ae547e5ddc": {
       "name": "PHAPLOEN MARKET : พาเพลิน มาร์เก็ต",
@@ -599,7 +633,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcTDuBepZADcDU21p8wKskewc8oFrlO8CPw_W4yGA-JwnnKvwBjPu3edKPGehNIg3vi3aTO1AGugirJ76fZdbOPpuhqn5eJa1eHlrerFVSyXlt1xi_XYOA85u17chEO70wdaRmEWg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/PHAPLOEN+MARKET+:+%E0%B8%9E%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99+%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%95/@18.786672,99.0007507,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31b9e058c9ef:0x7b96e47d7959aa76!8m2!3d18.786672!4d99.0007507!16s%2Fg%2F11wqgzgplx?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:54:27.993716+00:00"
+      "scrapedAt": "2026-10-27T14:54:27.993716+00:00",
+      "refreshedAt": "2026-11-18T09:30:49.461258+00:00"
     },
     "2a5be1e3471d808ba54af5a9925b29d3": {
       "name": "Sathu Moo Krata (Thai BBQ), Mae Rim",
@@ -627,7 +662,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeWuppuwRbh6lUTLsUtRU8BsSMMB2SlXllRwCuRxX_d0jTjjtHsKrgMxjyTsywEWGSvymJ_Yz1Fyvtbz4LVdphHrI2khOlVq72TCDAu4THx7cjGATE68Cn9SQIDiSFTjs6cHxMC=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/HomNoey+Thai+BBQ/@18.8012977,98.9825031,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b9e2afb0969:0x5d6c0b21c74a2e1f!8m2!3d18.8012977!4d98.9825031!16s%2Fg%2F11ssd1jm10?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:54:40.259433+00:00"
+      "scrapedAt": "2026-10-27T14:54:40.259433+00:00",
+      "refreshedAt": "2026-11-18T09:31:00.043685+00:00"
     },
     "2c8be1e3471d802f83e8efd5c703aada": {
       "name": "Chill Chill House",
@@ -653,7 +689,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLd5gY2pTlATltvvgGjqimSrw7FTw6GS8W2K9oqFhr9N7k8h-iwnwUNEzQ5noWmiXUuW2lG1iY8cXxY0eNTTmbm3oiBo84yCmLSnHTAAstOOWQE4JbfzoEm-Tay-QSlD73MVAlOjF7CAGo9Y=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Look+Inside+CNX/@18.7915407,98.9929104,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b64b71ac721:0x204f4a92f4fd67f2!8m2!3d18.7915407!4d98.9929104!16s%2Fg%2F11lcn4ttwb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:54:58.679011+00:00"
+      "scrapedAt": "2026-10-27T14:54:58.679011+00:00",
+      "refreshedAt": "2026-11-18T09:31:10.356868+00:00"
     },
     "29cbe1e3471d80e1aa18d9defe5e0950": {
       "name": "Chiang Mai OriginaLive - The First Indie Livehouse in Chiang Mai",
@@ -666,7 +703,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfLiwdduIwhZm5m-Zan9ieQcceR9QE5f4nILSTV_CQeMLIvTuC2sstlz7gUYRZKApflxw2no6foHA62OLyNrT1vjXiebcVRm23YzYavJ4zizM9M_L2XCRqAWd0eJf9LBz5d_OI1=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/QXMV+J4C+OriginaLive+-+The+First+Indie+Liv+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:55:04.616743+00:00"
+      "scrapedAt": "2026-10-27T14:55:04.616743+00:00",
+      "refreshedAt": "2026-11-18T09:42:06.836165+00:00"
     },
     "2b9be1e3471d801db5c6f4ab13c9e4aa": {
       "name": "清迈人妖秀",
@@ -681,7 +719,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfiulHm3nLBsnk36MKaLgDQMQKAcoIP1Hn5AK0pzT8KC6QN7HsgenLnZYaDPFrO1BTqkAa3JyeNgo7Kknw4uGP-6W-PaWZcITfH-cyVfJ6Xur6Jd__flH2oVfyHNekO9EqChvEo3A=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E4%BA%BA%E5%A6%96%E7%A7%80/@18.7825961,99.0011044,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa877e8f97f:0x20b7e29e2d7b16e5!8m2!3d18.7825961!4d99.0011044!16s%2Fg%2F11cjkq1d8y?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:55:12.654580+00:00"
+      "scrapedAt": "2026-10-27T14:55:12.654580+00:00",
+      "refreshedAt": "2026-11-18T09:31:21.292988+00:00"
     },
     "2b9be1e3471d80bbb480e4313ca8d569": {
       "name": "Boy Blues Bar",
@@ -696,7 +735,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLc_hLDAe9Ql8zrE7VmHhxkZxelvZVe6KtbCFQicNUSHpcGZueS3KwnLsESz1OylUgvhKk1OUuQcxnQv0xC5VcHr4VJ1IwJAZrae1f6OhPS3yNItC9WHLHKb6DoBqUy1tv6XKzp670v6dlyU=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Boy+Blues+Bar/@18.7854255,99.0002127,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa61094be3d:0xaa4f30631502a77b!8m2!3d18.7854255!4d99.0002127!16s%2Fg%2F11b6rzhx62?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:55:19.672029+00:00"
+      "scrapedAt": "2026-10-27T14:55:19.672029+00:00",
+      "refreshedAt": "2026-11-18T09:31:26.640023+00:00"
     },
     "2c9be1e3471d8092b42dd519483ffcf8": {
       "name": "Do You Ever Social Club",
@@ -711,7 +751,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfd5hp6K8bMBXmdUcUKRghCafi4GWp3mwf_p8YadPLowB-To0FDf_lnEsePB4GvqEESc3J_JYQ63q8BMydVzoTeMLnRLj9rpmlWkq0F9rGW0IySR7QR9NHX0LG78H50Q217gLw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Do+You+Ever+Social+Club/@18.797626,98.970825,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba9c457ec6b:0xfef861846b72523f!8m2!3d18.797626!4d98.970825!16s%2Fg%2F11t859fv24?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:55:26.135523+00:00"
+      "scrapedAt": "2026-10-27T14:55:26.135523+00:00",
+      "refreshedAt": "2026-11-18T09:31:32.258839+00:00"
     },
     "2d0be1e3471d80c2b748fe387344f135": {
       "name": "Sai Ping Bar & Restaurant",
@@ -726,7 +767,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLejhcHEElixDRM0kuIqHfKK0ZkNqdtCyHtRHjDtPkiDg4CENyGQr-JuGK14JExaRotAMWzPSaDHCAr67aqjwIdk2nbyL8xLLDyD_qgCy8lVP2XRxiXpBLxAL8JeB1F2ru93bws=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Sai+Ping+Bar+%26+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:55:32.281114+00:00"
+      "scrapedAt": "2026-10-27T14:55:32.281114+00:00",
+      "refreshedAt": "2026-11-18T09:31:37.886279+00:00"
     },
     "2e2be1e3471d80108b87cf8aaf38108d": {
       "name": "บ่อกุ้ง บ้านพาเพลิน",
@@ -741,7 +783,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcIhPAaDyxiSn4JpH3OF0TmRJeGAciOWiZsUy7aLUBf7mzwPEjJcnoM-Zawyl5scpjnGJ-zxIpkPQ_CMIoY4oViRaxJaIluApVAuEmr2vujONsXPMHLln2K9IQ5bd313-NRrxU9kQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/%E0%B8%9A%E0%B9%88%E0%B8%AD%E0%B8%81%E0%B8%B8%E0%B9%89%E0%B8%87+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:55:38.338398+00:00"
+      "scrapedAt": "2026-10-27T14:55:38.338398+00:00",
+      "refreshedAt": "2026-11-18T09:31:43.499543+00:00"
     },
     "397be1e3471d805a8a64d5babac6243c": {
       "name": "The Coco Club",
@@ -756,7 +799,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfckeTVVlKGPe79NN_jAHGy9KUeomcf1mSAucbPME9InwP3IvoyNGeFis72JB2yCZcoDPc1fi9ga8KHD9WZck4gvvsTbKQ53PoBhecI6Qu-obg47FLQ7X9byozdFegsSJYOtz2V=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/The+Coco+Club+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:55:44.243167+00:00"
+      "scrapedAt": "2026-10-27T14:55:44.243167+00:00",
+      "refreshedAt": "2026-11-18T09:42:12.410458+00:00"
     },
     "29fbe1e3471d80d9ac4ad81f28e071a2": {
       "name": "Doi Saket Hot Spring",
@@ -773,7 +817,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdI61RwNCbNL1HcMkSPdODeImoIrtAWMQmQdYs_OnIj1cUir1nDG4n-_s2ZQUI_B3SWbXvCNcd-EVKI7orKvagVLpdmEsg0vefJ8emsJIxwIW4grWNq2TwIzmuQH1oEHtM0R0sFcQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Doi+Saket+Hot+Spring+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:55:50.444163+00:00"
+      "scrapedAt": "2026-10-27T14:55:50.444163+00:00",
+      "refreshedAt": "2026-11-18T09:31:54.155433+00:00"
     },
     "29fbe1e3471d80268a99d01cffe57a46": {
       "name": "Chez Yann",
@@ -786,7 +831,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfprptY87sr6B7NMwGFpylrKhiGIUce0PkfBYdssfu_i2cEG4zGGkm5rkKuruzrkSEJwEgknpiVvjQEPQX3_g46AHxSM5a3zPy1edYYHSv9zfqvopxXCpi-v83sPspvsSVOx9zp9Q=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Chez+Yann/@18.784918,99.0013279,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb586da1b99:0x4d6f62b5b9422895!8m2!3d18.784918!4d99.0013279!16s%2Fg%2F11tp95kjnr?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:55:57.752105+00:00"
+      "scrapedAt": "2026-10-27T14:55:57.752105+00:00",
+      "refreshedAt": "2026-11-18T09:31:59.746699+00:00"
     },
     "2bdbe1e3471d8091bb44faaac9c2bd86": {
       "name": "Wellnest Sauna & Ice Bath Chiang mai",
@@ -801,7 +847,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfNdpKk29cB00g4LvraH3aIsPUj5VJFsf8aIXTsO-lYKInqXMuCraYC5Cl4fvbHY9p_P-ytYtum1AgxXeHhSjy4yQzhNuBW9delFDyw14OAQLKLrCK_oWYp0Tq9EUAmrHOfBfnW6b7uHjV1=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/The+Cocoon+Sauna+%26+Ice+bath+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:56:03.726415+00:00"
+      "scrapedAt": "2026-10-27T14:56:03.726415+00:00",
+      "refreshedAt": "2026-11-18T09:32:05.479343+00:00"
     },
     "2c0be1e3471d80e7abefc29aba6611e8": {
       "name": "San Kamphaeng Hot Springs",
@@ -818,7 +865,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdb5oP5BgMtg1IAxywfSmZu0bzmza5rAapHBOsHQ42cBriD76WA_M6Y-OgbD1JdOvsvSf-wo3PWxvcfFi9JoaTx6Tp11upWKczwv8cJ3bIW57MwoHlxK_ti8sykBiKY_6OTZP8QqQz-w7qe=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/San+Kamphaeng+Hot+Springs+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:56:09.836139+00:00"
+      "scrapedAt": "2026-10-27T14:56:09.836139+00:00",
+      "refreshedAt": "2026-11-18T09:32:11.077281+00:00"
     },
     "3e9be1e3471d80c4a888eb81d88d9d6a": {
       "name": "groundrecoveryclub",
@@ -833,7 +881,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcdNGlEpS57t4JsJcfZc_rSSQWdj-OU-KRG8xXby_zU-Ljgg9CMspiUQ7qTAUijjeDeuXYJg1RNTpc5isI7ev_lsb0Bl3pS2RN9dZExvVyf_Eh6LOTHHC98GZgl_xykkhDiqNDYXrjAJvdX=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/groundrecoveryclub/@18.7542607,98.9933088,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31005bcdcb23:0xb95b8a5e6fc1eaad!8m2!3d18.7542607!4d98.9933088!16s%2Fg%2F11zgvhnmxw?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:56:16.527487+00:00"
+      "scrapedAt": "2026-10-27T14:56:16.527487+00:00",
+      "refreshedAt": "2026-11-18T09:42:18.362088+00:00"
     },
     "2abbe1e3471d800997bec007b48faaa2": {
       "name": "ākho - อาโค ปังนมสด",
@@ -848,7 +897,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfes_jT9iPb9I0qM70RVKtI9xoy8esQQspvxUJYoPieLmVXh-bPTMc0RhT2w2QHOGHc7FyF2nzhLwJwCLBfo7CHHKELyxI-r4UVlh0gWX3gtJ-itoHO6TjJjyzmZ6Bcc8i44t5i=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%C4%81kho+-+%E0%B8%AD%E0%B8%B2%E0%B9%82%E0%B8%84+%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%A1%E0%B8%AA%E0%B8%94/@18.795723,98.9710792,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0054656e13:0x86762557c956ef0d!8m2!3d18.795723!4d98.9710792!16s%2Fg%2F11lp00h93_?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:56:23.093239+00:00"
+      "scrapedAt": "2026-10-27T14:56:23.093239+00:00",
+      "refreshedAt": "2026-11-18T09:32:22.019776+00:00"
     },
     "2bcbe1e3471d80dcb4f1e623765cdfb9": {
       "name": "善灵素菜馆",
@@ -860,9 +910,12 @@
         "星期二 08:00–22:00",
         "星期二08:00–21:30"
       ],
-      "photos": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeYFb3PhKhI_u1PBpKZLIKXo_Jno2t5jsKUsfkrJiRsH27L3vIRs6mKJkAaTjJPW1vZMov4rJ7dfWqj2uo4e13sBd5WNNdReP7NN7BEepb-PRSzdR3IWKU-7qDAqETe0TdOlBf_d1qrE0o=w1600-h1200-no"
+      ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E5%96%84%E7%81%B5%E7%B4%A0%E8%8F%9C%E9%A6%86/@18.7932115,98.9821212,17z/data=!4m7!3m6!1s0x30da3a9078ef2e93:0xac523030a3089a13!8m2!3d18.7932115!4d98.9821212!10e2!16s%2Fg%2F11h9_qp9dy?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:56:30.264535+00:00"
+      "scrapedAt": "2026-10-27T14:56:30.264535+00:00",
+      "refreshedAt": "2026-11-18T09:32:27.225689+00:00"
     },
     "2bebe1e3471d8065a290df92ece268e2": {
       "name": "ร้านทุเรียนเฮียต้อม789",
@@ -883,13 +936,16 @@
       "phone": "090 957 9068",
       "website": "http://sababacm.com/",
       "category": "地中海风味餐馆",
-      "openingHours": [],
+      "openingHours": [
+        "星期三 11:00–22:00"
+      ],
       "photos": [
         "https://lh3.googleusercontent.com/grass-cs/AABkmLel8a4ZJ281ktLpyZY_mMWoqcEwyLfjtFkAtgt4ycSDaDL6ndiEjR0v6rEpZBuBMJAVQ8mPfPt2baEE5l6yB74IgeZO1RkRkJ0FlXZMzbqEHPq5NZ-y3ZH7p0MpmWvKzZfZMQLUaw=w1600-h1200-no",
         "https://lh3.googleusercontent.com/geougc/AF1QipPcjMi43e-zkfsYPvP-OzjfEHuoKZVYCI5x1b39=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Sababa+Chiang+Mai+-+Main+Branch/@18.7781163,98.9842556,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa78890b63b:0x46ee2ab3860b8ed6!8m2!3d18.7781163!4d98.9842556!16s%2Fg%2F1td5c7m3?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:56:46.621814+00:00"
+      "scrapedAt": "2026-10-27T14:56:46.621814+00:00",
+      "refreshedAt": "2026-11-18T09:32:37.657355+00:00"
     },
     "2c5be1e3471d80a2aea7ff87c6ac8f8b": {
       "name": "Madam Loei",
@@ -904,7 +960,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLddxDU5nQT4DUc7sMIMon5yS3fEdYVamZH_BQq2H5w4pFsxba-LeiPOmrTqHZoxz5ITGzohlkaPqZtY2-F86c02V-OfuNgEBko63_ARLfOnDA3GDGWbczgaPL4xXoNtt0VMZexgEw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Madam+Loei/@18.8039411,98.9812595,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b8503e380b3:0x9fa0c55dac30e1bb!8m2!3d18.8039411!4d98.9812595!16s%2Fg%2F11fkdmhfnr?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:56:53.414386+00:00"
+      "scrapedAt": "2026-10-27T14:56:53.414386+00:00",
+      "refreshedAt": "2026-11-18T09:32:43.004641+00:00"
     },
     "2cebe1e3471d8014a97cc610ab4fbb94": {
       "name": "Guang",
@@ -919,7 +976,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdV9QvC3l76B0P0LInmBmOqyVzXdPWObg1xmQHXOavppxg6opFQFqymOKeh6v2_HeDLFTeWBxHCX2d0PjA-my6lyTcJF8gRSWOPrpWPMOpLFo2VdbNjExESv4dZyjk-c6aXmBqg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Guang/@18.7893693,98.9672822,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a7dbfd099ff:0x43597ad0cca99fb3!8m2!3d18.7893693!4d98.9672822!16s%2Fg%2F11ckvm20nj?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:57:01.957551+00:00"
+      "scrapedAt": "2026-10-27T14:57:01.957551+00:00",
+      "refreshedAt": "2026-11-18T09:32:48.662934+00:00"
     },
     "2cfbe1e3471d806099c2e0101935dd89": {
       "name": "Sai Gon Oi Vietnamese Cuisine",
@@ -934,7 +992,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeKOdnXcyGI6IaULKBtnMPrkRBoeLSkR_y8f0TMFbdYj2nnPmvUg7XLjaj1DtjjnvabZFkRzvhtvdZ6HJuLtdeOTwioD8hPEJBVokRF9W5XEmEC2VA8c8jOizN5V_xfi_GSnPkWTiz5TLwe=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/R2Q5+58C+Sai+Gon+Oi+Vietnamese+Cuisine+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:57:08.361918+00:00"
+      "scrapedAt": "2026-10-27T14:57:08.361918+00:00",
+      "refreshedAt": "2026-11-18T09:42:23.827147+00:00"
     },
     "2dbbe1e3471d80f0b2a3ff1f3a87495e": {
       "name": "กะเพราขี้เมา น้ำลี้",
@@ -945,9 +1004,12 @@
       "openingHours": [
         "星期二 10:00–19:30"
       ],
-      "photos": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcM7lKwZ1z1kHY-3IecF2mhktchTBPndj2MGAjYDvWDdd6_UO91bTLOMv1kPfigPTwi-lthzaaXqDiombQxrgPGiJT8A3Wr6Wl89l25rDWeged1jsMbZxADzP1tIe_lI_WbPO3_rW0z9s_N=w1600-h1200-no"
+      ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2+%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89/@18.7638194,98.9773962,17z/data=!3m1!4b1!4m6!3m5!1s0x30dc0931764478bd:0x67ce51a099a9745b!8m2!3d18.7638194!4d98.9773962!16s%2Fg%2F11vbj0ly2c?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:57:14.776409+00:00"
+      "scrapedAt": "2026-10-27T14:57:14.776409+00:00",
+      "refreshedAt": "2026-11-18T09:32:59.463730+00:00"
     },
     "309be1e3471d80edbf33fa19cc499166": {
       "name": "Brownie Yeesib",
@@ -959,9 +1021,12 @@
         "星期二 09:00–22:30",
         "星期二09:00–22:30"
       ],
-      "photos": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcm85SOWvlDMMyrIRTIjNC1WkyPGSGuvwCjSVX6AIV9IwKNhIR4-3LkkZOzKQ2ySrzugshnUw6hDA-ZfkcZI4E89r2IMqATNndSmwp0J2Sdd6A-OdlWwJtQmRlH7ZMxZRIogTGv=w1600-h1200-no"
+      ],
       "googleMapsUrl": "https://www.google.com/maps/place/Brownie+Yeesib/@18.7974202,98.9702008,17z/data=!4m7!3m6!1s0x30da3bf133c3ba4d:0xc4a588ad53d5e3f!8m2!3d18.7974202!4d98.9702008!10e2!16s%2Fg%2F11qn_w_bj2?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:57:21.439732+00:00"
+      "scrapedAt": "2026-10-27T14:57:21.439732+00:00",
+      "refreshedAt": "2026-11-18T09:33:04.903575+00:00"
     },
     "3e0be1e3471d80099425fbfe5a245b65": {
       "name": "ร้านอาหาร เติ๋น TOEN Thai Food & Restaurant",
@@ -976,7 +1041,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcMnjS72OYSlmjp9vgqMWh2w5KFKAGotnSuHEU67HgPgFLDKMCzem4IiDyYTwMf2iTtNkBltMJTOs-8Z9_wqtfjMdgBnFQpNnpnrYkVchNiVuwQondNcp90YrRI6RuuNOoMy0B8Jd5P9GH4=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/TOEN+Thai+Food+%26+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:57:27.705272+00:00"
+      "scrapedAt": "2026-10-27T14:57:27.705272+00:00",
+      "refreshedAt": "2026-11-18T09:33:10.475634+00:00"
     },
     "3e3be1e3471d80b4bfcbfcd741a36a9b": {
       "name": "Shu Homemade",
@@ -991,7 +1057,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcbQSkH_UqCcp5rx-RbM8ogOlOQ7Ed44niXsZflTUqpHg5Vn9foeXNDdsiHm3cIJf3-njGFBd1K6wteV2YivRjBSL7jLOAnTwybHuyZszlUp5qto-Gxy_5bud0foTKvT-ueQe3-QJy41XM=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Shu+Homemade+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:57:33.731753+00:00"
+      "scrapedAt": "2026-10-27T14:57:33.731753+00:00",
+      "refreshedAt": "2026-11-18T09:33:15.776268+00:00"
     },
     "3fcbe1e3471d806cb549f0a8d848e4ee": {
       "name": "Chiang Mai University Main Food Court",
@@ -1008,7 +1075,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcpqfM8SpkT4xO09E2PXX1cotZ0--ZWw3g-vZY5uQ-yXdHPJ09W1yJwqfhFKQc5n_BlMsPALxq3VT5fYmKbaeRlYOOIhroSazzX82Ly136zxqB5m7ioWD_XA_Bpxk1CESY-UWX2Jg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/University+Main+Food+Court+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:57:39.639034+00:00"
+      "scrapedAt": "2026-10-27T14:57:39.639034+00:00",
+      "refreshedAt": "2026-11-18T09:33:21.497390+00:00"
     },
     "2d8be1e3471d803081e8d7b524e17041": {
       "name": "Kati Breakfast and Brunch",
@@ -1024,7 +1092,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipOOHyQquzIZy_ZboijOt_gmwnMKChH2j4z96XrA=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Kati+Breakfast+and+Brunch/@18.7880021,98.988719,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba4b73f9d15:0x8a08c503725b8c4d!8m2!3d18.7880021!4d98.988719!16s%2Fg%2F11rvctk73l?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:57:46.012958+00:00"
+      "scrapedAt": "2026-10-27T14:57:46.012958+00:00",
+      "refreshedAt": "2026-11-18T09:33:27.244243+00:00"
     },
     "2fbbe1e3471d805ca287d27cea8fd33f": {
       "name": "THE VOLCANO One Nimman",
@@ -1036,9 +1105,12 @@
         "星期二 11:00–22:00",
         "星期二11:00–21:30"
       ],
-      "photos": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLedHCzL4tOX83Ui0w6JAfrgG5d8l2JoEd5b_4WzS203kFfoswC9jAtvVJIAz4cHSNQCFcZYjKISZCZHtsHRjFpkQbQ8nFvxZ6sdu1DvG_CwDbK_EiCF115ljWO6k7crrktK5JLhaaTD1zU=w1600-h1200-no"
+      ],
       "googleMapsUrl": "https://www.google.com/maps/search/THE+VOLCANO+One+Nimman+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:57:51.824640+00:00"
+      "scrapedAt": "2026-10-27T14:57:51.824640+00:00",
+      "refreshedAt": "2026-11-18T09:33:32.516134+00:00"
     },
     "3e8be1e3471d807faeaaf786f2899812": {
       "name": "OYES Smoothies & Happy Food - โอเยส ผักผลไม้ปั่น",
@@ -1054,7 +1126,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipMi6ideozLWhIs_58S5mZJatYpBzzQkAyNJPMeK=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/OYES+Smoothies+%26+Happy+Food+-+%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%A2%E0%B8%AA+%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%9B%E0%B8%B1%E0%B9%88%E0%B8%99/@18.8028196,98.9809519,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b102208cc23:0x450ae82508bb8346!8m2!3d18.8028196!4d98.9809519!16s%2Fg%2F11tfh4q9zd?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:57:58.526666+00:00"
+      "scrapedAt": "2026-10-27T14:57:58.526666+00:00",
+      "refreshedAt": "2026-11-18T09:33:37.761666+00:00"
     },
     "2a3be1e3471d80288579dc50c8d31936": {
       "name": "OL Beef Noodle",
@@ -1069,7 +1142,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfZxOkil29Xf3EIu1ArS1JJROE0TAgXiDZpBEToPd20d5lxQWk82f3zzDvfdWO5mOSFBj_HXzkdiO3bF-JbsKLkgYkn-dXAZpMOLzwtg-NsyCrQ4hSPN78tTvhLp_VJfAEb55c=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/2+OL+Beef+Noodle+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:58:04.754464+00:00"
+      "scrapedAt": "2026-10-27T14:58:04.754464+00:00",
+      "refreshedAt": "2026-11-18T09:33:43.226431+00:00"
     },
     "2abbe1e3471d807bb42adb0d0387edc2": {
       "name": "Kobe King Japanese BBQ",
@@ -1084,7 +1158,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfJ2hv6Akqrp4oPurQusazaK2hnBHfC5Tg1wInAqsN1AHjYXpA2og3M7RW8a7h0HwoU2THp_AJSPa0T0W6MSuC1jS63g-56Ze5t7kWQrcxv79dOsrZ_zl1MnsbmMW8PcMwi91bL=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Kobe+King+Japanese+BBQ/@18.7901823,98.9951776,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa37200f65b:0x305e94c26d3690e!8m2!3d18.7901823!4d98.9951776!16s%2Fg%2F11f33jnh9r?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:58:10.965075+00:00"
+      "scrapedAt": "2026-10-27T14:58:10.965075+00:00",
+      "refreshedAt": "2026-11-18T09:33:48.349155+00:00"
     },
     "2adbe1e3471d8094a796efc015e1591c": {
       "name": "Mooyim JimJum Hotpot Restaurant",
@@ -1099,7 +1174,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeaj2mUsgK8Vn-tMfDevZ3QDDhhB162vOZ9W-dX5DxAPSAiqxh6bClloKb2bqYrxy3tQ9IQI5UXXW4MtnwRQfFWYJDQO54UIL7HgKfgZ-BPwDZYVkLLX9yAqijC9C9b-nNG99LaeA=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Mooyim+JimJum+Hotpot+Restaurant/@18.8057894,98.9732267,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3af4b0983c2b:0x87240d816f6ca373!8m2!3d18.8057894!4d98.9732267!16s%2Fg%2F11b77d683t?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:58:17.831127+00:00"
+      "scrapedAt": "2026-10-27T14:58:17.831127+00:00",
+      "refreshedAt": "2026-11-18T09:33:53.997021+00:00"
     },
     "2afbe1e3471d80ae88fdd5b286563b80": {
       "name": "Cherng Doi Roast Chicken",
@@ -1114,7 +1190,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeViZ-JpJoNiHjpd5ZM6tLhpMzSWowg3ql3dM-wisnclDL6l_n8WPgPRRi84EfM3cj6vDRlrOWekrriJCR3ZjJDgrG8wcfKHHUS95tWJh4lUPaYnkq54DsIoN1-wpub6a6f4OTrgg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Cherng+Doi+Roast+Chicken+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:58:23.756326+00:00"
+      "scrapedAt": "2026-10-27T14:58:23.756326+00:00",
+      "refreshedAt": "2026-11-18T09:33:59.486279+00:00"
     },
     "2b6be1e3471d80a78f35fffea5d090a3": {
       "name": "Chiang Mai Horumon",
@@ -1129,7 +1206,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfMGlQY3ciq52a-kS5N-S5b_bYxGr3Pc7pRq5iyq9GSQO5kqOGqVWwpXMDuSNHyPuh6HAHAcXRWX2qYOQhE3yGX3gA9LulMg6Uuz6bEQ0mYmyrajPKf_pe3X4c8hoxxfQ2DJ-rWW0adfHM-=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Chiang+Mai+Horumon/@18.8052969,98.9815232,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aed3131b3a5:0xc0f25d2c1f9d9b4d!8m2!3d18.8052969!4d98.9815232!16s%2Fg%2F11b8c4djsx?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:58:31.171469+00:00"
+      "scrapedAt": "2026-10-27T14:58:31.171469+00:00",
+      "refreshedAt": "2026-11-18T09:34:04.714452+00:00"
     },
     "2b8be1e3471d806987bbdc00abb2fa98": {
       "name": "Jen Moy Local Thai Restaurant",
@@ -1144,7 +1222,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLduBychpSD9rt2oCuJtZRbqd6rywu6uakGpBiSM6wWF3Tqn6cyia9Skbk898wqJimfTWtuS2fewE_06mwtAL0RemJHDn3EXov-629AWoPs6rLCIpoQeMQiRKErFtZ5iQbveeEhQkw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Jen+Moy+Local+Thai+Restaurant/@18.7908391,99.0088947,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb75749c3b9:0xf351e764e64a08f5!8m2!3d18.7908391!4d99.0088947!16s%2Fg%2F11hfybf8lp?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:58:38.016512+00:00"
+      "scrapedAt": "2026-10-27T14:58:38.016512+00:00",
+      "refreshedAt": "2026-11-18T09:34:09.889233+00:00"
     },
     "2b8be1e3471d80c2862aed5039a0a3e7": {
       "name": "老高潮汕菜馆 Lao gao Teochew Cuisine ข้าวแกงปักษ์ใต้นครศรีธรรมราช",
@@ -1159,7 +1238,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcUxQ4azUF7Az57Wm32T2PZonHH4tzQfvPe6gRRQsUNhf_hZ3XPvz_9sU6G6T2oa_uW4wHdwtKNDKf8rzZAPsminQJbBzk0VPhW5vj7NivR3hOqZ3DJyZ_lRPq-YHI1tpxAES3KZzcAWIPd=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/%E8%80%81%E9%AB%98%E6%BD%AE%E6%B1%95%E8%8F%9C%E9%A4%A837+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T14:58:44.774940+00:00"
+      "scrapedAt": "2026-10-27T14:58:44.774940+00:00",
+      "refreshedAt": "2026-11-18T09:42:29.476349+00:00"
     },
     "2c1be1e3471d80e096d2e15c658d37ae": {
       "name": "结果",
@@ -1192,7 +1272,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLe0j37SN1aRQv3Z7IrxPPA-3A9xzwcWA6WZ1yN_Djp6RojGZHEYNNKUkAyY2VZtUi_U7ezjlrd6CiuCmwT2x4l6OZtk5SQhGSywzQTYYM42puAga_FYFeZhpZTlxQgAqh1W-iuv7Gfbjq0=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E4%BA%91%E5%B7%9D%E9%A5%AD%E9%A6%86/@18.8002342,98.9600651,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b006295e6b3:0x53dd22bed1cd2aef!8m2!3d18.8002342!4d98.9600651!16s%2Fg%2F11x22hh_df?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:58:59.980001+00:00"
+      "scrapedAt": "2026-10-27T14:58:59.980001+00:00",
+      "refreshedAt": "2026-11-18T09:34:25.518676+00:00"
     },
     "2c3be1e3471d8094aed4e81a578cf8df": {
       "name": "SANAE • Sanae Thai Cuisine",
@@ -1222,7 +1303,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLePI5OL_NhL7gzEeHIaN3akLkIrvgFKHw7eClinCwrTagEXuPvqMoPuHRVpjkMPLBNokNi2uyg4HNP7toz4nSwehMYRO6AdR_Ts2yuQGjK3rAfdjE8bRmSpW33jTDduvx4QYZlj=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Uncle+Kani/@18.8009223,98.9637209,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bc623b95e35:0x914f20413464a6c5!8m2!3d18.8009223!4d98.9637209!16s%2Fg%2F11rtz8rw_v?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:59:17.648140+00:00"
+      "scrapedAt": "2026-10-27T14:59:17.648140+00:00",
+      "refreshedAt": "2026-11-18T09:34:35.796579+00:00"
     },
     "2d7be1e3471d802eabe2fae4ee648d8b": {
       "name": "7-Eleven",
@@ -1237,7 +1319,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeFiiE7ooq9_9px4anhPy6MqI_D8O6rf849BW9sBo25GGwOIWZeIMGcVBbEy9gzOZXQV-KejAKL6x2FuMiSj2LCYqp7Ym8riG65uFqo4Jw8ANjKBQuc6j2Ur-o__bXLqE3xL4cdgdW8dZG6=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/7-Eleven/@18.7885723,98.9828944,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a9b9f603a0d:0x5848aff32495cae3!8m2!3d18.7885723!4d98.9828944!16s%2Fg%2F11f8blk96x?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-28T03:05:52.450999+00:00"
+      "scrapedAt": "2026-10-28T03:05:52.450999+00:00",
+      "refreshedAt": "2026-11-18T09:42:35.528847+00:00"
     },
     "2a6be1e3471d80f98d1cfca08aa20707": {
       "name": "清迈老字号红烧牛肉面馆",
@@ -1253,7 +1336,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcEk3_Tc2vQQPUPtwBztqN-Zv5GE00U4MjiUdUQmdr2OyqMXBjRy7pP5IFqWP5qOW79bQ9EoEKqp9HN-R6y0yz-SFMhJg9kvwkx_LI_rp2UK3EJOfSUvk6KqbPxLW1CcM3AmjGYBYOQHMYz=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E8%80%81%E5%AD%97%E5%8F%B7%E7%BA%A2%E7%83%A7%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%86/@18.7875068,98.9902411,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a98a573b641:0xc429560773b3dde8!8m2!3d18.7875068!4d98.9902411!16s%2Fg%2F11b6gl794n?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:59:37.734060+00:00"
+      "scrapedAt": "2026-10-27T14:59:37.734060+00:00",
+      "refreshedAt": "2026-11-18T09:34:47.333818+00:00"
     },
     "2e5be1e3471d8032a9f3f97998160c68": {
       "name": "烤串麻辣烫",
@@ -1280,9 +1364,12 @@
         "星期二 10:30–22:00",
         "星期二10:30–21:30"
       ],
-      "photos": [],
+      "photos": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLeFltjlNFTnPLvTXSXgg53AlSsQUesAAvioxyOtELdqP65EDBQd8vJHGlwd4xJvMb67Tl_WdxWP1lmtLZKaZyJC5nzMF9IpJCi5PurUCSCVu6FVD4aIrO6zC2JeBRPe_8SPQr8tDKZI-o4=w1600-h1200-no"
+      ],
       "googleMapsUrl": "https://www.google.com/maps/place/Neng+Roasted+Pork/@18.7998228,99.0048013,17z/data=!4m7!3m6!1s0x30da3ba0e2cd3553:0xe05104b20bb58629!8m2!3d18.7998228!4d99.0048013!10e2!16s%2Fg%2F11gmwq0ffb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T14:59:59.995245+00:00"
+      "scrapedAt": "2026-10-27T14:59:59.995245+00:00",
+      "refreshedAt": "2026-11-18T09:42:41.191792+00:00"
     },
     "2f2be1e3471d802db796f45aaab4448e": {
       "name": "Cherry Burmese",
@@ -1312,7 +1399,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLebbRvCpAIq8KZkIneBjPsNWdQkcv0JPYYf0xIaxdGJk8ZYhtzyb9qaoP4CeGdYCz8sKcxvi0v5OiNZa10epTxWjwfaOdCRVdQ3t7BY219PC9EJHwNgXJ0TpjPVeChVshdKgu8W=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Grace+%26+Jean's/@18.7887439,98.9943662,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bb0aeb5faa1:0x37d1698e6bcf4ad!8m2!3d18.7887439!4d98.9943662!16s%2Fg%2F11y4033gl1?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:00:15.190135+00:00"
+      "scrapedAt": "2026-10-27T15:00:15.190135+00:00",
+      "refreshedAt": "2026-11-18T09:35:08.165178+00:00"
     },
     "31fbe1e3471d80f7847dcddf6114a2ef": {
       "name": "AM.TONY Antique & Coffee",
@@ -1327,7 +1415,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfKwgT7-DP9zmAeCF-S5LEaAvUCQ1ewK1mU3tNRnV1VPT1PBtYz7UHVsCWA_Pj7VDhEMBmd5o5Wp45A_w0d8-Y5hIn9DZhen9BpfPCtytj07cZ4qDDiXaxyCxUazOlxnGDZtsNLVQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/AM.TONY+Antique+%26+Coffee/@18.7850783,98.9923445,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b5139b33b83:0x5fa03e31918fe688!8m2!3d18.7850783!4d98.9923445!16s%2Fg%2F11s2j68_ms?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:00:21.360882+00:00"
+      "scrapedAt": "2026-10-27T15:00:21.360882+00:00",
+      "refreshedAt": "2026-11-18T09:42:52.243778+00:00"
     },
     "38abe1e3471d8081b106edc7625ae8b1": {
       "name": "กะเพราขี้เมา น้ำลี้",
@@ -1342,7 +1431,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeAItEmB457k43LTi9zK8i9aiBtYOumYFFtrwBdYaoYTqLlkeiYB6YvaJF582bF3BG7ySvpqYeaDSVrPx4oDkTu-8ZiBPjYO9VTOn9hKR4SfRXUNcKkR-VnDs6vOIj-d83Hdr-aIYysmFk=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%80%E0%B8%A1%E0%B8%B2+%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A5%E0%B8%B5%E0%B9%89+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:00:27.593936+00:00"
+      "scrapedAt": "2026-10-27T15:00:27.593936+00:00",
+      "refreshedAt": "2026-11-18T09:35:19.153998+00:00"
     },
     "38cbe1e3471d80c78633d5381d8a6d5d": {
       "name": "Chiang Mai Horumon",
@@ -1357,7 +1447,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfMGlQY3ciq52a-kS5N-S5b_bYxGr3Pc7pRq5iyq9GSQO5kqOGqVWwpXMDuSNHyPuh6HAHAcXRWX2qYOQhE3yGX3gA9LulMg6Uuz6bEQ0mYmyrajPKf_pe3X4c8hoxxfQ2DJ-rWW0adfHM-=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Chiang+Mai+Horumon/@18.8052969,98.9815232,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aed3131b3a5:0xc0f25d2c1f9d9b4d!8m2!3d18.8052969!4d98.9815232!16s%2Fg%2F11b8c4djsx?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:00:34.196247+00:00"
+      "scrapedAt": "2026-10-27T15:00:34.196247+00:00",
+      "refreshedAt": "2026-11-18T09:35:24.750088+00:00"
     },
     "39ebe1e3471d80edba8de558f38504b5": {
       "name": "Neng Roasted Pork",
@@ -1372,7 +1463,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcU20gPHUtlrKeMkT-U9LP2v_n0eCl_zPxqUX0KzbFWsObBzl39h4EqXV-trj1PiYUvA4Z5p0b4Kmqq5oLYvuBbPlw1Oa82bT6ZORslSwp0oopKYZHQRaEWCyfLV-TSYNyz2BUKjeLVBcRG=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Neng+Roasted+Pork/@18.7998228,99.0048013,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3ba0e2cd3553:0xe05104b20bb58629!8m2!3d18.7998228!4d99.0048013!16s%2Fg%2F11gmwq0ffb?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:00:40.769950+00:00"
+      "scrapedAt": "2026-10-27T15:00:40.769950+00:00",
+      "refreshedAt": "2026-11-18T09:35:29.914731+00:00"
     },
     "3a0be1e3471d80938950cc8a85e2cd2d": {
       "name": "ร้านสวนแม่ไร",
@@ -1387,7 +1479,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcu1XufSJen3FzQBgDbvoFhNaquJUjMvK37hG0dIKE0BmgF0cDgyjcfGo6jCXiSjqy1SCzPSROfxAZBttpgCL1xDEbTBtEeXcMUHXJ48uuGZldRllF_VwHu-s0IjZfVXO0M5ew=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%A3/data=!4m7!3m6!1s0x30da32a6aefb98d7:0x8cf6529d39e96661!8m2!3d18.6089578!4d99.0078533!16s%2Fg%2F11hdb1tscd!19sChIJ15j7rqYy2jARYWbpOZ1S9ow?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-      "scrapedAt": "2026-10-27T15:00:48.896634+00:00"
+      "scrapedAt": "2026-10-27T15:00:48.896634+00:00",
+      "refreshedAt": "2026-11-18T09:35:35.122507+00:00"
     },
     "3a1be1e3471d80b6a867db4159fa9737": {
       "name": "结果",
@@ -1420,7 +1513,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLds7x7NIFbrM3TimUXlNn8tinOUA77WT36-3EyITiJuf4qky1CiAsEBB0-BQswTLt2TpG4vfkv-1Qrm09h1qg5__Pj6WkN6SoHDyte4ci_OYRyy2P5sg8eyJhvmSZZ8zNDmKqO0kVm4xDEl=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Frog+eye+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:01:02.107478+00:00"
+      "scrapedAt": "2026-10-27T15:01:02.107478+00:00",
+      "refreshedAt": "2026-11-18T09:35:45.515745+00:00"
     },
     "3abbe1e3471d80a7a169f5b01b2d96b1": {
       "name": "Mae Tha Chang Kang Thong",
@@ -1435,7 +1529,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLclna2XBggcZRCd_4U0VNovdVnGASU2jHe2rNZZpI6xkckq9ey0mvt0NlDzQNEav3A6R_9zfoo5CwEBGEgjHgfT2s92TbGWMjbdzgz3iiPQujHuvb2TpAVPbsPm6NC0Hvf3EbuM=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Mae+Tha+Chang+Kang+Thong+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:01:08.346309+00:00"
+      "scrapedAt": "2026-10-27T15:01:08.346309+00:00",
+      "refreshedAt": "2026-11-18T09:35:50.915926+00:00"
     },
     "3aebe1e3471d80babff5d4eaf7ea3945": {
       "name": "Khao Soi Maesai",
@@ -1465,13 +1560,14 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf1psEpCrKH0gQXqDTyNEr7vrVs1regfIsV7yRn3qKElePvY8cHrAtxlbxS8YfxZwFNC4XXz6zs9S_sYCyU7iusLYnL9ADxN4JLEcyuno8ZGo4cgnhdvZ0tdP4P2VmNCULHbmkCjQF0S7FZ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/RASIK+LOCAL+KITCHEN/@18.7810535,98.9957562,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bec0a5a2acb:0xecf109020e718e34!8m2!3d18.7810535!4d98.9957562!16s%2Fg%2F11t2vph9w6?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:01:24.514718+00:00"
+      "scrapedAt": "2026-10-27T15:01:24.514718+00:00",
+      "refreshedAt": "2026-11-18T09:42:58.177557+00:00"
     },
     "3bcbe1e3471d80b09a9bca3dd699e0b4": {
       "name": "牛杂店",
       "address": "119, 58 หมู่ที่ 5 ถนน อ้อมเมือง, Nong Hoi Sub-district, Mueang Chiang Mai District, Chiang Mai 50000",
       "phone": "094 479 8293",
-      "website": null,
+      "website": "https://www.facebook.com/p/%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-100092649829272/",
       "category": "餐馆",
       "openingHours": [
         "星期三 09:00–16:00"
@@ -1480,7 +1576,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdY5pziE8HJIiCCC26Nn0QiFGfwvXjwzXne2xpsdLEkwQmh7LJDvlBrnqIEpKgpqcVLHZn3fiVfXrcGSkQU1mGS6WcU10qA5FfrPUlZGOZo7RMQw_gNFCvaccqwDJZC3FsB1pUjFMR7o46J=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E7%89%9B%E6%9D%82%E5%BA%97/@18.7627414,99.0245678,17z/data=!3m1!4b1!4m6!3m5!1s0x30da2f697e041c0d:0xb3666be57eb8b3c2!8m2!3d18.7627414!4d99.0245678!16s%2Fg%2F11v07h7zkf?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-28T03:06:18.336413+00:00"
+      "scrapedAt": "2026-10-28T03:06:18.336413+00:00",
+      "refreshedAt": "2026-11-18T09:43:03.959012+00:00"
     },
     "3d6be1e3471d80468c10c7847aa52e30": {
       "name": "泰国古法牛肉茶餐室",
@@ -1495,7 +1592,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcA2Wml9VdRh0TDZ5f0daylSP2FYEH3l27eMrWD_7nScY1xyigNs4bUdIBpIz_f0loXZGXrKyhG78sbQo4A4kdAjxrgLaWzAkqyselblOafGP7K0FdXnj561mtQ6gYy1HX8cDSCBQ=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E6%B3%B0%E5%9B%BD%E5%8F%A4%E6%B3%95%E7%89%9B%E8%82%89%E8%8C%B6%E9%A4%90%E5%AE%A4/@18.7828547,99.0033314,17z/data=!3m1!4b1!4m6!3m5!1s0x30da31948d3a6cf9:0x977b59f01c7c2525!8m2!3d18.7828547!4d99.0033314!16s%2Fg%2F11sdpqgqb2?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:01:36.121004+00:00"
+      "scrapedAt": "2026-10-27T15:01:36.121004+00:00",
+      "refreshedAt": "2026-11-18T09:43:09.742690+00:00"
     },
     "405be1e3471d8013ae79fd5cb3d3d582": {
       "name": "Kaphrao Nuea Nuea",
@@ -1510,7 +1608,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdUFSt1l7eAg8pjDqXzskFNPOdv-g2oACGfOSRhzokmIm4A3Fe9nujelSmabpGo-8udN63bnYhfrvfNbvymq1jiIhV-LzDwWoW_ds04NIlJLAzNprqcTeQCuG0y6EYr2sxIdMZA19PKo619=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Kaphrao+Nuea+Nuea/@18.7923247,98.9570583,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bf818938e3b:0x80b905318bfe3b69!8m2!3d18.7923247!4d98.9570583!16s%2Fg%2F11smtzn3st?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-28T03:06:29.715196+00:00"
+      "scrapedAt": "2026-10-28T03:06:29.715196+00:00",
+      "refreshedAt": "2026-11-18T09:43:15.948176+00:00"
     },
     "2b0be1e3471d8024b8ced1311f67fe2f": {
       "name": "Super Soup - MaLaTang",
@@ -1526,7 +1625,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcRu7BA7yJnWGJr5pHHWtrBbsUPnig7wLKh5UyDsxsAGiyUqlPKtkXiS6Ki2xBdRM_9bb6Sj7mGzvJAR3txobi1c3KlQNGYVL4OqfLL1XDusbgIqmR9_tOnv4Jn8KcrHT_Y8MDDvNMKSHjq=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Super+Soup+-+MaLaTang/@18.8060629,98.9808732,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b131e4187b3:0x74d5a7f866e7aa71!8m2!3d18.8060629!4d98.9808732!16s%2Fg%2F11hdp9nr21?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:01:48.215398+00:00"
+      "scrapedAt": "2026-10-27T15:01:48.215398+00:00",
+      "refreshedAt": "2026-11-18T09:36:22.133442+00:00"
     },
     "2cbbe1e3471d8013a704e413b9004235": {
       "name": "A.T. Thaifoods",
@@ -1541,7 +1641,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcHSmJD3ryzb_SA59gBdnjxJi74rOK3imwAbFG6KT9cu4DWQJeU3k2G6ZUURNciP1CATYik5PZSQyJ4F8GNKaSToepxbR81jRVApv_zm2FIpJa_-dI-v2OqYMT5Tfa40e9ufGU=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/A.T.+Thaifoods/@18.8032312,98.9785422,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a8d6abbcafb:0xd2520955d636e06e!8m2!3d18.8032312!4d98.9785422!16s%2Fg%2F11hb3dgy33?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:01:55.650280+00:00"
+      "scrapedAt": "2026-10-27T15:01:55.650280+00:00",
+      "refreshedAt": "2026-11-18T09:36:27.881963+00:00"
     },
     "2d6be1e3471d807aa1f7f694069aca1c": {
       "name": "ข้าวมันไก่ ป.7",
@@ -1572,7 +1673,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdjST4HV1Zl3oc1hUkhqvj_Ky3Y-hZ9NY22rMJP7Lh5_MXd0OlmYVuzb1FCL8s5RMVoHrZM73JXfuqLremRPgD8rJKEd2LY9xz9gz5Y-0N9jv9ErVKdlfpOST0xur3P62lNkhYDzPn8upBj=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Mauyum+Cafe+Santitham,+Authentic+Thai+Food+Restaurant/@18.8023403,98.9759196,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3bc1167ab663:0xe4e8e012d8ad409b!8m2!3d18.8023403!4d98.9759196!16s%2Fg%2F11rxv0c8tw?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:02:08.435615+00:00"
+      "scrapedAt": "2026-10-27T15:02:08.435615+00:00",
+      "refreshedAt": "2026-11-18T09:36:38.497708+00:00"
     },
     "3a1be1e3471d80799a10d68e1e5b7413": {
       "name": "Tomimaki",
@@ -1587,7 +1689,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfb5cAp4uxrmzILUmUinxUZ98GoLDeor-XUn7zLZJBKAQv0Wnqkd5__nkKluylSpAOlmXStGjgAfDp2zBgqLfk4qwM_RUYHZVJ2orZgXPjwiXpPby5snb6uts8dS0jG55Zpoq-8=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Tomimaki/@18.8045787,98.9796008,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b6f1c471f09:0x964cb67e014b8275!8m2!3d18.8045787!4d98.9796008!16s%2Fg%2F11rl26mf4y?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:02:14.836858+00:00"
+      "scrapedAt": "2026-10-27T15:02:14.836858+00:00",
+      "refreshedAt": "2026-11-18T09:36:43.738333+00:00"
     },
     "3d6be1e3471d806c9b09db1681543d26": {
       "name": "Meater Earth",
@@ -1602,7 +1705,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdANu_-m905SJelyPhgSrrbFEQPoUBQiq4HNCU9-ZF8oEgjYjtaXJoup1U1IbCOOvf_C07iOffG2hQPEb0G8iwareBuY7opEZz41RZSkBrpFbSc3s51yc85ftctrEZ0hMxFZGzvg4nnnwbH=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Meater+Earth+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:02:20.590027+00:00"
+      "scrapedAt": "2026-10-27T15:02:20.590027+00:00",
+      "refreshedAt": "2026-11-18T09:43:21.458901+00:00"
     },
     "2b4be1e3471d8017955ae183446ce6f0": {
       "name": "MUSCULAR LAIR",
@@ -1617,7 +1721,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfLUD7UFBjfkk5i6Qxol-QztoMjf_WJ_z-EUjJJhIy3ynNNrPAe7erT-Vw3GB79ArC8xSKUkhXT0-8A6OUfiPZT2uofc7e6c3o-E_mLyzvtFP2kwtZCHN1bCllJrF1BI4jqw8Q57Q=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/MUSCULAR+LAIR/@18.8085203,98.9775175,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b59620975bf:0xfcfb83eb5e016173!8m2!3d18.8085203!4d98.9775175!16s%2Fg%2F11p13l_d4c?entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:02:26.925560+00:00"
+      "scrapedAt": "2026-10-27T15:02:26.925560+00:00",
+      "refreshedAt": "2026-11-18T09:36:55.011494+00:00"
     },
     "2bdbe1e3471d800f8c81ecf2876c4ccb": {
       "name": "兰纳高尔夫俱乐部",
@@ -1634,7 +1739,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdM7Y8qKelN3TMDjHv_MYlysiZKFUZIozD-vhcBhad52jO87AAlA-Oe2Ma3g3EqeJjaT3ZRdDtVjoCRUAp42hGA0GGw_DbKos1nt5cG1an-ZSquj-58aIibGzRRAeVpmOrvVmgm=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/%E5%85%B0%E7%BA%B3%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BF%B1%E4%B9%90%E9%83%A8+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:02:32.911952+00:00"
+      "scrapedAt": "2026-10-27T15:02:32.911952+00:00",
+      "refreshedAt": "2026-11-18T09:37:00.615673+00:00"
     },
     "2d9be1e3471d8068adddd244ed755db5": {
       "name": "Looper Swimming Pool",
@@ -1650,7 +1756,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipOTjW7mIGh8T5KPsTdTVAOz6Af15sxudrLkpc5C=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Looper+Swimming+Pool/@18.8130325,98.9648743,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b32f032c5a9:0x991becace730240b!8m2!3d18.8130325!4d98.9648743!16s%2Fg%2F11htm821wn?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:02:42.927213+00:00"
+      "scrapedAt": "2026-10-27T15:02:42.927213+00:00",
+      "refreshedAt": "2026-11-18T09:37:05.913258+00:00"
     },
     "2c0be1e3471d802baf12c99a74233a53": {
       "name": "Satva Yoga - Chiang Mai, Thailand",
@@ -1665,7 +1772,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf_xsRvyTE3oHj_Wl-VI0BH-TQeZm-HSplB_less4sVgFI5hZxJQ4ruXFHWAlHmUCZjOD1VdqOLaNleQQMCuuJSyIeqzYCHiB8dEPmtSZ6nojPo0qFnnJTeVVz4r-p34Gm_NlAE=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Satva+Yoga+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:02:48.836001+00:00"
+      "scrapedAt": "2026-10-27T15:02:48.836001+00:00",
+      "refreshedAt": "2026-11-18T09:43:27.025420+00:00"
     },
     "2c8be1e3471d80d2ad56e02b95c75fa9": {
       "name": "Pimantip Golf Club",
@@ -1682,7 +1790,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0hn8kcsvtKMItaK0VQGnbjHUnJs0wLyG2uNNkkyA9qHHsc45WI5X4k2bjuGpeftUI7QdCWGHjmBlTlr4ZfOMWUlA10ydvl02NtCnWcuKcl5cJlU0Xk3KTpfeQNR5CMVBdxY=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/10+Pimantip+Golf+Club+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:02:54.773556+00:00"
+      "scrapedAt": "2026-10-27T15:02:54.773556+00:00",
+      "refreshedAt": "2026-11-18T09:37:16.780309+00:00"
     },
     "2c8be1e3471d80ae94f7dd491009c575": {
       "name": "CNX GOLF",
@@ -1697,7 +1806,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf5g7KzCes3hrhyYACG7WnnzwcXgIbuWip7vcnOJgd4DJ3NZoE9-RGv6cKofuEbBVXxB15-02wxTfBctLsyfLjxnA1UOeGiVNmlJky3HWwZ7jOiz98cewg5S5IKQ3ZukJQg3bGK=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/CNX+GOLF+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:03:00.822416+00:00"
+      "scrapedAt": "2026-10-27T15:03:00.822416+00:00",
+      "refreshedAt": "2026-11-18T09:37:22.644374+00:00"
     },
     "2d5be1e3471d80d6966bfe04debe9cae": {
       "name": "Baan Suan Café",
@@ -1712,7 +1822,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdjiViXmJWVix6psLyceTfEgw9vAeOaNn9zFDI0isRNFe_F_nPgWXtSfsAqoluDNZWKqFsBVBkyzEnkigFuGRN05RJ0S6_V7Mmt2CkahnTNZBDew4RB4qX2xDX1gorkWukEtyvCQD_SgnMd=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Baan+Suan+Caf%C3%A9+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:03:06.680651+00:00"
+      "scrapedAt": "2026-10-27T15:03:06.680651+00:00",
+      "refreshedAt": "2026-11-18T09:37:28.046178+00:00"
     },
     "2d8be1e3471d80e39ee0c9bdfa55764f": {
       "name": "X-Centre",
@@ -1727,7 +1838,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfQSJ8NGzMDPPL95u4_1ZJ-9SRW23OmOT5Zq_6nEsKdx8fyhHmM8Gq5Unc24bWtIL8krAWRF_iRRX55C2O4KpQ-H7ZPhWe_tNs90XgBO93Il0phxMi3wgFJFz4Z81XIpoqgHWf1=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/X-Centre/@18.9219645,98.9241752,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3e81d5e66767:0x73a97f435537b10!8m2!3d18.9219645!4d98.9241752!16s%2Fg%2F1hm44gxwh?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:03:12.992072+00:00"
+      "scrapedAt": "2026-10-27T15:03:12.992072+00:00",
+      "refreshedAt": "2026-11-18T09:37:33.500405+00:00"
     },
     "2e0be1e3471d805cb9f7d06727327b4f": {
       "name": "CrossFit Chiang Mai / CFCNX",
@@ -1742,7 +1854,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeTSu08E1vIBCQGdgWYTyUwHO1zANAmzuZIgticbTXUlSjh2wap34EAnVQ87HWVc3cIXoMWBDtewv0Mwlqj7uQzJSo4rEtjKkCQTkanyW5Bf37WC7a2hBOJvIvvYlytG5uJtHZk=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/CrossFit+%2F+CFCNX+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:03:19.181240+00:00"
+      "scrapedAt": "2026-10-27T15:03:19.181240+00:00",
+      "refreshedAt": "2026-11-18T09:37:39.060828+00:00"
     },
     "3a1be1e3471d80779916d64ca5182cb4": {
       "name": "Wiangfueangfa Thai Massage Therapy เวียงเฟื่องฟ้านวดไทยบำบัด แก้อาการ Please make an appointment in advance..",
@@ -1773,7 +1886,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipME3n53B7LPpCk87Ar9OawvGfwUKH6oj3X7dnfS=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/sum+bamboo+massage+(Ruamchok)+%E0%B8%8B%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B9%84%E0%B8%9C%E0%B9%88+%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B2%E0%B8%88+%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%82%E0%B8%8A%E0%B8%84+1/@18.8243755,99.008989,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b8752845c7d:0xd3ec019aee3932fc!8m2!3d18.8243755!4d99.008989!16s%2Fg%2F11frjqdqcd?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:03:36.261336+00:00"
+      "scrapedAt": "2026-10-27T15:03:36.261336+00:00",
+      "refreshedAt": "2026-11-18T09:37:48.847202+00:00"
     },
     "3febe1e3471d80acae52ffa5616d3d27": {
       "name": "Thong Nam Nueng Thai Massage",
@@ -1797,14 +1911,16 @@
       "website": "http://www.tbe-organic.com/",
       "category": "咖啡馆",
       "openingHours": [
-        "已结束营业 · 开始营业时间：周三09:00·查看更多营业时间"
+        "星期三 09:00–17:00",
+        "星期三09:00–16:30"
       ],
       "photos": [
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdXlR7affdate1nJM-B6WgZ8NO9fWlHnxFeflFAVuu4nvTUKTdIWcIPEDPUmHAxO1IpB7IO3x57IbEldFwRe4kIL5xIsOwtid46-24wWLDtAPj4eEiRJ0I5IuFILB9_UfAK4wGKWsFbvq0R=w1600-h1200-no",
         "https://lh3.googleusercontent.com/geougc/AF1QipOfjcvh0Ds1-Ei5QqjZmSI2AfUIoNVdVAQBTiF-=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/5+the+butterfly+effect+-+organic+cafe+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:03:50.689538+00:00"
+      "scrapedAt": "2026-10-27T15:03:50.689538+00:00",
+      "refreshedAt": "2026-11-18T09:37:59.151324+00:00"
     },
     "299be1e3471d80318dccd39f5dc1cfc1": {
       "name": "Shanti Nii Yoga | Qi Gong | Pilates | Sound Healings",
@@ -1819,7 +1935,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLd9chf6DupAagHkNHWATgYOxEYojS0812_7NySWwFwQ5stRQDR3IU-gE38AjRWICv5ZTYXxt8Q88zI56tiHGJpT6cjuQdJ78pvm1ca5NX7FcX4aY-otF0GtrH3h7q63v7DH-n_ltP1FPq4=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Shanti+Nii+Yoga+%7C+Qi+Gong+%7C+Pilates+%7C+Sound+Healings/@18.7016629,98.906024,17z/data=!3m1!4b1!4m6!3m5!1s0x30da371f14950051:0x56314bb84144b84d!8m2!3d18.7016629!4d98.906024!16s%2Fg%2F11l5lv4x9g?authuser=0&hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:04:00.739646+00:00"
+      "scrapedAt": "2026-10-27T15:04:00.739646+00:00",
+      "refreshedAt": "2026-11-18T09:38:05.130041+00:00"
     },
     "2abbe1e3471d807db762e9d81d8e2612": {
       "name": "attika Workshop studio & Cafe",
@@ -1834,7 +1951,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLf6tW-EQX69D3JaxopuatKmjyVxw6vXy1hW3lYiF-cmnGHlxxxk5uRcEAyzzr7i4GIgcQgBWSoIBp0Bm2U4A7zZ1Zjx64_mLRAvXHzWqiqWnyCv0W72PEHbLZQ77kkxhFimzoYeKor7HYPA=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/attika+studio+Caf%C3%A9%26Workshop+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:04:07.006928+00:00"
+      "scrapedAt": "2026-10-27T15:04:07.006928+00:00",
+      "refreshedAt": "2026-11-18T09:38:10.273533+00:00"
     },
     "2abbe1e3471d80d1967df77fefc7fdf8": {
       "name": "Much Room Cafe",
@@ -1849,7 +1967,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLftcai3dfMBuzH57be0-nX4gz1oQ5U-FVKjXD1r14c_Rf2xqrUlA2hP3RDicHuzpiJCUyDRGkTkMRDQ1fUKmNbsp0Kym-K1MROY77efKeuTjbgteuc6gqxfIp0B2Z1GHwcjN26w=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Much+Room+Cafe+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:04:13.024981+00:00"
+      "scrapedAt": "2026-10-27T15:04:13.024981+00:00",
+      "refreshedAt": "2026-11-18T09:43:32.758199+00:00"
     },
     "2b5be1e3471d809081b8d1bd94471dab": {
       "name": "Game On Pool Hall & Sports Bar",
@@ -1865,7 +1984,8 @@
         "https://lh3.googleusercontent.com/geougc/AF1QipP9JTNaJXdLlG2uJuswZvjG6Lfq3m4CDrCNXpnj=h400-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Game+On+Pool+Hall+%26+Sports+Bar/data=!4m7!3m6!1s0x30da3b9810d7937d:0xe4ef812b54613c65!8m2!3d18.7953973!4d98.980351!16s%2Fg%2F11w8gl95tw!19sChIJfZPXEJg72jARZTxhVCuB7-Q?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-      "scrapedAt": "2026-10-27T15:04:20.536494+00:00"
+      "scrapedAt": "2026-10-27T15:04:20.536494+00:00",
+      "refreshedAt": "2026-11-18T09:38:21.530839+00:00"
     },
     "2babe1e3471d80ef8915c53770aa4231": {
       "name": "Red Panda Cafè (CNX) | ร้านกาแฟแพนด้าแดง (สาขาCNX)",
@@ -1897,7 +2017,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcl0hn8kcsvtKMItaK0VQGnbjHUnJs0wLyG2uNNkkyA9qHHsc45WI5X4k2bjuGpeftUI7QdCWGHjmBlTlr4ZfOMWUlA10ydvl02NtCnWcuKcl5cJlU0Xk3KTpfeQNR5CMVBdxY=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/10+Pimantip+Golf+Club+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:04:32.248861+00:00"
+      "scrapedAt": "2026-10-27T15:04:32.248861+00:00",
+      "refreshedAt": "2026-11-18T09:38:32.078697+00:00"
     },
     "2c4be1e3471d801388d3e897f7620467": {
       "name": "清邁",
@@ -1928,7 +2049,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcs5OvhCTYetsb4_qbalw5O3bUQ6zfD6nlWFZ8Nn60KSNhbpuaU4NbvqhlAF7ZbWKeFGS6zl4Hm9oUpjF5K75PgCXpfFMtn-ydEHyQSZjRi396q6gzPHouE_xvqzkth9MlxeW1OAFNAtBNM=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/WTF+Coffee+Camp/@18.8734381,98.8131681,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3f71beb48379:0x69a5ecb4bcfa72e5!8m2!3d18.8734381!4d98.8131681!16s%2Fg%2F11lh5p160l?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:04:51.886073+00:00"
+      "scrapedAt": "2026-10-27T15:04:51.886073+00:00",
+      "refreshedAt": "2026-11-18T09:38:42.827032+00:00"
     },
     "3a5be1e3471d80d297a3da5e0d319595": {
       "name": "กาแฟสะพานแขวน @เขื่อนแม่กวง",
@@ -1958,7 +2080,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeObEHCyxkOgflBgAzRZIFBg31rtXZPuS00wZk73LJamzSJROanquw2cHmCyxvvQ2V4ZTGcMBrZqqeDDw3fJKJdUr69r6hzgpPTzpcWoKuP1TvRAhomuRajnNzil0Iqf9rVxY-VPM77-0ud=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/AMFER%E2%80%99cafe+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:05:10.778167+00:00"
+      "scrapedAt": "2026-10-27T15:05:10.778167+00:00",
+      "refreshedAt": "2026-11-18T09:38:53.426433+00:00"
     },
     "3aabe1e3471d80b68fc8dd0036cb3433": {
       "name": "Mae Ya Waterfall",
@@ -1974,7 +2097,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLfU4_l06geqICZbEAgO6_DJTBuA0bz3t9IVqTNU-T19NFH1md7inZc8I-zSXD2HfFy55Tpniq5RR9yUp9TtovYeOtkTzRi35_QNelXWgqBXOy9dOm3xgQyWFDnivNHbOf9919rqKGs8V7XA=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/Mae+Ya+Waterfall+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:05:17.026791+00:00"
+      "scrapedAt": "2026-10-27T15:05:17.026791+00:00",
+      "refreshedAt": "2026-11-18T09:38:58.861580+00:00"
     },
     "3aabe1e3471d806b8492c637be34a32c": {
       "name": "Wachirathan cafe",
@@ -2000,7 +2124,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdnYm2rLu30_HM_4tCaZ-0OYtdtn9JS4aXjoq-qHiHr2PlEKpVYGxwizNZf8-BlkDusCv9nzmSGgx2Vo1MbBqvfUypX_vbneQvjz4MZlvXUJ28pabYEa5C-HearXFXfnrLoSyMydg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps?q=39+%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88+11+Ban+Tarnchevee+Homestay,+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B8%B0+Mae+Na,+Chiang+Dao+District,+Chiang+Mai+50170&ftid=0x30da0be601fd28ad:0xf96e3722dfc8fc66&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,47071704,94218641,94282134,100813464,94286869,100820247,100822499&g_ep=CAISEjI2LjI5LjEuOTQ2NjczNjQzMBgAIIgnKl0sOTQyOTc2OTksOTQyMzExODgsOTQyODA1NjgsNDcwNzE3MDQsOTQyMTg2NDEsOTQyODIxMzQsMTAwODEzNDY0LDk0Mjg2ODY5LDEwMDgyMDI0NywxMDA4MjI0OTlCAlRI&skid=fea7df77-7d2b-4599-a993-e798af08ac24&g_st=ic",
-      "scrapedAt": "2026-10-28T03:07:45.394800+00:00"
+      "scrapedAt": "2026-10-28T03:07:45.394800+00:00",
+      "refreshedAt": "2026-11-18T09:43:44.118882+00:00"
     },
     "3e3be1e3471d80d294f7dd3c1a26a8a0": {
       "name": "The Yard Hostel Chiang mai",
@@ -2015,7 +2140,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLexy6HLDXolwS5S9Dd-Rp9P1Wvlnw096BnLTaVOKnNQzsKmyUtir_wjk_Tbg3gJjYkO406hyPT4EvO5EKfHs7RU6Jo9f78iDLLmVDnWmSNF7F_tXwQYI_evnCJoUGAppdGYHdEi-qk5z4xl=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/The+Yard+Hostel+Chiang+mai/@18.7894789,98.9892238,17z/data=!4m9!3m8!1s0x30da3b6d9e015175:0x45f4a6949eeec35e!5m2!4m1!1i2!8m2!3d18.7894789!4d98.9892238!16s%2Fg%2F11w48b4j9f?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:05:37.133127+00:00"
+      "scrapedAt": "2026-10-27T15:05:37.133127+00:00",
+      "refreshedAt": "2026-11-18T09:39:13.520642+00:00"
     },
     "2a6be1e3471d80659e64f5000cd8ea2c": {
       "name": "结果",
@@ -2094,7 +2220,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeIhmqgOV0R5N_RyY70HVC8IgR9g685hNb1Q1PXgqzbr6l1vpg8MR8LYm1GC5XwaXyyJvTcwnvWh2A5IkfpwA2SdwYp-z-wohFfRHH3pJRLsEeGwi02apa7qhZWLMqNloMHYnjUEPSI-F2Q=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Pura+Vida+Bar+One+Nimman/@18.8003953,98.967946,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b500b8ffc17:0xbfa72772f87250b2!8m2!3d18.8003953!4d98.967946!16s%2Fg%2F11t072wlrg?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:06:16.224700+00:00"
+      "scrapedAt": "2026-10-27T15:06:16.224700+00:00",
+      "refreshedAt": "2026-11-18T09:39:38.673432+00:00"
     },
     "2abbe1e3471d80e0a18bd88a411b1a88": {
       "name": "mr.pierre money exchange",
@@ -2109,7 +2236,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcczu1BVEetSU2poTOcDTPQsm0QJuSPEhgJKYTLpWGRPOi18ZfgcXmXZq-blyH1xhB_9977Qhjia1eXnngo4-dwxFrRMpAZ-Z_q3TNe4bzoa4BFkGfNuwsY_4rHfv4YYdAJnjpNDA=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/mr.pierre+money+exchange/@18.7881826,98.997608,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3aa46a2a9805:0x91a4e37a07c84752!8m2!3d18.7881826!4d98.997608!16s%2Fg%2F11f11kbc2t?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:06:22.637158+00:00"
+      "scrapedAt": "2026-10-27T15:06:22.637158+00:00",
+      "refreshedAt": "2026-11-18T09:39:44.372701+00:00"
     },
     "2bebe1e3471d803eb42ad6e5d7a75f7e": {
       "name": "ร้านมนตรีถ่ายเอกสาร MONTREE COPY",
@@ -2124,7 +2252,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdf3sT66IQr1nkj8c8sRHF8FIKzJtPrwgYrfg8hwD5LWBVxswGbM24ytkSjrS0OlQqUHj1o8D59NgZnjk2C0_e4z7Ek9u3mL_sKf6bf1tBK5P2rBsl-3JtYcRtqcuUfusMiN3o=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/search/MONTREE+COPY+Chiang+Mai+Thailand?hl=zh-CN",
-      "scrapedAt": "2026-10-27T15:06:28.768814+00:00"
+      "scrapedAt": "2026-10-27T15:06:28.768814+00:00",
+      "refreshedAt": "2026-11-18T09:39:49.739848+00:00"
     },
     "2abbe1e3471d80b982e2d388c2c3e597": {
       "name": "HIDELAND.cnx",
@@ -2139,7 +2268,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLeatpTyGoAMn6pOBmjQILjU3p2unDdlAnr-7GBwjqVpeFM1mLtjQOfeS8uvf9Wj7WVlykFfBJbArkU2kXeGufNm6KiTJFw6v1L5QcI6JaeLLYevQQbtASN0levEJMikNJoC-ldmZw=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/HIDELAND.cnx/@18.7897028,98.9962179,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b457d24f64b:0x26d3b12e6b24104e!8m2!3d18.7897028!4d98.9962179!16s%2Fg%2F11s4662bl8?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:06:37.629683+00:00"
+      "scrapedAt": "2026-10-27T15:06:37.629683+00:00",
+      "refreshedAt": "2026-11-18T09:39:55.223953+00:00"
     },
     "2adbe1e3471d8000bd6ffe2d98fcbf0a": {
       "name": "Punspace Wiang Kaew",
@@ -2155,7 +2285,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdfTh9H-AfX4Aj17mvc1bQKYSB5koTR7sGa1PGtuf29Mm7k2M1wuvdr33_1xX5n6MKZFqAEW-MEGRzcTvGBTVcpg3Y7jOnHbfpPnX1yZPNedryMcKRCxD7o6LQ8xKuENNaM35sqX4nwQUOW=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Punspace+Wiang+Kaew/@18.7932407,98.9867172,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a97680a46ef:0x613bbb5c4777a705!8m2!3d18.7932407!4d98.9867172!16s%2Fg%2F11gf8g9xjm?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:06:46.285508+00:00"
+      "scrapedAt": "2026-10-27T15:06:46.285508+00:00",
+      "refreshedAt": "2026-11-18T09:40:00.525105+00:00"
     },
     "2adbe1e3471d80e59eb8ce8fc0a0b72e": {
       "name": "Motorbike Repair Shop",
@@ -2191,13 +2322,27 @@
       "website": null,
       "category": "药店",
       "openingHours": [
-        "星期二 09:00–22:30"
+        "星期三 09:00–22:30",
+        "星期四 09:00–22:30",
+        "星期五 09:00–22:30",
+        "星期六 09:00–22:30",
+        "星期日 10:00–22:30",
+        "星期一 09:00–22:30",
+        "星期二 09:00–22:30",
+        "5",
+        "4",
+        "3",
+        "2",
+        "1"
       ],
       "photos": [
-        "https://lh3.googleusercontent.com/grass-cs/AABkmLeyQ_MFVADLuFNEAmV3kKJXBrJf8nfmFG7KayhFq5d4dCUJHR7E_8eAUi9a2mDG0EgGYSqJVWvIaf2NXBg1HNb1bRcyOQ_ngdz5cBf53cHGSM-hd2yoWD7crgFSc-6aNAwohiy-qR74uC0H=w1600-h1200-no"
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd5CPV5iXFie70OpMnXkZKYkBXzW4sx2yHD6mcRVP2HWE3SF48hmpetofDDvjAk6YDOcLKvI65REDZ6cNH536NBA1bPpinmyLb_pmYUMLw9xeJxH--aoJtpelJqyWe9rUur-bx-6VpPBAbY=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QM1Eidrci5y2q2RhLFHEI13WTkeGWEXKYwVRVSt7ZLCCGkkDTw0GLbBxLfBMg3xm8k1Mb0Tzl29Q4tC-UzeWTVxthtgwgA_tEKEXFBTPkI2Ql_6P7OwS59eF84YRpUZc-XzgkMamEjA979=w1600-h1200-no",
+        "https://lh3.googleusercontent.com/a/ACg8ocLZbKhhU5JeEXoRrWUUDkUP5uXZJAW7veVbiFIsu2XizMZxWg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E0%B8%9B%E0%B8%B8%E0%B8%93%E0%B9%80%E0%B8%A0%E0%B8%AA%E0%B8%B1%E0%B8%8A+Poon+Pharmacy/@18.8035105,98.9784204,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b0013731a77:0x85f2ebe31a8a9224!8m2!3d18.8035105!4d98.9784204!16s%2Fg%2F11whp1c911?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:07:04.499575+00:00"
+      "scrapedAt": "2026-10-27T15:07:04.499575+00:00",
+      "refreshedAt": "2026-11-18T09:40:15.461169+00:00"
     },
     "3acbe1e3471d804fb84ac9b2f8768844": {
       "name": "清迈门",
@@ -2214,13 +2359,14 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLcAa-Ym78ukcnGJ4z2HCRAWINYln7Yriv8g55SiT46vcWhgj-YCCm4Ny_oBYrQO6Az_3-gI-5EoP1wl01cRI1utoOOEUxG8SDn7SLNtJXEsZec23xTnnFob9a5q1_T7orjmFkp08g=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/%E6%B8%85%E8%BF%88%E9%97%A8/data=!4m7!3m6!1s0x30da3a9fdbbc2c2f:0x5ea5a5cf7c70444d!8m2!3d18.7813558!4d98.9890913!16s%2Fg%2F11b6t80cbn!19sChIJLyy825862jARTURwfM-lpV4?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-      "scrapedAt": "2026-10-27T15:07:11.800790+00:00"
+      "scrapedAt": "2026-10-27T15:07:11.800790+00:00",
+      "refreshedAt": "2026-11-18T09:40:21.485373+00:00"
     },
     "2c3be1e3471d8010b121ecaadad82a05": {
       "name": "Night Bazaar Chiang Mai",
       "address": "Changklan Rd, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50100",
-      "phone": null,
-      "website": null,
+      "phone": "053 943 751",
+      "website": "https://li.cmu.ac.th/",
       "category": "夜市",
       "openingHours": [
         "星期二 17:00–00:00"
@@ -2231,7 +2377,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLenBj-X0TbPwknMj1dPksIsrS1SzIUEwe0eMh58EBxKP0pCrrV10S7nEBuszd-sPDDlLGOVwtehG3Kmds4YtYfwI-us08F-_Cd5-QH0capLz8p_KFLRwG1WmtAVBIMn2O53xkv5Bg=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Night+Bazaar+Chiang+Mai/data=!4m7!3m6!1s0x30da3aa60ca74a5b:0xb2ef5007f26b01d!8m2!3d18.7852244!4d99.0002986!16s%2Fm%2F05c54fn!19sChIJW0qnDKY62jARHbAmfwD1Lgs?authuser=0&hl=zh-CN&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
-      "scrapedAt": "2026-10-27T15:07:20.200048+00:00"
+      "scrapedAt": "2026-10-27T15:07:20.200048+00:00",
+      "refreshedAt": "2026-11-18T09:40:27.455050+00:00"
     },
     "2c7be1e3471d8068b967c6e609770277": {
       "name": "Royal Project Agricultural Research and Development Center",
@@ -2247,7 +2394,8 @@
         "https://lh3.googleusercontent.com/grass-cs/AABkmLdpTDK7QwDmbR42Fsq-9tp48okQ9He-wGNjo75IRwrVTxVZnOZmKpaaaBKV-373P1y407H4CGqEShEhyXsBhHHnpBhEJ23U5KXk3hW4AzmFrWikzOR2og-yWDENJGL9_7rxGb4=w1600-h1200-no"
       ],
       "googleMapsUrl": "https://www.google.com/maps/place/Royal+Project+Agricultural+Research+and+Development+Center/@18.750647,98.9284981,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3a731fcdc8af:0x8110aa04e7061e75!8m2!3d18.750647!4d98.9284981!16s%2Fg%2F1pzpqrfrf?hl=zh-CN&entry=ttu&g_ep=EgoyMDI2MTAyMC4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-27T15:07:27.537876+00:00"
+      "scrapedAt": "2026-10-27T15:07:27.537876+00:00",
+      "refreshedAt": "2026-11-18T09:40:32.788373+00:00"
     },
     "2ccbe1e3471d80408f71f2aecdef6d2e": {
       "name": "Chiang Mai Driving School",
@@ -2275,11 +2423,14 @@
       ],
       "photos": [],
       "googleMapsUrl": "https://www.google.com/maps/place/Kerry+Express+Parcel+Service+Point+%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2+We+Fix+(Shop+%2314181)/@18.8019397,98.9781929,17z/data=!3m1!4b1!4m6!3m5!1s0x30da3b19cdfc7013:0x6d14ae04740dafe7!8m2!3d18.8019397!4d98.9781929!16s%2Fg%2F11fktht14g?entry=ttu&g_ep=EgoyMDI2MTAyNS4wIKXMDSoASAFQAw%3D%3D",
-      "scrapedAt": "2026-10-28T03:08:30.123205+00:00"
+      "scrapedAt": "2026-10-28T03:08:30.123205+00:00",
+      "refreshedAt": "2026-11-18T09:43:55.604603+00:00"
     }
   },
   "quality": {
     "method": "name search followed by direct-link correction",
-    "total": 150
+    "total": 150,
+    "lastMergedAt": "2026-11-18T09:45:00.803Z",
+    "mergeSource": "cm-short-cache.json"
   }
 }

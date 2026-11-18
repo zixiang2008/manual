@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="paper">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -9,7 +9,7 @@
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="icon" href="/icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/vendor/maplibre/maplibre-gl.css">
-  <link rel="stylesheet" href="/styles.css?v=24">
+  <link rel="stylesheet" href="/styles.css?v=25">
   <title>清迈生活手册</title>
 </head>
 <body>
@@ -20,6 +20,7 @@
       <h1 data-i18n="appName">清迈生活手册</h1>
       <p class="muted" data-i18n="loginLead">咖啡、餐厅、活动与那些值得再去的地方。</p>
       <label class="language-picker"><span data-i18n="language">语言</span><select class="language-select" aria-label="Language"><option value="zh">中文</option><option value="en">English</option><option value="ja">日本語</option><option value="th">ไทย</option></select></label>
+      <div class="theme-picker"><span data-i18n="theme">主题风格</span><div class="theme-swatches" role="group" aria-label="Theme"><button type="button" class="theme-swatch" data-theme-option="paper" title="纸感米白 · Paper" aria-label="纸感米白"></button><button type="button" class="theme-swatch" data-theme-option="forest" title="深林夜色 · Forest" aria-label="深林夜色"></button><button type="button" class="theme-swatch" data-theme-option="ocean" title="海岛晴空 · Ocean" aria-label="海岛晴空"></button><button type="button" class="theme-swatch" data-theme-option="sunset" title="暖阳陶土 · Sunset" aria-label="暖阳陶土"></button></div></div>
       <div class="auth-tabs" role="tablist">
         <button id="loginTab" class="active" type="button" data-i18n="login">登录</button>
         <button id="registerTab" type="button" data-i18n="register">注册</button>
@@ -56,7 +57,7 @@
       <div><p class="eyebrow">CHIANG MAI · THAILAND</p><h1 data-i18n="todayWhere">今天，去哪里？</h1></div>
       <div class="user-menu">
         <button id="userMenuButton" class="avatar-button" aria-expanded="false"><span id="avatar">C</span><span id="currentName">访客</span>⌄</button>
-        <div id="userMenu" class="menu-popover" hidden><div id="starSummary" class="star-summary"></div><label class="menu-language"><span data-i18n="language">语言</span><select class="language-select"><option value="zh">中文</option><option value="en">English</option><option value="ja">日本語</option><option value="th">ไทย</option></select></label><button id="shareButton" data-i18n="sharePlace">分享地点</button><button id="adminButton" hidden data-i18n="adminConsole">管理后台</button><button id="logout" data-i18n="logout">退出登录</button></div>
+        <div id="userMenu" class="menu-popover" hidden><div id="starSummary" class="star-summary"></div><label class="menu-language"><span data-i18n="language">语言</span><select class="language-select"><option value="zh">中文</option><option value="en">English</option><option value="ja">日本語</option><option value="th">ไทย</option></select></label><div class="theme-picker"><span data-i18n="theme">主题风格</span><div class="theme-swatches" role="group" aria-label="Theme"><button type="button" class="theme-swatch" data-theme-option="paper" title="纸感米白 · Paper" aria-label="纸感米白"></button><button type="button" class="theme-swatch" data-theme-option="forest" title="深林夜色 · Forest" aria-label="深林夜色"></button><button type="button" class="theme-swatch" data-theme-option="ocean" title="海岛晴空 · Ocean" aria-label="海岛晴空"></button><button type="button" class="theme-swatch" data-theme-option="sunset" title="暖阳陶土 · Sunset" aria-label="暖阳陶土"></button></div></div><button id="shareButton" data-i18n="sharePlace">分享地点</button><button id="adminButton" hidden data-i18n="adminConsole">管理后台</button><button id="logout" data-i18n="logout">退出登录</button></div>
       </div>
     </header>
     <section class="search-wrap">
@@ -132,14 +133,16 @@
       <div id="cards" class="cards"></div>
     </section>
     <p id="empty" class="empty" hidden data-i18n="empty">没有找到匹配地点，换个关键词试试。</p>
+    <p class="app-version" id="appVersion">清迈生活手册 · v25 · 数据来自 Notion / Google Maps</p>
   </div>
 
-  <dialog id="detail"><button id="closeDetail" class="dialog-close" aria-label="关闭">×</button><div id="detailBody"></div></dialog>
+  <dialog id="detail"><div class="detail-toolbar"><button id="detailShare" class="share-link-button" type="button" hidden>↗ <span data-i18n="shareLink">分享此地点</span></button></div><button id="closeDetail" class="dialog-close" aria-label="关闭">×</button><div id="detailBody"></div></dialog>
+  <dialog id="publicShareDialog" class="public-share-dialog"><button id="closePublicShare" class="dialog-close" aria-label="关闭">×</button><div id="publicShareBody"></div></dialog>
   <dialog id="shareDialog" class="share-dialog"><button id="closeShare" class="dialog-close" aria-label="关闭">×</button><div id="shareBody"></div></dialog>
   <dialog id="adminDialog" class="admin-dialog"><button id="closeAdmin" class="dialog-close" aria-label="关闭">×</button><div id="adminBody"></div></dialog>
   <script src="/vendor/maplibre/maplibre-gl.js"></script>
-  <script src="/flat-map-config.js?v=24"></script>
-  <script src="/guide-config.js?v=24"></script>
-  <script type="module" src="/app.js?v=24"></script>
+  <script src="/flat-map-config.js?v=25"></script>
+  <script src="/guide-config.js?v=25"></script>
+  <script type="module" src="/app.js?v=25"></script>
 </body>
 </html>
