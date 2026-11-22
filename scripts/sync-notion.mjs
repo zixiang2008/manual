@@ -146,8 +146,27 @@ for (const block of rootBlocks) {
   else { const text = cleanText(blockText(block)); if (text) category = text; }
 }
 const categories = [...new Set(items.map(x => x.category))];
-const out = { source: { title: rich(page.properties?.title?.title) || '泰国手册', fetchedAt: new Date().toISOString(), lastEdited: page.last_edited_time, direction: 'notion-to-website' }, categories, items };
+
+// ---- v27：NAS 标准库模式 ------------------------------------------------
+// Notion 是「导入源」而非覆盖源。同步从整体替换改为增量合并进 NAS 标准库：
+//   · 同一 id：用 Notion 的最新内容更新（网页后台的编辑保存在
+//     runtime/place-overrides.json，读取时叠加，不会被这里抹掉）；
+//   · Notion 中已不存在的条目：保留在标准库，绝不删除，避免误删丢数据；
+//   · 分类取并集，避免网页端自建分类在同步后消失。
+// 只有在标准库完全不存在（首次初始化）时才整体写入 Notion 结果。
+const canonicalPath = path.resolve('data/places.json');
+const existing = (() => { try { return JSON.parse(fs.readFileSync(canonicalPath, 'utf8')); } catch { return null; } })();
+let finalItems = items, finalCategories = categories, keptFromNotion = 0;
+if (existing && Array.isArray(existing.items) && existing.items.length) {
+  const incomingIds = new Set(items.map(x => x.id));
+  const byId = new Map(existing.items.map(x => [x.id, x]));
+  for (const item of items) byId.set(item.id, item);
+  finalItems = [...byId.values()];
+  keptFromNotion = existing.items.filter(x => !incomingIds.has(x.id)).length;
+  finalCategories = [...new Set([...(existing.categories || []), ...categories])];
+}
+const out = { source: { title: rich(page.properties?.title?.title) || '泰国手册', fetchedAt: new Date().toISOString(), lastEdited: page.last_edited_time, direction: 'notion-import-into-nas-canonical', canonicalStore: 'nas/data/places.json + nas/runtime' }, categories: finalCategories, items: finalItems };
 const dataTemp = 'data/places.json.tmp', geoTemp = `${geoPath}.tmp`;
-fs.writeFileSync(dataTemp, JSON.stringify(out, null, 2)); fs.renameSync(dataTemp, 'data/places.json');
+fs.writeFileSync(dataTemp, JSON.stringify(out, null, 2)); fs.renameSync(dataTemp, canonicalPath);
 fs.writeFileSync(geoTemp, JSON.stringify(geoCache, null, 2)); fs.renameSync(geoTemp, geoPath);
-console.log(`\nSynced ${items.length} items in ${categories.length} categories; ${items.reduce((n, x) => n + x.images.length, 0)} images; ${items.filter(x => x.location).length} geocoded`);
+console.log(`\nSynced ${items.length} items from Notion into NAS canonical store; kept ${keptFromNotion} existing items no longer in Notion; total ${finalItems.length} items in ${finalCategories.length} categories; ${items.reduce((n, x) => n + x.images.length, 0)} images; ${items.filter(x => x.location).length} geocoded`);

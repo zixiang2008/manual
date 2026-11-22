@@ -2,6 +2,46 @@
 
 清迈生活手册（Chiang Mai Life Guide）版本记录。线上版本与 Service Worker 缓存名保持一致（`cm-life-vN`）。
 
+## v27 — 2026-11-21
+
+数据源统一到 NAS、放开管理员编辑权限、新增小红书文案转收藏能力。
+
+### 架构：NAS 为唯一标准数据源
+
+- **`ops/deploy.sh` 重构**：部署只覆盖代码（server.mjs / scripts / public / docs），**不再用本地 `data/` 覆盖 NAS 标准库**。`data/`（Notion 导入快照与缓存）与 `runtime/`（投稿、编辑、用户、审计）以 NAS 现网为准，本地副本仅在 NAS 首次初始化时使用。这切断了长期以来「本地旧数据把 NAS 冲掉」的链路。
+- **新增 `ops/pull-canonical.sh`**：只读地把 NAS 标准库拉回本地用于开发/备份，覆盖前自动备份本地副本。
+- **`scripts/sync-notion.mjs` 改为增量导入**：Notion 从「每 6 小时整体覆盖」变为「导入源」——同 id 更新、Notion 中已删除的条目保留、分类取并集。网页后台编辑保存在 `runtime/place-overrides.json`，读取时叠加，不受同步影响。`source.direction` 改为 `notion-import-into-nas-canonical`。
+
+### 权限：管理员最高编辑权
+
+- **服务端 `PATCH /api/places/:id` 放开所有业务约定类限制**：显示名称、记忆标签、类别、详细描述、电话、官网、营业时间、搜索标签、照片数量均不再有长度/个数上限；请求体上限提升到 2MB。
+- **保留安全底线**：Google 地图域名白名单、URL 协议白名单（`safeHttpUrl`）、图片来源白名单、XSS 转义、origin 校验、限流、审计均不变。
+- 前端编辑表单同步移除 `maxlength`，计数提示上限放大（仅作参考，不阻断）。
+
+### 新增：小红书文案 → 收藏
+
+- **导入 API `POST /api/import/place`**：Bearer `IMPORT_TOKEN` 鉴权（未配置则端点禁用），接收店名/地址/描述/谷歌地图链接/分类/图片/原文链接，复用投稿库与去重逻辑，记录 `imported: true`，不奖励星星。地图链接仍走 Google 域名白名单。
+- **Skill `skills/xhs-to-collection/SKILL.md`**：复用 Hermes 现成的 `agent-reach` / `xhs-archive` 解析小红书链接，再调用导入脚本落库。
+- **脚本 `scripts/import-from-xhs.mjs`**：命令行参数 → POST 导入 API，无外部依赖。
+- 配置：`IMPORT_TOKEN` 加入 `.env.example` 与 `docker-compose.yml`（NAS 上需在 `.env` 设置一个随机值才会启用）。
+
+## v26 — 2026-11-21
+
+修复后台「编辑展示资料」的记忆标签误报，并为编辑表单补齐逐项提示与实时字数。
+
+### 修复
+
+- **记忆标签超过 12 字误报**：`data/places.json` 中 **29 / 150** 条地点的 `memoryKeyword` 本就超过 12 字（最长 73 字，Notion 导入的历史完整备注）。编辑器把它原样预填进输入框，但 `maxlength="12"` 不截断预填值，服务端 `PATCH /api/places/:id` 又以 `> 12` 严格校验，导致管理员什么都没改、只想改电话或营业时间时保存即报「记忆标签请控制在 12 个字内」。
+  - 服务端 `memoryKeyword` 上限由 12 放宽到 **200 字**（远超现有最长 73 字，兼容全部历史数据，不丢内容），仅在真正超长时才拦截。
+  - 所有字段报错文案统一带上**字段名 + 当前字数**，不再出现意义不明的「超过 12 个」，便于定位。
+  - 前端 `editMemory` 的 `maxlength` 同步改为 200。
+
+### 新增
+
+- **逐项输入提示**：编辑表单 10 个字段全部补充 `<small>` 说明（写什么、格式、上限），四语齐全。明确区分「记忆标签」（卡片上那句话，也用于搜索，历史长备注可保留）与「搜索标签」（逗号分隔的多个关键词，限制的是**个数**），解决「不知道哪个标记是什么意思」。
+- **实时字数/计数**：显示名称、记忆标签、类别、详细描述按字数计；搜索标签按个数计；营业时间、照片按行数计。实时更新，超限标红。
+- 版本号统一提升到 v26：`public/index.html`、`public/app.js`、`public/sw.js`、`public/styles.css`。
+
 ## v25 — 2026-11-18
 
 主题、公开分享与资料补齐。

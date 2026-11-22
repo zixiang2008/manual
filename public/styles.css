@@ -44,6 +44,12 @@ dialog{width:min(calc(100% - 20px),720px);max-height:90vh;border:0;border-radius
 
 /* v19 shared community editor */
 .maintained-line{display:inline-flex;margin:0 0 10px;padding:5px 9px;border-radius:99px;background:#edf5ef;color:var(--green);font-size:.67rem;font-weight:800}.actions .edit-place-button{border:1px solid var(--green);border-radius:14px;padding:13px;background:#fff;color:var(--green);font-size:.82rem;font-weight:800}.actions .edit-place-button:active{transform:scale(.98)}.editor-form{padding-bottom:10px}.editor-form small{display:block}.editor-form textarea{line-height:1.55}
+/* v26 编辑表单：逐项提示与实时字数 */
+.editor-form label>b{display:flex;align-items:baseline;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.char-counter{font-size:.68rem;font-weight:750;color:var(--green);background:var(--mint);border-radius:99px;padding:2px 9px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.char-counter.over{color:#fff;background:var(--danger)}
+.editor-form label>small{margin:-2px 0 3px}
+.editor-form input:focus,.editor-form textarea:focus{border-color:#5c8b76;box-shadow:0 0 0 4px rgba(92,139,118,.13)}
 
 /* v21 flat Chiang Mai map — replaces the circular globe shell */
 .globe-stage:not(:fullscreen):not(.pseudo-fullscreen) .globe-shell,

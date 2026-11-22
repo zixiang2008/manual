@@ -10,6 +10,7 @@ services:
       NOTION_PAGE_ID: "${NOTION_PAGE_ID:-299be1e3471d8084bf4dfaca41a024e5}"
       SYNC_INTERVAL_MINUTES: "${SYNC_INTERVAL_MINUTES:-360}"
       GOOGLE_MAPS_API_KEY: "${GOOGLE_MAPS_API_KEY:-}"
+      IMPORT_TOKEN: "${IMPORT_TOKEN:-}"
     volumes:
       - "./runtime:/app/runtime"
       - "./data:/app/data"

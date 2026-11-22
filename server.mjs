@@ -18,6 +18,8 @@ const placeOverridesPath = path.join(runtimeDir, 'place-overrides.json');
 const communityMediaDir = path.join(runtimeDir, 'community-media');
 const auditPath = process.env.AUDIT_LOG || path.join(runtimeDir, 'login-audit.ndjson');
 const googleMapsKey = process.env.GOOGLE_MAPS_API_KEY || '';
+// 外部导入令牌（小红书文案转收藏等自动化）。未配置时该端点禁用，安全默认。
+const importToken = process.env.IMPORT_TOKEN || '';
 fs.mkdirSync(runtimeDir, { recursive: true });
 fs.mkdirSync(communityMediaDir, { recursive: true });
 const attempts = new Map();
@@ -120,19 +122,47 @@ const server = http.createServer(async (req, res) => { try {
     audit('place_contributed', req, { user: s.u, contributionId: id, category, stars: account.stars, showSharer }); if (promoted) audit('coadmin_promoted', req, { user: s.u, stars: account.stars });
     return json(res, 201, { ok: true, item: contributionItem(row), user: publicUser(account), starsAdded: 5, promoted });
   }
+  // ---- 外部导入端点：小红书文案 / bot 自动化转收藏 -------------------------
+  // 调用方（Hermes 的 agent-reach / xhs-archive skill，或 MauosBot 等）先用
+  // skill 解析小红书链接得到正文、地址与谷歌地图链接，再 POST 到这里生成收藏。
+  // 鉴权：Authorization: Bearer <IMPORT_TOKEN>；未配置 IMPORT_TOKEN 时端点禁用。
+  // 安全底线：地图链接走 Google 域名白名单；来源 URL 与图片仅接受 http(s)。
+  if (req.method === 'POST' && u.pathname === '/api/import/place') {
+    if (!importToken || req.headers.authorization !== `Bearer ${importToken}`) return json(res, 401, { error: '导入令牌无效或未配置 IMPORT_TOKEN' });
+    const b = await readBody(req, 2 * 1024 * 1024);
+    const mapsUrl = normalizeMapsUrl(b.mapsUrl), sourceUrl = safeHttpUrl(b.sourceUrl || '');
+    const rawTitle = String(b.title || '').trim(), rawDesc = String(b.description || '').trim();
+    const reasonTag = (String(b.reasonTag || '').trim() || rawTitle || rawDesc).slice(0, 60);
+    const category = String(b.category || '').trim() || '推荐';
+    const placeName = String(b.placeName || b.address || rawTitle).trim() || reasonTag;
+    const photos = (Array.isArray(b.photos) ? b.photos : []).map(x => safeHttpUrl(x)).filter(Boolean).slice(0, 6);
+    if (!mapsUrl) return json(res, 400, { error: '请提供有效的 Google 地图链接（mapsUrl）' });
+    if (!rawTitle && !rawDesc) return json(res, 400, { error: '请提供文案标题或描述' });
+    const rows = readJson(contributionsPath, []), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] });
+    if (rows.some(x => x.status !== 'removed' && normalizeMapsUrl(x.mapsUrl) === mapsUrl) || guide.items.some(x => (x.maps || []).some(link => normalizeMapsUrl(link) === mapsUrl))) return json(res, 409, { error: '这个地点已经收藏，不会重复导入', item: rows.find(x => normalizeMapsUrl(x.mapsUrl) === mapsUrl) ? contributionItem(rows.find(x => normalizeMapsUrl(x.mapsUrl) === mapsUrl)) : null });
+    const id = randomBytes(8).toString('hex'), now = new Date().toISOString();
+    const description = [rawDesc || rawTitle, b.address ? `地址：${String(b.address).trim()}` : '', sourceUrl ? `原文：${sourceUrl}` : ''].filter(Boolean).join('\n\n');
+    const row = { id, mapsUrl, placeName, reasonTag, category, description, showSharer: false, sharerId: 'import', sharerName: '小红书导入', photos, sourceUrl, status: 'active', createdAt: now, imported: true };
+    rows.push(row); writeJson(contributionsPath, rows);
+    audit('place_imported', req, { contributionId: id, source: !!sourceUrl, category });
+    return json(res, 201, { ok: true, item: contributionItem(row) });
+  }
   const editPlaceMatch = u.pathname.match(/^\/api\/places\/([^/]+)$/);
   if (req.method === 'PATCH' && editPlaceMatch) {
     const s = requireEditor(req, res); if (!s) return;
     const placeId = decodeURIComponent(editPlaceMatch[1]), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] }), community = readJson(contributionsPath, []).filter(x => x.status !== 'removed').map(contributionItem), original = [...community, ...guide.items].find(x => x.id === placeId);
     if (!original) return json(res, 404, { error: '地点不存在' });
-    const b = await readBody(req, 100000), displayName = String(b.displayName || '').trim(), memoryKeyword = String(b.memoryKeyword || '').trim(), category = String(b.category || '').trim(), description = String(b.description || '').trim(), phone = String(b.phone || '').trim(), website = String(b.website || '').trim(), mapsUrl = String(b.mapsUrl || '').trim(), openingHours = Array.isArray(b.openingHours) ? b.openingHours.map(x => String(x).trim()).filter(Boolean).slice(0, 14) : String(b.openingHours || '').split('\n').map(x => x.trim()).filter(Boolean).slice(0, 14), tags = Array.isArray(b.tags) ? b.tags.map(x => String(x).trim()).filter(Boolean).slice(0, 6) : String(b.tags || '').split(/[,，]/).map(x => x.trim()).filter(Boolean).slice(0, 6), photos = Array.isArray(b.photos) ? b.photos.map(x => String(x).trim()).filter(x => /^(https:\/\/|\/media\/community\/)/.test(x)).slice(0, 3) : [];
-    if (characterCount(displayName) < 1 || characterCount(displayName) > 100) return json(res, 400, { error: '显示名称需要 1-100 个字' });
-    if (characterCount(memoryKeyword) > 12) return json(res, 400, { error: '记忆标签请控制在 12 个字内' });
-    if (characterCount(category) < 1 || characterCount(category) > 8) return json(res, 400, { error: '类别需要 1-8 个字' });
-    if (characterCount(description) > 1200) return json(res, 400, { error: '详细描述请控制在 1200 字内' });
-    if (website && !/^https:\/\//i.test(website)) return json(res, 400, { error: '官网需要以 https:// 开头' });
-    if (mapsUrl && !normalizeMapsUrl(mapsUrl)) return json(res, 400, { error: '请填写有效的 Google 地图地址' });
-    const now = new Date().toISOString(), overrides = readJson(placeOverridesPath, {}), row = { displayName, memoryKeyword, category, description, tags, phone: phone.slice(0, 40), website: website.slice(0, 500), mapsUrl: mapsUrl ? normalizeMapsUrl(mapsUrl) : '', openingHours, photos, updatedAt: now, updatedBy: s.u, updatedByName: s.account.name };
+    // v27：管理员/联合管理员在网页后台拥有最高编辑权。
+    // 放开所有「业务约定」类限制（字数、个数、类别长度、电话/官网长度、照片数量），
+    // 只保留「安全底线」：请求体大小、URL 协议白名单、Google 地图域名白名单、
+    // 图片来源白名单、XSS 转义（输出层）、origin 校验、限流。
+    const b = await readBody(req, 2 * 1024 * 1024), displayName = String(b.displayName ?? '').trim(), memoryKeyword = String(b.memoryKeyword ?? '').trim(), category = String(b.category ?? '').trim(), description = String(b.description ?? '').trim(), phone = String(b.phone ?? '').trim(), website = String(b.website ?? '').trim(), mapsUrl = String(b.mapsUrl ?? '').trim(), openingHours = Array.isArray(b.openingHours) ? b.openingHours.map(x => String(x).trim()).filter(Boolean) : String(b.openingHours ?? '').split('\n').map(x => x.trim()).filter(Boolean), tags = Array.isArray(b.tags) ? b.tags.map(x => String(x).trim()).filter(Boolean) : String(b.tags ?? '').split(/[,，]/).map(x => x.trim()).filter(Boolean), photos = Array.isArray(b.photos) ? b.photos.map(x => String(x).trim()).filter(x => /^(https:\/\/|\/media\/community\/)/.test(x)) : [];
+    if (characterCount(displayName) < 1) return json(res, 400, { error: '显示名称不能为空' });
+    if (!category) return json(res, 400, { error: '类别不能为空' });
+    // website / mapsUrl / photos 保留协议与域名白名单（安全项，不可放开）：
+    if (website && !safeHttpUrl(website)) return json(res, 400, { error: '官网链接需要是有效的 http(s) 地址' });
+    if (mapsUrl && !normalizeMapsUrl(mapsUrl)) return json(res, 400, { error: '地图地址请填写有效的 Google 地图链接' });
+    const now = new Date().toISOString(), overrides = readJson(placeOverridesPath, {}), row = { displayName, memoryKeyword, category, description, tags, phone, website: website ? safeHttpUrl(website) : '', mapsUrl: mapsUrl ? normalizeMapsUrl(mapsUrl) : '', openingHours, photos, updatedAt: now, updatedBy: s.u, updatedByName: s.account.name };
     overrides[placeId] = row; writeJson(placeOverridesPath, overrides); audit('place_display_updated', req, { user: s.u, placeId, category });
     return json(res, 200, { ok: true, item: applyPlaceOverride(original, row) });
   }
