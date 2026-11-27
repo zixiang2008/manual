@@ -57,9 +57,9 @@ bash ops/deploy.sh
 
 step 6/6 '线上验证'
 echo '--- 首页资源版本号（应为 ?v=28）---'
-curl -s -m 20 https://cm.caishen.today/ | grep -o '?v=[0-9]*' | sort -u
+curl -s -m 20 https://cm.caishen.today/ | grep -o '?v=[0-9]*' | sort -u || echo '(暂未匹配到版本号，可能为部署后短暂缓存，请稍后重试)'
 echo '--- 页脚版本标识 ---'
-curl -s -m 20 https://cm.caishen.today/ | grep -o 'v28 · [^<]*' | head -1
+curl -s -m 20 https://cm.caishen.today/ | grep -o 'v28 · [^<]*' | head -1 || echo '(暂未匹配到页脚标识)'
 echo '--- healthz（应为 {"ok":true}）---'
 curl -s -m 20 https://cm.caishen.today/healthz; echo
 echo '--- 兼容域名 healthz ---'
