@@ -2,6 +2,25 @@
 
 清迈生活手册（Chiang Mai Life Guide）版本记录。线上版本与 Service Worker 缓存名保持一致（`cm-life-vN`）。
 
+## v28 — 2026-11-27
+
+修复分享地点检索问题，新增管理员可见、可配置的 MausBot 自动导入接口。
+
+### 分享地点可搜索、可定位
+
+- 分享/Bot 导入的地点不再以「原因 // 名称 // 类别」拼接标题，而是使用真实地点名做 `name/displayName/title`。
+- 新增可选「地点名称」输入，短 Google Maps 链接无法解析店名时可由分享者补齐。
+- 服务端解析 `/place/...`、链接坐标与查询词，写入 `searchText` 与 `location`；前端搜索覆盖名称、记忆标签、地址、描述、externalId 等字段。
+- 分享成功后清空搜索框并切到列表视图，新地点立即出现在列表顶部；社区地点请求 live 信息时返回明确的 `community_place` 状态而非 404。
+
+### MausBot / Hermes 自动导入
+
+- 新主端点 `POST /api/bot/places`，旧端点 `POST /api/import/place` 兼容；新增 `GET /api/bot/status` 供 Bot 自检。
+- 鉴权支持 `Authorization: Bearer <token>` 与 `X-Bot-Token: <token>`；令牌可来自环境变量 `IMPORT_TOKEN`，也可由管理员在后台直接设置/轮换（runtime 令牌优先，无需重新部署）。
+- 支持 `placeName/address/reasonTag/category/photos/sourceUrl/externalId`；同一 `mapsUrl` 或 `externalId` 返回 409 并附带已存在地点，避免重复收藏。
+- 管理后台新增「Bot 自动导入」区块：两位管理员均可查看端点、状态、掩码/完整令牌、最近导入记录，并保存/轮换/停用令牌；所有操作写入审计。
+- 测试覆盖：Bot 导入、幂等、令牌校验、普通用户禁止查看、两位管理员均可查看、短链接分享检索。
+
 ## v27 — 2026-11-21
 
 数据源统一到 NAS、放开管理员编辑权限、新增小红书文案转收藏能力。

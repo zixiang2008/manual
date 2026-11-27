@@ -321,7 +321,8 @@ Open `http://127.0.0.1:3000`. Generate a PIN hash with `npm run hash-pin -- 1234
 | `NOTION_TOKEN` | Read access to the shared Notion source |
 | `SYNC_INTERVAL_MINUTES` | One-way sync interval |
 | `GOOGLE_MAPS_API_KEY` | Optional live Google Places fallback |
-| `RUNTIME_DIR` | Persistent users, edits, media and audit data |
+| `IMPORT_TOKEN` | Fallback token for bot imports; can be rotated in the admin console |
+| `RUNTIME_DIR` | Persistent users, edits, media, bot settings and audit data |
 
 Sync, tests and containers:
 
@@ -335,6 +336,32 @@ curl http://127.0.0.1:3010/healthz
 Mount `runtime/` persistently and use HTTPS in production (production session cookies are secure-only).
 
 Layout: `public/` frontend and localization · `server.mjs` auth and APIs · `scripts/` sync and data builders · `data/` publishable snapshots · `demo/` static read-only demo · `test/` integration tests · `ops/` deployment and checks.
+
+---
+
+## Bot / MausBot 自动导入（v28）
+
+两位管理员登录后打开「管理后台 → Bot 自动导入」，可查看接口地址、启用状态、令牌、最近导入记录，并可直接保存/轮换/停用令牌。后台设置的令牌优先于环境变量 `IMPORT_TOKEN`，无需重新部署即可生效。
+
+```bash
+curl -X POST https://cm.caishen.today/api/bot/places \
+  -H 'Content-Type: application/json' \
+  -H 'X-Bot-Token: <token>' \
+  -d '{
+    "mapsUrl": "https://maps.app.goo.gl/...",
+    "placeName": "店名（短链接无法识别时建议填写）",
+    "title": "小红书文案标题",
+    "description": "文案正文",
+    "category": "咖啡",
+    "externalId": "xhs-note-id",
+    "sourceUrl": "https://www.xiaohongshu.com/explore/..."
+  }'
+```
+
+- 鉴权：`Authorization: Bearer <token>` 或 `X-Bot-Token: <token>`
+- 旧端点 `/api/import/place` 保持兼容；`GET /api/bot/status` 可供 Bot 自检
+- `mapsUrl` 仅接受 Google Maps 域名；同一 `mapsUrl` 或 `externalId` 返回 409 并附带已存在地点，不会重复入库
+- 导入后在手册搜索框输入 `placeName`、原因标签、类别或 externalId 即可找到；分享表单新增「地点名称」用于短链接兜底
 
 ---
 

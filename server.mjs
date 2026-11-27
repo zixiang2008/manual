@@ -15,6 +15,7 @@ const usersPath = path.join(runtimeDir, 'users.json');
 const codesPath = path.join(runtimeDir, 'registration-codes.json');
 const contributionsPath = path.join(runtimeDir, 'place-contributions.json');
 const placeOverridesPath = path.join(runtimeDir, 'place-overrides.json');
+const botSettingsPath = path.join(runtimeDir, 'bot-settings.json');
 const communityMediaDir = path.join(runtimeDir, 'community-media');
 const auditPath = process.env.AUDIT_LOG || path.join(runtimeDir, 'login-audit.ndjson');
 const googleMapsKey = process.env.GOOGLE_MAPS_API_KEY || '';
@@ -29,7 +30,7 @@ initializeStore();
 function readJson(file, fallback) { try { return JSON.parse(fs.readFileSync(file, 'utf8')); } catch { return fallback; } }
 function writeJson(file, value) { const temp = `${file}.${process.pid}.tmp`; fs.writeFileSync(temp, JSON.stringify(value, null, 2), { mode: 0o600 }); fs.renameSync(temp, file); }
 function configuredUsers() { const raw = process.env.PIN_USERS_JSON || fs.readFileSync(path.join(root, 'config', 'users.example.json'), 'utf8'); return JSON.parse(raw); }
-function initializeStore() { const now = new Date().toISOString(); const existing = readJson(usersPath, []); const byId = new Map(existing.map(u => [u.id, u])); for (const user of configuredUsers()) if (!byId.has(user.id)) byId.set(user.id, { ...user, status: user.status || 'active', createdAt: now, source: 'configured', stars: 0 }); writeJson(usersPath, [...byId.values()]); if (!fs.existsSync(codesPath)) writeJson(codesPath, []); if (!fs.existsSync(contributionsPath)) writeJson(contributionsPath, []); if (!fs.existsSync(placeOverridesPath)) writeJson(placeOverridesPath, {}); }
+function initializeStore() { const now = new Date().toISOString(); const existing = readJson(usersPath, []); const byId = new Map(existing.map(u => [u.id, u])); for (const user of configuredUsers()) if (!byId.has(user.id)) byId.set(user.id, { ...user, status: user.status || 'active', createdAt: now, source: 'configured', stars: 0 }); writeJson(usersPath, [...byId.values()]); if (!fs.existsSync(codesPath)) writeJson(codesPath, []); if (!fs.existsSync(contributionsPath)) writeJson(contributionsPath, []); if (!fs.existsSync(placeOverridesPath)) writeJson(placeOverridesPath, {}); if (!fs.existsSync(botSettingsPath)) writeJson(botSettingsPath, { token: '', source: 'none', createdAt: null, updatedAt: null, lastImportAt: null }); }
 function users() { return readJson(usersPath, []); }
 function findUser(id) { return users().find(u => u.id === id); }
 function publicUser(u) { return { id: u.id, name: u.name, admin: !!u.admin, coAdmin: !!u.coAdmin, stars: Number(u.stars || 0), status: u.status || 'active', createdAt: u.createdAt || null, lastLoginAt: u.lastLoginAt || null }; }
@@ -74,8 +75,43 @@ function requireEditor(req, res) { const s = requireAuth(req, res); if (!s) retu
 function loginCookie(token) { return `cm_session=${token}; Path=/; HttpOnly; SameSite=Strict; Max-Age=2592000${process.env.NODE_ENV === 'production' ? '; Secure' : ''}`; }
 function characterCount(value) { return Array.from(String(value || '').trim()).length; }
 function normalizeMapsUrl(value) { try { const url = new URL(String(value || '').trim()); const host = url.hostname.toLowerCase().replace(/^www\./, ''); const allowed = host === 'maps.app.goo.gl' || host === 'goo.gl' || host === 'google.com' || host.endsWith('.google.com'); if (!allowed || (!url.pathname.includes('/maps') && host !== 'maps.app.goo.gl' && host !== 'goo.gl')) return null; url.hash = ''; ['utm_source', 'utm_medium', 'utm_campaign', 'g_st', 'entry'].forEach(key => url.searchParams.delete(key)); return url.toString(); } catch { return null; } }
-function placeNameFromMapsUrl(value) { try { const url = new URL(value), match = decodeURIComponent(url.pathname).match(/\/place\/([^/]+)/); return match ? match[1].replaceAll('+', ' ').trim().slice(0, 80) : ''; } catch { return ''; } }
-function contributionItem(row) { const name = row.placeName || row.reasonTag; return { id: `community-${row.id}`, title: `${row.reasonTag} // ${name} // ${row.category}`, name, displayName: `${row.reasonTag} // ${name} // ${row.category}`, memoryKeyword: row.reasonTag, hint: row.description || row.reasonTag, description: row.description || `朋友推荐：${row.reasonTag}`, category: row.category, detailCategory: row.category, tags: [row.reasonTag, row.category], cover: row.photos?.[0] || null, images: (row.photos || []).slice(1).map(src => ({ src, caption: '朋友分享照片' })), maps: [row.mapsUrl], links: [], blocks: row.description ? [{ type: 'paragraph', text: row.description }] : [], community: true, contributedAt: row.createdAt, contributor: row.showSharer ? { name: row.sharerName } : null }; }
+function placeNameFromMapsUrl(value) { try { const url = new URL(value), decoded = decodeURIComponent(url.pathname.replaceAll('+', ' ')), match = decoded.match(/\/place\/([^/]+)/); if (match) return match[1].trim().slice(0, 120); return String(url.searchParams.get('query') || url.searchParams.get('q') || '').trim().slice(0, 120); } catch { return ''; } }
+function mapsUrlCoordinates(value) { try { const match = new URL(value).pathname.match(/@(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)/); if (!match) return null; const lat = Number(match[1]), lng = Number(match[2]); return Number.isFinite(lat) && Number.isFinite(lng) ? { lat, lng } : null; } catch { return null; } }
+async function resolveMapsPlaceName(mapsUrl, fallback = '') { const direct = placeNameFromMapsUrl(mapsUrl); if (direct) return direct; try { const response = await fetch(mapsUrl, { redirect: 'follow', signal: AbortSignal.timeout(6000), headers: { 'user-agent': 'Mozilla/5.0 (compatible; ChiangMaiLifeBot/1.0)' } }); return placeNameFromMapsUrl(response.url || mapsUrl) || fallback; } catch { return fallback; } }
+function botSettings() { return readJson(botSettingsPath, { token: '', source: 'none', createdAt: null, updatedAt: null, lastImportAt: null }); }
+function botToken() { return String(botSettings().token || importToken || '').trim(); }
+function botTokenSource() { return botSettings().token ? 'runtime' : importToken ? 'env' : 'none'; }
+function maskToken(value) { const text = String(value || ''); return text.length <= 8 ? (text ? '••••' : '') : `${text.slice(0, 4)}…${text.slice(-4)}`; }
+function tokenEqual(a, b) { const x = Buffer.from(String(a || '')), y = Buffer.from(String(b || '')); return x.length === y.length && x.length > 0 && timingSafeEqual(x, y); }
+function requireBotToken(req, res) { const configured = botToken(), supplied = (String(req.headers.authorization || '').match(/^Bearer\s+(.+)$/i) || [])[1] || String(req.headers['x-bot-token'] || '').trim(); if (!configured || !tokenEqual(configured, supplied)) { json(res, 401, { error: 'Bot 令牌无效或未配置' }); return false; } return true; }
+function botOverview() { const settings = botSettings(), configured = botToken(); const rows = readJson(contributionsPath, []).filter(x => x.imported || x.provider === 'bot').slice(-20).reverse().map(x => ({ id: `community-${x.id}`, placeName: x.placeName, reasonTag: x.reasonTag, category: x.category, createdAt: x.createdAt, sourceUrl: x.sourceUrl || '', externalId: x.externalId || '' })); return { configured: !!configured, source: botTokenSource(), token: configured, tokenMasked: maskToken(configured), endpoint: '/api/bot/places', legacyEndpoint: '/api/import/place', statusEndpoint: '/api/bot/status', authHeaders: ['Authorization: Bearer <token>', 'X-Bot-Token: <token>'], requiredFields: ['mapsUrl', 'title 或 description'], optionalFields: ['placeName', 'address', 'reasonTag', 'category', 'photos', 'sourceUrl', 'externalId'], duplicatePolicy: '同一 mapsUrl 或 externalId 返回 409 并附带已存在地点', createdAt: settings.createdAt || null, updatedAt: settings.updatedAt || null, lastImportAt: settings.lastImportAt || null, recentImports: rows }; }
+function contributionItem(row) { const name = String(row.placeName || row.reasonTag || '朋友推荐').slice(0, 120), reason = String(row.reasonTag || '').slice(0, 60), searchText = [name, reason, row.category, row.address, row.description, row.sourceUrl, row.externalId].filter(Boolean).join(' '); return { id: `community-${row.id}`, title: name, name, displayName: name, memoryKeyword: reason, hint: row.description || reason, description: row.description || `朋友推荐：${reason}`, category: row.category, detailCategory: row.category, tags: [...new Set([reason, row.category].filter(Boolean))], cover: row.photos?.[0] || null, images: (row.photos || []).slice(1).map(src => ({ src, caption: '朋友分享照片' })), maps: [row.mapsUrl], links: [], blocks: row.description ? [{ type: 'paragraph', text: row.description }] : [], community: true, location: row.location || mapsUrlCoordinates(row.mapsUrl), address: row.address || '', sourceUrl: row.sourceUrl || '', externalId: row.externalId || '', imported: !!row.imported, provider: row.provider || (row.imported ? 'bot' : ''), searchText, contributedAt: row.createdAt, contributor: row.showSharer ? { name: row.sharerName } : null }; }
+async function importBotPlace(req, res, b) {
+  const mapsUrl = normalizeMapsUrl(b.mapsUrl || b.maps || b.googleMapsUrl), sourceUrl = safeHttpUrl(b.sourceUrl || b.url || '');
+  const rawTitle = String(b.title || b.placeName || '').trim(), rawDesc = String(b.description || b.content || b.text || '').trim();
+  const reasonTag = (String(b.reasonTag || b.tag || '').trim() || rawTitle || rawDesc).slice(0, 60);
+  const category = String(b.category || '推荐').trim().slice(0, 40) || '推荐';
+  const externalId = String(b.externalId || b.id || '').trim().slice(0, 120);
+  const address = String(b.address || '').trim().slice(0, 240);
+  const photos = (Array.isArray(b.photos) ? b.photos : []).map(x => safeHttpUrl(x)).filter(Boolean).slice(0, 6);
+  if (!mapsUrl) return json(res, 400, { error: '请提供有效的 Google 地图链接（mapsUrl）' });
+  if (!rawTitle && !rawDesc) return json(res, 400, { error: '请提供文案标题或描述（title / description）' });
+  const rows = readJson(contributionsPath, []), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] });
+  const byExternal = externalId ? rows.find(x => x.status !== 'removed' && x.externalId === externalId) : null;
+  const byMaps = rows.find(x => x.status !== 'removed' && normalizeMapsUrl(x.mapsUrl) === mapsUrl);
+  const inGuide = guide.items.find(x => (x.maps || []).some(link => normalizeMapsUrl(link) === mapsUrl));
+  if (byExternal || byMaps || inGuide) {
+    audit('bot_import_duplicate', req, { externalId, mapsUrl });
+    return json(res, 409, { error: '这个地点已经收藏，不会重复导入', item: byExternal || byMaps ? contributionItem(byExternal || byMaps) : inGuide });
+  }
+  const id = randomBytes(8).toString('hex'), now = new Date().toISOString(), placeName = String(b.placeName || rawTitle || await resolveMapsPlaceName(mapsUrl, '') || reasonTag).slice(0, 120);
+  const description = [rawDesc || rawTitle, address ? `地址：${address}` : '', sourceUrl ? `原文：${sourceUrl}` : ''].filter(Boolean).join('\n\n');
+  const row = { id, mapsUrl, placeName, address, location: mapsUrlCoordinates(mapsUrl), reasonTag, category, description, showSharer: false, sharerId: 'bot', sharerName: 'MausBot 自动导入', photos, sourceUrl, externalId, status: 'active', createdAt: now, imported: true, provider: 'bot', botName: String(b.botName || 'MausBot').slice(0, 60) };
+  rows.push(row); writeJson(contributionsPath, rows);
+  const settings = botSettings(); settings.lastImportAt = now; settings.updatedAt = now; writeJson(botSettingsPath, settings);
+  audit('bot_place_added', req, { contributionId: id, externalId, category, source: !!sourceUrl });
+  return json(res, 201, { ok: true, duplicate: false, importId: `community-${id}`, item: contributionItem(row) });
+}
 function applyPlaceOverride(item, override) { if (!override) return item; const title = override.displayName || item.displayName || item.name || item.title, photos = override.photos || []; return { ...item, displayName: title, title, name: override.name || item.name, memoryKeyword: override.memoryKeyword || item.memoryKeyword, category: override.category || item.category, detailCategory: override.category || item.detailCategory, tags: override.tags?.length ? override.tags : item.tags, description: override.description || item.description, hint: override.description || item.hint, blocks: override.description ? [{ type: 'paragraph', text: override.description }] : item.blocks, maps: override.mapsUrl ? [override.mapsUrl] : item.maps, cover: photos.length ? photos[0] : item.cover, images: photos.length ? photos.slice(1).map(src => ({ src, caption: '社区维护照片' })) : item.images, contact: { ...(item.contact || {}), phone: override.phone || null, website: override.website || null, openingHours: override.openingHours || [] }, maintainedBy: override.updatedByName || override.updatedBy, maintainedAt: override.updatedAt } }
 function saveContributionPhotos(photos, id) { return (Array.isArray(photos) ? photos : []).slice(0, 3).map((value, index) => { const match = String(value || '').match(/^data:image\/(jpeg|png|webp);base64,([A-Za-z0-9+/=]+)$/); if (!match) throw new Error('照片格式仅支持 JPG、PNG 或 WebP'); const buffer = Buffer.from(match[2], 'base64'); if (!buffer.length || buffer.length > 2.5 * 1024 * 1024) throw new Error('每张照片需小于 2.5MB'); const ext = match[1] === 'jpeg' ? 'jpg' : match[1], filename = `${id}-${index + 1}.${ext}`; fs.writeFileSync(path.join(communityMediaDir, filename), buffer, { mode: 0o600 }); return `/media/community/${filename}`; }); }
 function serve(res, pathname) { let f = pathname === '/' ? 'index.html' : pathname.slice(1); if (f.includes('..')) return false; const full = path.join(root, 'public', f); if (!fs.existsSync(full) || fs.statSync(full).isDirectory()) return false; const ext = path.extname(full).toLowerCase(); const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml', '.png': 'image/png', '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.webp': 'image/webp', '.gif': 'image/gif' }; res.writeHead(200, { 'content-type': types[ext] || 'application/octet-stream', 'cache-control': f === 'sw.js' || ext === '.html' ? 'no-cache' : 'public,max-age=86400', 'x-content-type-options': 'nosniff', 'content-security-policy': "default-src 'self'; img-src 'self' https: data: blob:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-eval'; connect-src 'self' https://tile.openstreetmap.org; worker-src 'self' blob:; child-src 'self' blob:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'" }); fs.createReadStream(full).pipe(res); return true; }
@@ -109,43 +145,32 @@ const server = http.createServer(async (req, res) => { try {
   if (req.method === 'POST' && u.pathname === '/api/contributions') {
     const s = requireAuth(req, res); if (!s) return;
     if (s.account.status === 'restricted') return json(res, 403, { error: '受限账户暂时不能分享地点' });
-    const b = await readBody(req, 9 * 1024 * 1024), mapsUrl = normalizeMapsUrl(b.mapsUrl), reasonTag = String(b.reasonTag || '').trim(), category = String(b.category || '').trim(), description = String(b.description || '').trim(), showSharer = b.showSharer === true;
+    const b = await readBody(req, 9 * 1024 * 1024), mapsUrl = normalizeMapsUrl(b.mapsUrl), reasonTag = String(b.reasonTag || '').trim(), category = String(b.category || '').trim(), description = String(b.description || '').trim(), showSharer = b.showSharer === true, providedName = String(b.placeName || '').trim().slice(0, 120), address = String(b.address || '').trim().slice(0, 240);
     if (!mapsUrl) return json(res, 400, { error: '请填写有效的 Google 地图地址' });
     if (characterCount(reasonTag) < 1 || characterCount(reasonTag) > 8) return json(res, 400, { error: '推荐原因请写成 1-8 个字的短标签' });
     if (characterCount(category) < 1 || characterCount(category) > 4) return json(res, 400, { error: '类别需要 1-4 个字' });
     if (characterCount(description) > 500) return json(res, 400, { error: '详细描述请控制在 500 字以内' });
     const rows = readJson(contributionsPath, []), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] });
     if (rows.some(x => x.status !== 'removed' && normalizeMapsUrl(x.mapsUrl) === mapsUrl) || guide.items.some(x => (x.maps || []).some(link => normalizeMapsUrl(link) === mapsUrl))) return json(res, 409, { error: '这个地点已经收藏，不会重复计星' });
-    const id = randomBytes(8).toString('hex'), photos = saveContributionPhotos(b.photos, id), now = new Date().toISOString(), row = { id, mapsUrl, placeName: placeNameFromMapsUrl(mapsUrl) || reasonTag, reasonTag, category, description, showSharer, sharerId: s.u, sharerName: s.account.name, photos, status: 'active', createdAt: now };
+    const id = randomBytes(8).toString('hex'), photos = saveContributionPhotos(b.photos, id), now = new Date().toISOString(), placeName = providedName || await resolveMapsPlaceName(mapsUrl, reasonTag), row = { id, mapsUrl, placeName, address, location: mapsUrlCoordinates(mapsUrl), reasonTag, category, description, showSharer, sharerId: s.u, sharerName: s.account.name, photos, status: 'active', createdAt: now, provider: 'user' };
     rows.push(row); writeJson(contributionsPath, rows);
     const list = users(), account = list.find(x => x.id === s.u); account.stars = Number(account.stars || 0) + 5; let promoted = false; if (account.stars >= 30 && !account.admin) { account.admin = true; account.coAdmin = true; account.promotedAt = now; promoted = true; } account.updatedAt = now; writeJson(usersPath, list);
     audit('place_contributed', req, { user: s.u, contributionId: id, category, stars: account.stars, showSharer }); if (promoted) audit('coadmin_promoted', req, { user: s.u, stars: account.stars });
     return json(res, 201, { ok: true, item: contributionItem(row), user: publicUser(account), starsAdded: 5, promoted });
   }
-  // ---- 外部导入端点：小红书文案 / bot 自动化转收藏 -------------------------
-  // 调用方（Hermes 的 agent-reach / xhs-archive skill，或 MauosBot 等）先用
-  // skill 解析小红书链接得到正文、地址与谷歌地图链接，再 POST 到这里生成收藏。
-  // 鉴权：Authorization: Bearer <IMPORT_TOKEN>；未配置 IMPORT_TOKEN 时端点禁用。
-  // 安全底线：地图链接走 Google 域名白名单；来源 URL 与图片仅接受 http(s)。
-  if (req.method === 'POST' && u.pathname === '/api/import/place') {
-    if (!importToken || req.headers.authorization !== `Bearer ${importToken}`) return json(res, 401, { error: '导入令牌无效或未配置 IMPORT_TOKEN' });
+  // ---- Bot / 外部导入端点：小红书文案与 MausBot 自动添加 -------------------
+  // 主端点 /api/bot/places，旧端点 /api/import/place 保留兼容。
+  // 鉴权：Authorization: Bearer <token> 或 X-Bot-Token: <token>。
+  // token 优先取管理后台设置的 runtime token，其次取环境变量 IMPORT_TOKEN。
+  // 安全底线：Google 地图域名白名单、http(s) 图片白名单、请求体限制、审计。
+  if (req.method === 'POST' && (u.pathname === '/api/bot/places' || u.pathname === '/api/import/place')) {
+    if (!requireBotToken(req, res)) return;
     const b = await readBody(req, 2 * 1024 * 1024);
-    const mapsUrl = normalizeMapsUrl(b.mapsUrl), sourceUrl = safeHttpUrl(b.sourceUrl || '');
-    const rawTitle = String(b.title || '').trim(), rawDesc = String(b.description || '').trim();
-    const reasonTag = (String(b.reasonTag || '').trim() || rawTitle || rawDesc).slice(0, 60);
-    const category = String(b.category || '').trim() || '推荐';
-    const placeName = String(b.placeName || b.address || rawTitle).trim() || reasonTag;
-    const photos = (Array.isArray(b.photos) ? b.photos : []).map(x => safeHttpUrl(x)).filter(Boolean).slice(0, 6);
-    if (!mapsUrl) return json(res, 400, { error: '请提供有效的 Google 地图链接（mapsUrl）' });
-    if (!rawTitle && !rawDesc) return json(res, 400, { error: '请提供文案标题或描述' });
-    const rows = readJson(contributionsPath, []), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] });
-    if (rows.some(x => x.status !== 'removed' && normalizeMapsUrl(x.mapsUrl) === mapsUrl) || guide.items.some(x => (x.maps || []).some(link => normalizeMapsUrl(link) === mapsUrl))) return json(res, 409, { error: '这个地点已经收藏，不会重复导入', item: rows.find(x => normalizeMapsUrl(x.mapsUrl) === mapsUrl) ? contributionItem(rows.find(x => normalizeMapsUrl(x.mapsUrl) === mapsUrl)) : null });
-    const id = randomBytes(8).toString('hex'), now = new Date().toISOString();
-    const description = [rawDesc || rawTitle, b.address ? `地址：${String(b.address).trim()}` : '', sourceUrl ? `原文：${sourceUrl}` : ''].filter(Boolean).join('\n\n');
-    const row = { id, mapsUrl, placeName, reasonTag, category, description, showSharer: false, sharerId: 'import', sharerName: '小红书导入', photos, sourceUrl, status: 'active', createdAt: now, imported: true };
-    rows.push(row); writeJson(contributionsPath, rows);
-    audit('place_imported', req, { contributionId: id, source: !!sourceUrl, category });
-    return json(res, 201, { ok: true, item: contributionItem(row) });
+    return importBotPlace(req, res, b);
+  }
+  if (req.method === 'GET' && u.pathname === '/api/bot/status') {
+    if (!requireBotToken(req, res)) return;
+    return json(res, 200, { ok: true, endpoint: '/api/bot/places', source: botTokenSource(), tokenMasked: maskToken(botToken()) });
   }
   const editPlaceMatch = u.pathname.match(/^\/api\/places\/([^/]+)$/);
   if (req.method === 'PATCH' && editPlaceMatch) {
@@ -170,8 +195,9 @@ const server = http.createServer(async (req, res) => { try {
   if (req.method === 'GET' && livePlaceMatch) {
     const s = requireAuth(req, res); if (!s) return;
     if (s.account.status === 'restricted') return json(res, 403, { error: '当前账户无法查看外部地点信息' });
-    const placeId = decodeURIComponent(livePlaceMatch[1]), guide = readJson(path.join(root, 'data', 'places.json'), { items: [] }), item = guide.items.find(x => x.id === placeId);
+    const placeId = decodeURIComponent(livePlaceMatch[1]), item = allPlaces().find(x => x.id === placeId);
     if (!item) return json(res, 404, { error: '地点不存在' });
+    if (item.community) return json(res, 200, { available: false, reason: 'community_place' });
     const browserCache = readJson(path.join(root, 'data', 'google-maps-cache.json'), { items: {} }).items?.[placeId];
     if (browserCache?.unavailable || browserCache?.error) return json(res, 200, { available: false, reason: browserCache.reason || 'browser_snapshot_unavailable' });
     if (browserCache) return json(res, 200, { available: true, provider: 'Google Maps browser snapshot', place: { id: browserCache.placeId || placeId, displayName: { text: browserCache.name || item.displayName || item.name }, formattedAddress: browserCache.address || null, nationalPhoneNumber: browserCache.phone || null, regularOpeningHours: browserCache.openingHours?.length ? { weekdayDescriptions: browserCache.openingHours } : null, websiteUri: browserCache.website || null, googleMapsUri: browserCache.googleMapsUrl || item.maps?.[0] || null, reservable: browserCache.reservable ?? null, photos: (browserCache.photos || []).slice(0, 3).map(url => ({ url, googleMapsUri: browserCache.googleMapsUrl || item.maps?.[0] || null, authorAttributions: [] })) } });
@@ -195,7 +221,10 @@ const server = http.createServer(async (req, res) => { try {
     res.writeHead(200, { 'content-type': upstream.headers.get('content-type') || 'image/jpeg', 'cache-control': 'private,no-store', 'x-content-type-options': 'nosniff' });
     Readable.fromWeb(upstream.body).pipe(res); return;
   }
-  if (req.method === 'GET' && u.pathname === '/api/admin/overview') { const s = requireAuth(req, res, true); if (!s) return; const codes = readJson(codesPath, []).map(({ codeHash, codeCipher, ...c }) => ({ ...c, code: decryptCode(codeCipher) })); return json(res, 200, { users: users().map(publicUser), codes, contributions: readJson(contributionsPath, []), audit: auditRows(Number(u.searchParams.get('limit') || 300)) }); }
+  if (req.method === 'GET' && u.pathname === '/api/admin/overview') { const s = requireAuth(req, res, true); if (!s) return; const codes = readJson(codesPath, []).map(({ codeHash, codeCipher, ...c }) => ({ ...c, code: decryptCode(codeCipher) })); return json(res, 200, { users: users().map(publicUser), codes, contributions: readJson(contributionsPath, []), bot: botOverview(), audit: auditRows(Number(u.searchParams.get('limit') || 300)) }); }
+  if (req.method === 'GET' && u.pathname === '/api/admin/bot/settings') { const s = requireAuth(req, res, true); if (!s) return; return json(res, 200, botOverview()); }
+  if (req.method === 'POST' && u.pathname === '/api/admin/bot/token') { const s = requireAuth(req, res, true); if (!s) return; const b = await readBody(req), token = String(b.token || randomBytes(24).toString('hex')).trim(); if (token.length < 8 || token.length > 128) return json(res, 400, { error: 'Bot 令牌需为 8–128 个字符' }); const settings = botSettings(), now = new Date().toISOString(); settings.token = token; settings.source = 'runtime'; settings.createdAt = settings.createdAt || now; settings.updatedAt = now; writeJson(botSettingsPath, settings); audit('bot_token_rotated', req, { user: s.u }); return json(res, 200, botOverview()); }
+  if (req.method === 'POST' && u.pathname === '/api/admin/bot/disable') { const s = requireAuth(req, res, true); if (!s) return; const settings = botSettings(), now = new Date().toISOString(); settings.token = ''; settings.source = 'none'; settings.updatedAt = now; writeJson(botSettingsPath, settings); audit('bot_disabled', req, { user: s.u }); return json(res, 200, botOverview()); }
   if (req.method === 'POST' && u.pathname === '/api/admin/codes') { const s = requireAuth(req, res, true); if (!s) return; const b = await readBody(req), maxUses = Math.max(1, Math.min(100, Number(b.maxUses || 1))), style = b.style === 'en' ? 'en' : 'zh', plain = memorableCode(style), codes = readJson(codesPath, []), row = { id: randomBytes(8).toString('hex'), label: String(b.label || '').trim().slice(0, 40) || '朋友授权码', style, codeHash: hashSecret(plain), codeCipher: encryptCode(plain), active: true, used: 0, maxUses, createdAt: new Date().toISOString(), createdBy: s.u }; codes.push(row); writeJson(codesPath, codes); audit('registration_code_created', req, { user: s.u, codeId: row.id, maxUses, style }); return json(res, 201, { code: plain, item: (({ codeHash, codeCipher, ...x }) => x)(row) }); }
   if (req.method === 'POST' && u.pathname === '/api/admin/codes/manual') {
     const s = requireAuth(req, res, true); if (!s) return;

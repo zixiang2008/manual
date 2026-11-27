@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // 把小红书解析结果导入清迈生活手册收藏库。
 // 用法见 skills/xhs-to-collection/SKILL.md
-// 环境变量：IMPORT_TOKEN（必需，与服务端一致）；CM_BASE（可选，默认 https://cm.caishen.today）
+// 环境变量：IMPORT_TOKEN 或 CM_BOT_TOKEN（必需，与后台/服务端令牌一致）；CM_BASE（可选，默认 https://cm.caishen.today）
 import process from 'node:process';
 
 const args = process.argv.slice(2);
@@ -11,9 +11,9 @@ const get = (name, fallback = '') => {
 };
 
 const base = (process.env.CM_BASE || 'https://cm.caishen.today').replace(/\/$/, '');
-const token = process.env.IMPORT_TOKEN || '';
+const token = process.env.CM_BOT_TOKEN || process.env.IMPORT_TOKEN || '';
 
-if (!token) { console.error('缺少 IMPORT_TOKEN 环境变量'); process.exit(2); }
+if (!token) { console.error('缺少 IMPORT_TOKEN / CM_BOT_TOKEN 环境变量'); process.exit(2); }
 if (args.includes('--help') || args.includes('-h')) {
   console.log(`用法: node scripts/import-from-xhs.mjs --title '店名' --maps 'Google地图链接' [选项]
   --title    店名 / 标题（必填，除非提供 --desc）
@@ -23,7 +23,9 @@ if (args.includes('--help') || args.includes('-h')) {
   --category 分类（默认 推荐）
   --photos   图片 URL，多个用英文逗号分隔（最多 6 张）
   --source   小红书原文链接（溯源用）
-  --reason   推荐原因短标签（默认取标题）`);
+  --reason   推荐原因短标签（默认取标题）
+  --place-name 地点名称（短链接无法识别时务必填写）
+  --external-id 笔记/外部 ID（用于幂等去重）`);
   process.exit(0);
 }
 
@@ -35,6 +37,8 @@ const payload = {
   category: get('--category', '推荐'),
   reasonTag: get('--reason'),
   sourceUrl: get('--source'),
+  placeName: get('--place-name'),
+  externalId: get('--external-id'),
   photos: get('--photos').split(',').map(x => x.trim()).filter(Boolean),
 };
 
@@ -42,7 +46,7 @@ if (!payload.mapsUrl) { console.error('缺少 --maps（Google 地图链接）');
 if (!payload.title && !payload.description) { console.error('至少提供 --title 或 --desc'); process.exit(2); }
 
 try {
-  const res = await fetch(`${base}/api/import/place`, {
+  const res = await fetch(`${base}/api/bot/places`, {
     method: 'POST',
     headers: { 'content-type': 'application/json', authorization: `Bearer ${token}` },
     body: JSON.stringify(payload),

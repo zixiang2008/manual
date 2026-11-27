@@ -16,8 +16,8 @@ description: 把小红书笔记链接（含详细地址 + 谷歌地图链接）�
    - `agent-reach`（MUST USE when 用户提到小红书/xhs 或分享 URL）——打开笔记链接、读取正文与图片。
    - `xhs-archive`——需要逐篇提取笔记详情/字幕时可用。
    - 若在当前环境不可用，退而用公开的 XHS 解析工具（如 XHS-Downloader）或让用户直接粘贴正文。
-2. **导入令牌**：手册服务端需配置环境变量 `IMPORT_TOKEN`（一个随机密钥）。未配置时导入端点关闭。
-3. **调用脚本**：`scripts/import-from-xhs.mjs`（本目录同级的上级 scripts/），需设置环境变量 `CM_BASE`（默认 https://cm.caishen.today）与 `IMPORT_TOKEN`。
+2. **导入令牌**：优先使用管理员后台「Bot 自动导入」里设置/轮换的 runtime 令牌；也可回退到服务端环境变量 `IMPORT_TOKEN`。两者都为空时导入端点关闭。后台令牌无需重新部署即可生效，且优先于环境变量。
+3. **调用脚本**：`scripts/import-from-xhs.mjs`（本目录同级的上级 scripts/），需设置环境变量 `CM_BASE`（默认 https://cm.caishen.today）与 `IMPORT_TOKEN`（与后台/环境变量令牌一致）。
 
 ## 流程
 
@@ -50,7 +50,7 @@ node scripts/import-from-xhs.mjs \
   --source 'https://www.xiaohongshu.com/explore/xxxx'
 ```
 
-脚本会 `POST {CM_BASE}/api/import/place`，用 Bearer token 鉴权。返回 201 表示已收藏；409 表示重复（已收藏过）。
+脚本会 `POST {CM_BASE}/api/bot/places`（旧端点 `/api/import/place` 兼容），用 Bearer token 或 `X-Bot-Token` 鉴权。返回 201 表示已收藏；409 表示重复（已收藏过），并附带已存在地点。建议传入 `--place-name`，短链接无法解析店名时尤其重要。
 
 ### 第 3 步：反馈
 
@@ -65,6 +65,6 @@ node scripts/import-from-xhs.mjs \
 
 ## 相关文件
 
-- 服务端导入端点：`server.mjs` 中 `POST /api/import/place`
-- 导入脚本：`scripts/import-from-xhs.mjs`
-- 鉴权令牌：服务端 `IMPORT_TOKEN` 环境变量
+- 服务端导入端点：`server.mjs` 中 `POST /api/bot/places`（旧端点 `POST /api/import/place` 兼容）
+- 导入脚本：`scripts/import-from-xhs.mjs`（支持 `--place-name` 与 `--external-id`）
+- 鉴权令牌：管理后台「Bot 自动导入」设置的 runtime 令牌，或服务端 `IMPORT_TOKEN` 环境变量（后台优先）
